@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+#is_a_/Place  
+#is_a_ :: [[Place]] 
 [has_place_longitude::11.62] 
 [has_place_latitude::48.9] 
 [name::Sandersdorf] 

@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+#is_a_/Place  
+#is_a_ :: [[Place]] 
 [has_place_longitude::10.02] 
 [has_place_latitude::49.83] 
 [name::Estenfeld] 
