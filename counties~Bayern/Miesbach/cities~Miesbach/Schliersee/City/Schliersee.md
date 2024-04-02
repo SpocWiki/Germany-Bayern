@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.87] 
-[geo-lat::47.75] 
+[has_place_longitude::11.87] 
+[has_place_latitude::47.75] 
 [name::Schliersee] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.78] 
-[geo-lat::48] 
+[has_place_longitude::10.78] 
+[has_place_latitude::48] 
 [name::Waal] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

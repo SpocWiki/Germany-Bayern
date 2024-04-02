@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.98] 
-[geo-lat::48.88] 
+[has_place_longitude::10.98] 
+[has_place_latitude::48.88] 
 [name::Solnhofen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

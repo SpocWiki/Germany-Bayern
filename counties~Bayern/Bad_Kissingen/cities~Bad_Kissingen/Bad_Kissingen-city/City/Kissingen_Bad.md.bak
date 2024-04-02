@@ -7,16 +7,16 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: [31471,31472]
+SpocWebEntityId: 31472
 isDeleted: false
 confidential: public
 
 ---
-[has_place_longitude::10.07] 
-[has_place_latitude::50.2] 
+[geo-lon::10.07] 
+[geo-lat::50.2] 
 [name::Kissingen Bad] 
-has_place_country:: [[Germany]]  
-has_place_province:: [[Bayern]]  
+Country :: [[Germany]]  
+State :: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

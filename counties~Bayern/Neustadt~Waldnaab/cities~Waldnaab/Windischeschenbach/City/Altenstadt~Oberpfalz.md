@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17] 
-[geo-lat::49.8] 
+[has_place_longitude::12.17] 
+[has_place_latitude::49.8] 
 [name::Altenstadt~Oberpfalz] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

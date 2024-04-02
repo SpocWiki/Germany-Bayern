@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.23] 
-[geo-lat::49.55] 
+[has_place_longitude::10.23] 
+[has_place_latitude::49.55] 
 [name::Uffenheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

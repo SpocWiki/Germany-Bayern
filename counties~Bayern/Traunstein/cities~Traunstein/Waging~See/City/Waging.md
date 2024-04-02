@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.73] 
-[geo-lat::47.93] 
+[has_place_longitude::12.73] 
+[has_place_latitude::47.93] 
 [name::Waging] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.58] 
-[geo-lat::49.9] 
+[has_place_longitude::9.58] 
+[has_place_latitude::49.9] 
 [name::Rothenfels] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

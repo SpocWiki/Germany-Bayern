@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.75] 
-[geo-lat::49.25] 
+[has_place_longitude::12.75] 
+[has_place_latitude::49.25] 
 [name::Kothmaissling] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

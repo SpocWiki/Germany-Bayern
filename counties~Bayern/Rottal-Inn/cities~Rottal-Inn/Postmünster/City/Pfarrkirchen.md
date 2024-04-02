@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92] 
-[geo-lat::48.4] 
+[has_place_longitude::12.92] 
+[has_place_latitude::48.4] 
 [name::Pfarrkirchen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

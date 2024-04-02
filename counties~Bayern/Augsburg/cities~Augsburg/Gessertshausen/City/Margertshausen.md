@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.72] 
-[geo-lat::48.32] 
+[has_place_longitude::10.72] 
+[has_place_latitude::48.32] 
 [name::Margertshausen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

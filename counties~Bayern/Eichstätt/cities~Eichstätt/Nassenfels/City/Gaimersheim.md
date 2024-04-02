@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.18] 
-[geo-lat::48.8] 
+[has_place_longitude::11.18] 
+[has_place_latitude::48.8] 
 [name::Gaimersheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

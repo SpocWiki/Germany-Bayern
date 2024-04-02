@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.4] 
-[geo-lat::48.43] 
+[has_place_longitude::10.4] 
+[has_place_latitude::48.43] 
 [name::Burgau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

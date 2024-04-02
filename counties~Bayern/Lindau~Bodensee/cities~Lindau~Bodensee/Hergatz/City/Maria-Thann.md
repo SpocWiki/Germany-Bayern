@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.9] 
-[geo-lat::47.65] 
+[has_place_longitude::9.9] 
+[has_place_latitude::47.65] 
 [name::Maria-Thann] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

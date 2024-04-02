@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.28] 
-[geo-lat::48.82] 
+[has_place_longitude::11.28] 
+[has_place_latitude::48.82] 
 [name::Tauberfeld] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

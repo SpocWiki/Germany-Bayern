@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.93] 
-[geo-lat::49.79] 
+[has_place_longitude::9.93] 
+[has_place_latitude::49.79] 
 [name::Wuerzburg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

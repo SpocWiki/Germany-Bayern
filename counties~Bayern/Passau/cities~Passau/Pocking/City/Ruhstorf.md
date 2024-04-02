@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.35] 
-[geo-lat::48.43] 
+[has_place_longitude::13.35] 
+[has_place_latitude::48.43] 
 [name::Ruhstorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

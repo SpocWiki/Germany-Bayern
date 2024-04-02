@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.37] 
-[geo-lat::47.67] 
+[has_place_longitude::11.37] 
+[has_place_latitude::47.67] 
 [name::Kochel] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

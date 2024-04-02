@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.03] 
-[geo-lat::49.38] 
+[has_place_longitude::11.03] 
+[has_place_latitude::49.38] 
 [name::Reichelsdorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

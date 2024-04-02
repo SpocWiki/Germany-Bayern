@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.97] 
-[geo-lat::47.88] 
+[has_place_longitude::12.97] 
+[has_place_latitude::47.88] 
 [name::Surheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]] ] 
 [Population::] 
 [Unknown::] 
 

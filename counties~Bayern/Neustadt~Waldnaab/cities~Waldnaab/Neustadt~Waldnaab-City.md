@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.17] 
-[geo-lat::49.73] 
+[has_place_longitude::12.17] 
+[has_place_latitude::49.73] 
 [name::Neustadt an der Waldnaab] 
-Country :: [[Germany]]  
-State :: [[Bayern]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]] ] 
 [Population::] 
 [Unknown::] 
 

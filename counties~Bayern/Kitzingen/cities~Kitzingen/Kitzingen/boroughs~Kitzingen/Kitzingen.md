@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.16] 
-[geo-lat::49.73] 
+[has_place_longitude::10.16] 
+[has_place_latitude::49.73] 
 [name::Kitzingen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.32] 
-[geo-lat::48.35] 
+[has_place_longitude::13.32] 
+[has_place_latitude::48.35] 
 [name::Pocking] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

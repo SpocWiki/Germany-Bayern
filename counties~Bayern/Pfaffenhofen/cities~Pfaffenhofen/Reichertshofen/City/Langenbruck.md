@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.52] 
-[geo-lat::48.63] 
+[has_place_longitude::11.52] 
+[has_place_latitude::48.63] 
 [name::Langenbruck] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

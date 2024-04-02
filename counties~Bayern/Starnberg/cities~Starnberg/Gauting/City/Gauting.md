@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.38] 
-[geo-lat::48.08] 
+[has_place_longitude::11.38] 
+[has_place_latitude::48.08] 
 [name::Gauting] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

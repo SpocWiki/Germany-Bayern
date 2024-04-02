@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.07] 
-[geo-lat::48.23] 
+[has_place_longitude::12.07] 
+[has_place_latitude::48.23] 
 [name::Lengdorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

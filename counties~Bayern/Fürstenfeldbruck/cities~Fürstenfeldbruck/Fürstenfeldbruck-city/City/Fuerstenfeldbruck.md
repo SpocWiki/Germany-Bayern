@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.26] 
-[geo-lat::48.18] 
+[has_place_longitude::11.26] 
+[has_place_latitude::48.18] 
 [name::Fuerstenfeldbruck] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.3] 
-[geo-lat::49.12] 
+[has_place_longitude::10.3] 
+[has_place_latitude::49.12] 
 [name::Schopfloch] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

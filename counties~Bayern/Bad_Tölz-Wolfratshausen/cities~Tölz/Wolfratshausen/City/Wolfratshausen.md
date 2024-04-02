@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.42] 
-[geo-lat::47.92] 
+[has_place_longitude::11.42] 
+[has_place_latitude::47.92] 
 [name::Wolfratshausen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

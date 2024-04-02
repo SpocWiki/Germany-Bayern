@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.35] 
-[geo-lat::50.37] 
+[has_place_longitude::11.35] 
+[has_place_latitude::50.37] 
 [name::Rothenkirchen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

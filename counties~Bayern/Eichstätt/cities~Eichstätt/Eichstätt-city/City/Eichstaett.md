@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.2] 
-[geo-lat::48.9] 
+[has_place_longitude::11.2] 
+[has_place_latitude::48.9] 
 [name::Eichstaett] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.43] 
-[geo-lat::48.45] 
+[has_place_longitude::13.43] 
+[has_place_latitude::48.45] 
 [name::Schaerding] 
-State ::  
-Country :: [[Austria]]  
+has_place_province::  
+has_place_country:: [[Austria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

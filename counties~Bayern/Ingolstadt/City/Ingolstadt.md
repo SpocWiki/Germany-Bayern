@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.43] 
-[geo-lat::48.76] 
+[has_place_longitude::11.43] 
+[has_place_latitude::48.76] 
 [name::Ingolstadt] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

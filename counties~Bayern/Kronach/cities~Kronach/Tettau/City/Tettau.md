@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.25] 
-[geo-lat::50.47] 
+[has_place_longitude::11.25] 
+[has_place_latitude::50.47] 
 [name::Tettau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.5] 
-[geo-lat::48.63] 
+[has_place_longitude::10.5] 
+[has_place_latitude::48.63] 
 [name::Bergheim~Dillingen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

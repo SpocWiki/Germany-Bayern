@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.82] 
-[geo-lat::49.62] 
+[has_place_longitude::11.82] 
+[has_place_latitude::49.62] 
 [name::Vilseck] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

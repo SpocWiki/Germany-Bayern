@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.83] 
-[geo-lat::49.93] 
+[has_place_longitude::10.83] 
+[has_place_latitude::49.93] 
 [name::Dieppe] 
-State ::  
-Country :: [[France]]  
+has_place_province::  
+has_place_country:: [[France]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

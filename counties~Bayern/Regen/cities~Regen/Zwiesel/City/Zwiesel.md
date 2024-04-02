@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.23] 
-[geo-lat::49.01] 
+[has_place_longitude::13.23] 
+[has_place_latitude::49.01] 
 [name::Zwiesel] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

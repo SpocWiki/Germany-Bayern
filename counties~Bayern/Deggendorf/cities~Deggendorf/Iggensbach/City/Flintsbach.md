@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.15] 
-[geo-lat::48.72] 
+[has_place_longitude::13.15] 
+[has_place_latitude::48.72] 
 [name::Flintsbach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

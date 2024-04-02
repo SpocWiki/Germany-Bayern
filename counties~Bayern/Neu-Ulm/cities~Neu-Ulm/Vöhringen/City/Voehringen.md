@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.07] 
-[geo-lat::48.28] 
+[has_place_longitude::10.07] 
+[has_place_latitude::48.28] 
 [name::Voehringen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

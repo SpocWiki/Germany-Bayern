@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.32] 
-[geo-lat::49.53] 
+[has_place_longitude::11.32] 
+[has_place_latitude::49.53] 
 [name::Schnaittach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

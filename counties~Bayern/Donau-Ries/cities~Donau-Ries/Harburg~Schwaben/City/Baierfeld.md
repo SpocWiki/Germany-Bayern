@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.75] 
-[geo-lat::48.8] 
+[has_place_longitude::10.75] 
+[has_place_latitude::48.8] 
 [name::Baierfeld] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

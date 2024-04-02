@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.85] 
-[geo-lat::49.9] 
+[has_place_longitude::10.85] 
+[has_place_latitude::49.9] 
 [name::Gaustadt] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

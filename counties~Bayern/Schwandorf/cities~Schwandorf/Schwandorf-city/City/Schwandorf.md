@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.12] 
-[geo-lat::49.33] 
+[has_place_longitude::12.12] 
+[has_place_latitude::49.33] 
 [name::Schwandorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

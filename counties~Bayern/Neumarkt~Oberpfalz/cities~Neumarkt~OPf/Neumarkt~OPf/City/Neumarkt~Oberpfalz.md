@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.48] 
-[geo-lat::49.27] 
+[has_place_longitude::11.48] 
+[has_place_latitude::49.27] 
 [name::Neumarkt~Oberpfalz] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

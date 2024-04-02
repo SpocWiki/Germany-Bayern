@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.15] 
-[geo-lat::49.13] 
+[has_place_longitude::12.15] 
+[has_place_latitude::49.13] 
 [name::Regenstauf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

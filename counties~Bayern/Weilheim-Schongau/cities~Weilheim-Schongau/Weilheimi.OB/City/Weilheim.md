@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.16] 
-[geo-lat::47.83] 
+[has_place_longitude::11.16] 
+[has_place_latitude::47.83] 
 [name::Weilheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

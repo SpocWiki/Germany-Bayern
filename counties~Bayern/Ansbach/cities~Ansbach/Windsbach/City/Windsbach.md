@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.83] 
-[geo-lat::49.25] 
+[has_place_longitude::10.83] 
+[has_place_latitude::49.25] 
 [name::Windsbach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

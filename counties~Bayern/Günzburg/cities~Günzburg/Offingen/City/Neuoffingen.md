@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.33] 
-[geo-lat::48.48] 
+[has_place_longitude::10.33] 
+[has_place_latitude::48.48] 
 [name::Neuoffingen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

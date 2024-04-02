@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.25] 
-[geo-lat::50.35] 
+[has_place_longitude::10.25] 
+[has_place_latitude::50.35] 
 [name::Alter Berg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

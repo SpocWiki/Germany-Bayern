@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11] 
-[geo-lat::48.92] 
+[has_place_longitude::11] 
+[has_place_latitude::48.92] 
 [name::Altheimerdorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

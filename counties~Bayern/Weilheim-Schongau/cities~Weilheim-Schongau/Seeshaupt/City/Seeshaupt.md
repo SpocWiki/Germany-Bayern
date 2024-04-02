@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.3] 
-[geo-lat::47.82] 
+[has_place_longitude::11.3] 
+[has_place_latitude::47.82] 
 [name::Seeshaupt] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

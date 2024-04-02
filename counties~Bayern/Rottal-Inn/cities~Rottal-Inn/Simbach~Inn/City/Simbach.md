@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.03] 
-[geo-lat::48.27] 
+[has_place_longitude::13.03] 
+[has_place_latitude::48.27] 
 [name::Simbach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.78] 
-[geo-lat::48.82] 
+[has_place_longitude::10.78] 
+[has_place_latitude::48.82] 
 [name::Fuenfstetten] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

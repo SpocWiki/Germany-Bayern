@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.23] 
-[geo-lat::50.04] 
+[has_place_longitude::10.23] 
+[has_place_latitude::50.04] 
 [name::Schweinfurt] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

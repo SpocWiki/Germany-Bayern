@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.42] 
-[geo-lat::49.42] 
+[has_place_longitude::10.42] 
+[has_place_latitude::49.42] 
 [name::Oberdachstetten] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

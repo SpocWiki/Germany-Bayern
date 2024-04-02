@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.38] 
-[geo-lat::48.17] 
+[has_place_longitude::12.38] 
+[has_place_latitude::48.17] 
 [name::Jettenbach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

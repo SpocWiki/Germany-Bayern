@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.27] 
-[geo-lat::49.7] 
+[has_place_longitude::9.27] 
+[has_place_latitude::49.7] 
 [name::Miltenberg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

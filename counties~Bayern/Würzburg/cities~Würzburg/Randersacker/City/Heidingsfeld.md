@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.97] 
-[geo-lat::49.77] 
+[has_place_longitude::9.97] 
+[has_place_latitude::49.77] 
 [name::Heidingsfeld] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

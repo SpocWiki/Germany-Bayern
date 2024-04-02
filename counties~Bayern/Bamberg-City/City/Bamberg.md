@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.88] 
-[geo-lat::49.88] 
+[has_place_longitude::10.88] 
+[has_place_latitude::49.88] 
 [name::Bamberg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

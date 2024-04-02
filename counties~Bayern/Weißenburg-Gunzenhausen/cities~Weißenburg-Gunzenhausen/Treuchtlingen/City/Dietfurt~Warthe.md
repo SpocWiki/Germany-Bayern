@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.93] 
-[geo-lat::48.95] 
+[has_place_longitude::10.93] 
+[has_place_latitude::48.95] 
 [name::Dietfurt~Warthe] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

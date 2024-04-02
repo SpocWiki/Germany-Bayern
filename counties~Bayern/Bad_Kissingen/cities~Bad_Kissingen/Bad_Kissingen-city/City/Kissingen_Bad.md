@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -7,19 +7,23 @@ tags:
 - geo/City
 
 
-SpocWebEntityId: 31472
+SpocWebEntityId: [31471,31472]
 isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.07] 
-[geo-lat::50.2] 
+
+# [[Kissingen_Bad]] 
+
+#is_a_/Place  
+
+[has_place_longitude::10.07] 
+[has_place_latitude::50.2] 
 [name::Kissingen Bad] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
-
 
 ```leaflet
 id: Kissingen Bad

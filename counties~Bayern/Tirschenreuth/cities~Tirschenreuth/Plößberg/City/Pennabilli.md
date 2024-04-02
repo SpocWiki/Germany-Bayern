@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.3] 
-[geo-lat::49.82] 
+[has_place_longitude::12.3] 
+[has_place_latitude::49.82] 
 [name::Pennabilli] 
-State ::  
-Country :: [[../../../../../Europe~South/Italy]] 
+has_place_province::  
+has_place_country:: [[../../../../../Europe~South/Italy]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

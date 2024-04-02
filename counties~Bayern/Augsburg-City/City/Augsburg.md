@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.9] 
-[geo-lat::48.37] 
+[has_place_longitude::10.9] 
+[has_place_latitude::48.37] 
 [name::Augsburg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

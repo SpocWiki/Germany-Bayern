@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.58] 
-[geo-lat::48.08] 
+[has_place_longitude::12.58] 
+[has_place_latitude::48.08] 
 [name::Tyrlaching] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

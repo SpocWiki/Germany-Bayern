@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.98] 
-[geo-lat::49.52] 
+[has_place_longitude::9.98] 
+[has_place_latitude::49.52] 
 [name::Roettingen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

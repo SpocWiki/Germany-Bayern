@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.4] 
-[geo-lat::48.4] 
+[has_place_longitude::13.4] 
+[has_place_latitude::48.4] 
 [name::Hartkirchen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

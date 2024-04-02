@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.16] 
-[geo-lat::49.67] 
+[has_place_longitude::12.16] 
+[has_place_latitude::49.67] 
 [name::Weiden] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

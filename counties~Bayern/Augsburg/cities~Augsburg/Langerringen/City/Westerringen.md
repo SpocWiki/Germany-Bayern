@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.77] 
-[geo-lat::48.13] 
+[has_place_longitude::10.77] 
+[has_place_latitude::48.13] 
 [name::Westerringen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.4] 
-[geo-lat::50.48] 
+[has_place_longitude::11.4] 
+[has_place_latitude::50.48] 
 [name::Ludwigsstadt] 
-Country :: [[Germany]]  
-State :: [[../../Thüringen]] ] 
+has_place_country:: [[Germany]]  
+has_place_province:: [[../../Thüringen]] ] 
 [Population::] 
 [Unknown::] 
 

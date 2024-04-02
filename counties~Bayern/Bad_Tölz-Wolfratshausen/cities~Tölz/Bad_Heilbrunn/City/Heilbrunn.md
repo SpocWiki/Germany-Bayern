@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.47] 
-[geo-lat::47.75] 
+[has_place_longitude::11.47] 
+[has_place_latitude::47.75] 
 [name::Heilbrunn] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

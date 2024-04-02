@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.07] 
-[geo-lat::50.15] 
+[has_place_longitude::11.07] 
+[has_place_latitude::50.15] 
 [name::Lichtenfels] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

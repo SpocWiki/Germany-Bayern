@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.02] 
-[geo-lat::47.8] 
+[has_place_longitude::11.02] 
+[has_place_latitude::47.8] 
 [name::Hohenpeissenberg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

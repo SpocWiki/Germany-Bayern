@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.5] 
-[geo-lat::47.77] 
+[has_place_longitude::11.5] 
+[has_place_latitude::47.77] 
 [name::Buchau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

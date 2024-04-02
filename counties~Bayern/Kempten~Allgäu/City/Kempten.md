@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.32] 
-[geo-lat::47.73] 
+[has_place_longitude::10.32] 
+[has_place_latitude::47.73] 
 [name::Kempten] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

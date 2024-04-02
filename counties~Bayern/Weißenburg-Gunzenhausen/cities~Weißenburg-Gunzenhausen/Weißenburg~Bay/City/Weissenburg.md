@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.97] 
-[geo-lat::49.03] 
+[has_place_longitude::10.97] 
+[has_place_latitude::49.03] 
 [name::Weissenburg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

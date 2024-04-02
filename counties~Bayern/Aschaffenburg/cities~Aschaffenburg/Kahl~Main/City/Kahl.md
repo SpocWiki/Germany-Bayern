@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.02] 
-[geo-lat::50.07] 
+[has_place_longitude::9.02] 
+[has_place_latitude::50.07] 
 [name::Kahl] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

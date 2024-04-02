@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.76] 
-[geo-lat::48.17] 
+[has_place_longitude::10.76] 
+[has_place_latitude::48.17] 
 [name::Schwabmuenchen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

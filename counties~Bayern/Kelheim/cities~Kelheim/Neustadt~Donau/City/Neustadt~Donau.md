@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.77] 
-[geo-lat::48.82] 
+[has_place_longitude::11.77] 
+[has_place_latitude::48.82] 
 [name::Neustadt~Donau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

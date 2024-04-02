@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.45] 
-[geo-lat::49.13] 
+[has_place_longitude::11.45] 
+[has_place_latitude::49.13] 
 [name::Pollanten] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.75] 
-[geo-lat::50.32] 
+[has_place_longitude::9.75] 
+[has_place_latitude::50.32] 
 [name::Brueckenau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

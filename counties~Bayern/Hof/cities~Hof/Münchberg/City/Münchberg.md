@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.78] 
-[geo-lat::50.18] 
+[has_place_longitude::11.78] 
+[has_place_latitude::50.18] 
 [name::Münchberg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

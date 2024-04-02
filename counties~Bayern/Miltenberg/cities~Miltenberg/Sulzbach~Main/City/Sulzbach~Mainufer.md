@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.17] 
-[geo-lat::49.92] 
+[has_place_longitude::9.17] 
+[has_place_latitude::49.92] 
 [name::Sulzbach~Mainufer] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

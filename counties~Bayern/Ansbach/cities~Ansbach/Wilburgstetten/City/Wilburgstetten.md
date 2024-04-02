@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.38] 
-[geo-lat::49.03] 
+[has_place_longitude::10.38] 
+[has_place_latitude::49.03] 
 [name::Wilburgstetten] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

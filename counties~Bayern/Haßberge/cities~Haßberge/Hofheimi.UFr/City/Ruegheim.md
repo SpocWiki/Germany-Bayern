@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.52] 
-[geo-lat::50.12] 
+[has_place_longitude::10.52] 
+[has_place_latitude::50.12] 
 [name::Ruegheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

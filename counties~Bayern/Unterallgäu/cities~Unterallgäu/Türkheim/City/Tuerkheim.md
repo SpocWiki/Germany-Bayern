@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.65] 
-[geo-lat::48.05] 
+[has_place_longitude::10.65] 
+[has_place_latitude::48.05] 
 [name::Tuerkheim] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

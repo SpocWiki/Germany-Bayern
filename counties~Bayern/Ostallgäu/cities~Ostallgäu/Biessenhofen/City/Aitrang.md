@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.53] 
-[geo-lat::47.82] 
+[has_place_longitude::10.53] 
+[has_place_latitude::47.82] 
 [name::Aitrang] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.77] 
-[geo-lat::48.58] 
+[has_place_longitude::13.77] 
+[has_place_latitude::48.58] 
 [name::Wildenranna] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

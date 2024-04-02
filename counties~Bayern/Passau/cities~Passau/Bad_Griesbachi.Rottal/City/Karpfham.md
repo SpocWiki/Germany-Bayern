@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.18] 
-[geo-lat::48.42] 
+[has_place_longitude::13.18] 
+[has_place_latitude::48.42] 
 [name::Karpfham] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

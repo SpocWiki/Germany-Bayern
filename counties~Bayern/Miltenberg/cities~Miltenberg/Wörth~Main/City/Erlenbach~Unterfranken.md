@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.15] 
-[geo-lat::49.8] 
+[has_place_longitude::9.15] 
+[has_place_latitude::49.8] 
 [name::Erlenbach~Unterfranken] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

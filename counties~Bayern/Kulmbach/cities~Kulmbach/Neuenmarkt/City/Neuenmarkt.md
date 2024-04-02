@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.58] 
-[geo-lat::50.1] 
+[has_place_longitude::11.58] 
+[has_place_latitude::50.1] 
 [name::Neuenmarkt] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

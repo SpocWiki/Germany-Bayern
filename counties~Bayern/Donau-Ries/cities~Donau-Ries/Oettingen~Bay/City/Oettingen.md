@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.6] 
-[geo-lat::48.95] 
+[has_place_longitude::10.6] 
+[has_place_latitude::48.95] 
 [name::Oettingen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.57] 
-[geo-lat::50.08] 
+[has_place_longitude::10.57] 
+[has_place_latitude::50.08] 
 [name::Koenigsberg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

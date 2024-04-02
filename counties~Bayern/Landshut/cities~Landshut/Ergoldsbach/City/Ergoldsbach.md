@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.23] 
-[geo-lat::48.7] 
+[has_place_longitude::12.23] 
+[has_place_latitude::48.7] 
 [name::Ergoldsbach] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

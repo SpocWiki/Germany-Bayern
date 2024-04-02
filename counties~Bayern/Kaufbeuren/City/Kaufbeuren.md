@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.61] 
-[geo-lat::47.88] 
+[has_place_longitude::10.61] 
+[has_place_latitude::47.88] 
 [name::Kaufbeuren] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

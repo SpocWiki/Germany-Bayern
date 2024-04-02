@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.33] 
-[geo-lat::48.93] 
+[has_place_longitude::13.33] 
+[has_place_latitude::48.93] 
 [name::Klingenbrunn] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

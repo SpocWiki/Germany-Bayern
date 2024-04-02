@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.95] 
-[geo-lat::50.02] 
+[has_place_longitude::10.95] 
+[has_place_latitude::50.02] 
 [name::Zapfendorf] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

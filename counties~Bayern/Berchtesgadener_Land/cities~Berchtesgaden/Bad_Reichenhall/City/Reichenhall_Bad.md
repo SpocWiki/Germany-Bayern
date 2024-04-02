@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.88] 
-[geo-lat::47.72] 
+[has_place_longitude::12.88] 
+[has_place_latitude::47.72] 
 [name::Reichenhall Bad] 
-State ::  
-Country :: [[Austria]]  
+has_place_province::  
+has_place_country:: [[Austria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

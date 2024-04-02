@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.18] 
-[geo-lat::49.92] 
+[has_place_longitude::12.18] 
+[has_place_latitude::49.92] 
 [name::Wiesau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

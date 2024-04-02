@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.38] 
-[geo-lat::49.12] 
+[has_place_longitude::10.38] 
+[has_place_latitude::49.12] 
 [name::Duerrwangen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

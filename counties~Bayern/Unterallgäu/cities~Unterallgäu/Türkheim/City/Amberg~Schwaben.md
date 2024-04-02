@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.68] 
-[geo-lat::48.07] 
+[has_place_longitude::10.68] 
+[has_place_latitude::48.07] 
 [name::Amberg~Schwaben] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

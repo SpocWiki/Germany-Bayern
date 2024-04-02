@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.92] 
-[geo-lat::48.85] 
+[has_place_longitude::12.92] 
+[has_place_latitude::48.85] 
 [name::Metten~Niederbayern] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

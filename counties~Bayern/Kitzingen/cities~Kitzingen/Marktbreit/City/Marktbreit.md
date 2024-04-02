@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.15] 
-[geo-lat::49.67] 
+[has_place_longitude::10.15] 
+[has_place_latitude::49.67] 
 [name::Marktbreit] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

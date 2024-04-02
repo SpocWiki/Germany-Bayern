@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::11.7] 
-[geo-lat::47.88] 
+[has_place_longitude::11.7] 
+[has_place_latitude::47.88] 
 [name::Holzkirchen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

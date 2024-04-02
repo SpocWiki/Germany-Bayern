@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::12.23] 
-[geo-lat::48.07] 
+[has_place_longitude::12.23] 
+[has_place_latitude::48.07] 
 [name::Wasserburg~Inn] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::9.9] 
-[geo-lat::50.12] 
+[has_place_longitude::9.9] 
+[has_place_latitude::50.12] 
 [name::Hammelburg] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

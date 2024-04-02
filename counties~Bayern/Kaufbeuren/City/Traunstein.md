@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.63] 
-[geo-lat::47.87] 
+[has_place_longitude::10.63] 
+[has_place_latitude::47.87] 
 [name::Traunstein] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.02] 
-[geo-lat::47.53] 
+[has_place_longitude::10.02] 
+[has_place_latitude::47.53] 
 [name::Oberstaufen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

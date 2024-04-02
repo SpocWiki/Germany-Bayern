@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.28] 
-[geo-lat::47.52] 
+[has_place_longitude::10.28] 
+[has_place_latitude::47.52] 
 [name::Sonthofen] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

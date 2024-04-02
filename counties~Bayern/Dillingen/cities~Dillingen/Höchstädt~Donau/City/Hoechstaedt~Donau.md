@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::10.58] 
-[geo-lat::48.62] 
+[has_place_longitude::10.58] 
+[has_place_latitude::48.62] 
 [name::Hoechstaedt~Donau] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 

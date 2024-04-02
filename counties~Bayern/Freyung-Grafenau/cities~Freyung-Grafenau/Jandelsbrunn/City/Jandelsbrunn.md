@@ -12,11 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::13.7] 
-[geo-lat::48.73] 
+[has_place_longitude::13.7] 
+[has_place_latitude::48.73] 
 [name::Jandelsbrunn] 
-Country :: [[Germany]]  
-State :: [[Bayern]]  
+has_place_country:: [[Germany]]  
+has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
 
