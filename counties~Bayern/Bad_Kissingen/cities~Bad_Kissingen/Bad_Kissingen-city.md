@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,9 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Bad_Kissingen]] 
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.07] 
@@ -21,7 +24,6 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
-
 
 ```leaflet
 id: Kissingen Bad
@@ -33,7 +35,7 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kissingen_Bad|Kissingen_Bad]]  
+- [[Bad_Kissingen|Bad_Kissingen]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.internal|Kissingen_Bad.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.protect|Kissingen_Bad.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kissingen_Bad.private|Kissingen_Bad.private]] 
