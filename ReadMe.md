@@ -196,8 +196,11 @@ YouTube handle: Bayern
 
 # Bavaria 
 
+#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
 covering the German state of [Bavaria](https://en.wikipedia.org/wiki/Bavaria).   
+
 This Repository is intended to be shared as a common basis, 
 by including it as a Sub-Repository in local File-Systems, 
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
@@ -207,11 +210,11 @@ specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards
 
 ## #has_/image_for_/flag
 
-<img src="Flag_of_Bavaria~lozengy.svg" width=200/>
+![<img src="Flag_of_Bavaria~lozengy.svg" width=200/>|200](Flag_of_Bavaria~lozengy.svg)
 
 ## #has_/image_for_/coat_of_arms 
 
-<img src="./Coat_of_arms_of_Bavaria.svg" width=350/>
+![<img src="./Coat_of_arms_of_Bavaria.svg" width=350/>|350](./Coat_of_arms_of_Bavaria.svg)
 
 ## #has_/map 
 
@@ -220,8 +223,8 @@ id: Bayern
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Bayern/
-markerFolder: ./Bayern/
+geojsonFolder: ./
+markerFolder: ./
 ```
  
 
