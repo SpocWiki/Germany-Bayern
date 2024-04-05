@@ -237,12 +237,12 @@ Check out this Repository into this Subfolder:
 ## #has_/image_for_/coat_of_arms 
 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Bavaria.svg|250]]<img src="./Coat_of_arms_of_Bavaria.svg" width=250/>
+#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Bavaria.svg|250]]<img src="./Coat_of_arms_of_Bavaria.svg" width=250/> 
 
 ## #has_/image_for_/flag
 
-<img src="./Flag_of_Bavaria~lozengy.svg" width=200/>
-#has_/image_for_/flag :: ![[./Flag_of_Bavaria~lozengy.svg|200]] 
+
+#has_/image_for_/flag :: ![[./Flag_of_Bavaria~lozengy.svg|200]] <img src="./Flag_of_Bavaria~lozengy.svg" width=200/> 
 
 ## #has_/map 
 
