@@ -207,11 +207,11 @@ specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards
 
 ## #has_/image_for_/flag
 
-![Flag_of_Bavaria~lozengy|200](Flag_of_Bavaria~lozengy.svg){: width="200"} 
+<img src="./Flag_of_Bavaria~lozengy.svg" width=200/>
 
 ## #has_/image_for_/coat_of_arms 
 
-![350](Coat_of_arms_of_Bavaria.svg){width=200}  
+<img src="./Coat_of_arms_of_Bavaria.svg" width=350/>
 
 ## #has_/map 
 
