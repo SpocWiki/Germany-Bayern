@@ -197,9 +197,9 @@ YouTube handle: Bayern
 # Bavaria 
 
 This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
-covering the German state of [Bavaria]().   
+covering the German state of [Bavaria](https://en.wikipedia.org/wiki/Bavaria).   
 This Repository is intended to be shared as a common basis, 
-by including it as a Sub-Repository in local File-Systems,
+by including it as a Sub-Repository in local File-Systems, 
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
 [name::Bayern] 
@@ -207,7 +207,7 @@ specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards
 
 ## #has_/image_for_/flag
 
-<img src="./Flag_of_Bavaria~lozengy.svg" width=200/>
+<img src="Flag_of_Bavaria~lozengy.svg" width=200/>
 
 ## #has_/image_for_/coat_of_arms 
 
