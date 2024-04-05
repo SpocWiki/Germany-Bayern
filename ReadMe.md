@@ -202,9 +202,16 @@ This Repository is intended to be shared as a common basis,
 by including it as a Sub-Repository in local File-Systems,
 specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
 
-
 [name::Bayern] 
 [name-abbr::BY] 
+
+## #has_/image_for_/flag
+
+![Flag_of_Bavaria~lozengy|200](Flag_of_Bavaria~lozengy.svg) 
+
+## #has_/image_for_/coat_of_arms 
+
+![350](Coat_of_arms_of_Bavaria.svg) 
 
 ## #has_/map 
 
@@ -218,9 +225,7 @@ markerFolder: ./Bayern/
 ```
 
 
-![[Coat_of_arms_of_Bavaria.svg|350]] 
-
-![[Bayern/Flag_of_Bavaria~lozengy.svg]] 
+![350](Coat_of_arms_of_Bavaria.svg) 
 
 has_place_country:: [[Germany]]  
 Capital ::  [[München]] ] 
