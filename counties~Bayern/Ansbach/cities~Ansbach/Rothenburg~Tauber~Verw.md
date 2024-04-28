@@ -12,6 +12,11 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Rothenburg~Tauber~Verw]] 
+
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::10.18] 
@@ -25,13 +30,18 @@ has_place_province:: [[Bayern]]
 
 ```leaflet
 id: Rothenburg ob der Tauber
-coordinates: [[Rothenburg_ob_der_Tauber]] 
-markerFile: [[Rothenburg_ob_der_Tauber]] 
+coordinates: [[Rothenburg~Tauber~Verw]] 
+markerFile: [[Rothenburg~Tauber~Verw]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
 
+
+[[../../../../../../../../../../../assets/Rothenburg~Tauber~Plönlein.png]]
+![[../../../../../../../../../../../assets/Rothenburg~Tauber~Plönlein.png]]
+Das _Plönlein_ mit dem _Sieberstor_ (links) und dem _Kobolzeller Tor_ (rechts), 2008
+Der Siebersturm aus der Zeit um 1385 und das Kobolzeller Tor um 1360 zusammen mit den umgebenden Fachwerkhäusern. 
 ## Confidential Links & Embeds: 
 - [[Rothenburg_ob_der_Tauber|Rothenburg_ob_der_Tauber]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.internal|Rothenburg_ob_der_Tauber.internal]] 

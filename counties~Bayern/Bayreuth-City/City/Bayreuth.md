@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::11.58] 
@@ -30,6 +32,12 @@ markerFile: [[Bayreuth]]
 defaultZoom: 11 
 maxZoom: 18
 ```
+
+
+
+[[../../../../../../../../../../../assets/opernhaus-bayreuth_006.webp]] 
+![[../../../../../../../../../../../assets/opernhaus-bayreuth_006.webp]] 
+Markgräfliches Opernhaus Bayreuth (2012) 
 
 
 ## Confidential Links & Embeds: 

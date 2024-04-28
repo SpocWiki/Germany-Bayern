@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.79,9.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -12,6 +12,8 @@ isDeleted: false
 confidential: public
 
 ---
+
+
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::9.93] 
@@ -31,6 +33,10 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../../../assets/Würzburger-Residenz.webp]] 
+![[../../../../../../../../../../../assets/Würzburger-Residenz.webp]] 
+Residenz Würzburg mit Hofgarten und Residenzplatz (1981 [[Unesco]] Welterbe)
 
 ## Confidential Links & Embeds: 
 - [[Wuerzburg|Wuerzburg]]  

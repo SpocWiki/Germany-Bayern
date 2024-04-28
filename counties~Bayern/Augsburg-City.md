@@ -25,12 +25,16 @@ has_place_province:: [[Bayern]]
 
 ```leaflet
 id: Augsburg
-coordinates: [[Augsburg]] 
-markerFile: [[Augsburg]] 
+coordinates: [[Augsburg-City]] 
+markerFile: [[Augsburg-City]] 
 defaultZoom: 11 
 maxZoom: 18
 ```
 
+
+[[../../../../../../../../../assets/Augsburger Wassermanagement.webp]] 
+![[../../../../../../../../../assets/Augsburger Wassermanagement.webp]] 
+Augsburger Wassermanagement-System (2019) 
 
 ## Confidential Links & Embeds: 
 - [[Augsburg|Augsburg]]  

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.87,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -31,6 +31,14 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
+
+
+[[../../../../../../../../../../../assets/volkacher-altstadt.webp]]
+![[../../../../../../../../../../../assets/volkacher-altstadt.webp]]
+Die Volkacher Altstadt ist fränkische Geschichte auf engstem Raum. 
+Über 1100 Jahre reicht die Geschichte Volkachs zurück in die Vergangenheit. 
+Der Besucher stößt auf die mittelalterliche Stadtmauer, eine gotische Pfarrkirche, 
+das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock.
 
 ## Confidential Links & Embeds: 
 - [[Volkach|Volkach]]  
