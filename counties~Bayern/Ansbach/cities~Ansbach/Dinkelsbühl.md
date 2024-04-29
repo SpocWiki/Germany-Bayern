@@ -35,8 +35,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/Dinkelsbühl-Weinmarkt.webp]]
-![[../../../../../../../../../../../assets/Dinkelsbühl-Weinmarkt.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Dinkelsbühl-Weinmarkt.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Dinkelsbühl-Weinmarkt.webp]]
 Zu den schönsten Sehenswürdigkeiten in Dinkelsbühl (Bayern) gehört der Weinmarkt 
 im Herzen der historischen Altstadt mit den zahlreichen Fachwerkhäusern. 
 In der Stadt an der Grenze zu Baden-Württemberg 

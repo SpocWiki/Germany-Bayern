@@ -34,18 +34,18 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/Regensburg-Altstadt.webp]] 
-![[../../../../../../../../../../../assets/Regensburg-Altstadt.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg-Altstadt.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg-Altstadt.webp]] 
 Die Altstadt von Regensburg (Bayern) gehört zum Unesco-Welterbe 
 und gilt als außergewöhnliches Beispiel für eine intakte mittelalterliche Handelsstadt. 
 
-[[../../../../../../../../../../../assets/regensburg_005.webp]] 
-![[../../../../../../../../../../../assets/regensburg_005.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg~Donaulimes.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg~Donaulimes.webp]] 
 Grenzen des Römischen Reiches - Donaulimes (westlicher Abschnitt) (2021)
 
 
-[[../../../../../../../../../../../assets/regensburg_007.webp]] 
-![[../../../../../../../../../../../assets/regensburg_007.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Regensburg.webp]] 
 Altstadt von Regensburg mit Stadtamhof (2006) 
 
 Viele Bauwerke zeugen von der Geschichte der Stadt als eines der Zentren des Heiligen Römischen Reiches, 

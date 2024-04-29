@@ -38,7 +38,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-![[../../../../../../../../../../../assets/coburg.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Coburg.webp]]
 Coburg (Bayern) bietet ein barockes, neuzeitliches Ensemble einer kleinen Residenzstadt, mit Stadttoren, einem Marktplatz, einem der ältesten Fachwerkhäuser Deutschlands aus dem 14. Jahrhundert und verschiedenen Schlössern und Burgen in der pittoresken Altstadt. Der Legende nach soll die örtliche Herrscherfamilie das erste Wasserklosett in deutschen Landen in ihrem Stadtschloss benutzt haben.
 
 ## Confidential Links & Embeds: 

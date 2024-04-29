@@ -33,8 +33,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/volkacher-altstadt.webp]]
-![[../../../../../../../../../../../assets/volkacher-altstadt.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Volkacher_Altstadt.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Volkacher_Altstadt.webp]]
 Die Volkacher Altstadt ist fränkische Geschichte auf engstem Raum. 
 Über 1100 Jahre reicht die Geschichte Volkachs zurück in die Vergangenheit. 
 Der Besucher stößt auf die mittelalterliche Stadtmauer, eine gotische Pfarrkirche, 
