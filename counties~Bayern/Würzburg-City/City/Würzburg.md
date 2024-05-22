@@ -1,16 +1,19 @@
 ---
-location: [49.79,9.93] 
-mapzoom: [7,12] 
-mapmarker: city 
+location:
+  - 49.79
+  - 9.93
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 35731
 isDeleted: false
 confidential: public
-
+aliases:
+  - Wuerzburg
 ---
 
 
@@ -39,7 +42,7 @@ maxZoom: 18
 Residenz Würzburg mit Hofgarten und Residenzplatz (1981 [[Unesco]] Welterbe)
 
 ## Confidential Links & Embeds: 
-- [[Wuerzburg|Wuerzburg]]  
+- [[Würzburg|Wuerzburg]]  
 - [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.internal|Wuerzburg.internal]] 
 - [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.protect|Wuerzburg.protect]] 
 - [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.private|Wuerzburg.private]] 
