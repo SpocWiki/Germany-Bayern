@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schweinfurt|Schweinfurt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.internal|Schweinfurt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.protect|Schweinfurt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.private|Schweinfurt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.personal|Schweinfurt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schweinfurt.secret|Schweinfurt.secret]] 
+
+### [Schweinfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.md) 
+
+### [Schweinfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.internal.md) 
+
+### [Schweinfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.protect.md) 
+
+### [Schweinfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.private.md) 
+
+### [Schweinfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.personal.md) 
+
+### [Schweinfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.secret.md) 

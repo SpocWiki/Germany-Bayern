@@ -1,4 +1,4 @@
----
+﻿---
 has_id_wikidata: Q980
 location: [48.8642,11.3382] 
 type: State
@@ -290,9 +290,15 @@ Capital ::  [[München]]
 
 
 ## Confidential Links & Embeds: 
-- [[Bayern|Bayern]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern.internal|Bayern.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern.protect|Bayern.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern.private|Bayern.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern.personal|Bayern.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern.secret|Bayern.secret]] 
+
+### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.md) 
+
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.protect.md) 
+
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.secret.md) 

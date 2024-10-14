@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Steinbach~Allg|Steinbach~Allg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.internal|Steinbach~Allg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.protect|Steinbach~Allg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.private|Steinbach~Allg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.personal|Steinbach~Allg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinbach~Allg.secret|Steinbach~Allg.secret]] 
+
+### [Steinbach~Allg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.md) 
+
+### [Steinbach~Allg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.internal.md) 
+
+### [Steinbach~Allg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.protect.md) 
+
+### [Steinbach~Allg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.private.md) 
+
+### [Steinbach~Allg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.personal.md) 
+
+### [Steinbach~Allg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Roßhaupten/City/Steinbach~Allg.secret.md) 

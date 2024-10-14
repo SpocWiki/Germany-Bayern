@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Goessweinstein|Goessweinstein]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.internal|Goessweinstein.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.protect|Goessweinstein.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.private|Goessweinstein.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.personal|Goessweinstein.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Goessweinstein.secret|Goessweinstein.secret]] 
+
+### [Goessweinstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.md) 
+
+### [Goessweinstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.internal.md) 
+
+### [Goessweinstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.protect.md) 
+
+### [Goessweinstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.private.md) 
+
+### [Goessweinstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.personal.md) 
+
+### [Goessweinstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.secret.md) 

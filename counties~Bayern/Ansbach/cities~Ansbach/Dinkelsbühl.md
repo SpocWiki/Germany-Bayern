@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 49.12
   - 10.32
@@ -43,9 +43,15 @@ In der Stadt an der Grenze zu Baden-Württemberg
 vermischen sich mittelfränkische, schwäbische und altbairische Mundarten.
 
 ## Confidential Links & Embeds: 
-- [[Dinkelsbühl|Dinkelsbühl]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbühl.internal|Dinkelsbühl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbühl.protect|Dinkelsbühl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbühl.private|Dinkelsbühl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbühl.personal|Dinkelsbühl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dinkelsbühl.secret|Dinkelsbühl.secret]] 
+
+### [Dinkelsbühl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.md) 
+
+### [Dinkelsbühl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.internal.md) 
+
+### [Dinkelsbühl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.protect.md) 
+
+### [Dinkelsbühl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.private.md) 
+
+### [Dinkelsbühl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.personal.md) 
+
+### [Dinkelsbühl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.secret.md) 

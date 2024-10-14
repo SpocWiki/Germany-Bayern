@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Koenigsberg|Koenigsberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.internal|Koenigsberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.protect|Koenigsberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.private|Koenigsberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.personal|Koenigsberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Koenigsberg.secret|Koenigsberg.secret]] 
+
+### [Koenigsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.md) 
+
+### [Koenigsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.internal.md) 
+
+### [Koenigsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.protect.md) 
+
+### [Koenigsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.private.md) 
+
+### [Koenigsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.personal.md) 
+
+### [Koenigsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.secret.md) 

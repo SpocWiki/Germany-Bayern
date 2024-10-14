@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Altenmarkt|Altenmarkt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.internal|Altenmarkt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.protect|Altenmarkt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.private|Altenmarkt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.personal|Altenmarkt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Altenmarkt.secret|Altenmarkt.secret]] 
+
+### [Altenmarkt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.md) 
+
+### [Altenmarkt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.internal.md) 
+
+### [Altenmarkt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.protect.md) 
+
+### [Altenmarkt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.private.md) 
+
+### [Altenmarkt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.personal.md) 
+
+### [Altenmarkt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Altenmarkt.secret.md) 

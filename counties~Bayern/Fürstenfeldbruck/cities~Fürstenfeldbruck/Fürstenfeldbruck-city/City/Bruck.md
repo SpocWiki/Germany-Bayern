@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bruck|Bruck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.internal|Bruck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.protect|Bruck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.private|Bruck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.personal|Bruck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bruck.secret|Bruck.secret]] 
+
+### [Bruck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.md) 
+
+### [Bruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.internal.md) 
+
+### [Bruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.protect.md) 
+
+### [Bruck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.private.md) 
+
+### [Bruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.personal.md) 
+
+### [Bruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.secret.md) 

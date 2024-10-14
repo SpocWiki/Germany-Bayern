@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kothmaissling|Kothmaissling]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.internal|Kothmaissling.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.protect|Kothmaissling.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.private|Kothmaissling.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.personal|Kothmaissling.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kothmaissling.secret|Kothmaissling.secret]] 
+
+### [Kothmaissling](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.md) 
+
+### [Kothmaissling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.internal.md) 
+
+### [Kothmaissling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.protect.md) 
+
+### [Kothmaissling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.private.md) 
+
+### [Kothmaissling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.personal.md) 
+
+### [Kothmaissling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Kothmaissling.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.02,12.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -53,9 +53,15 @@ darunter die Geschlechtertürme, die großen romanischen und gotischen Kirchenba
 sowie die Alte Kapelle und das spätgotische Rathaus.
 
 ## Confidential Links & Embeds: 
-- [[Regensburg|Regensburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.internal|Regensburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.protect|Regensburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.private|Regensburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.personal|Regensburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Regensburg.secret|Regensburg.secret]] 
+
+### [Regensburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.md) 
+
+### [Regensburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.internal.md) 
+
+### [Regensburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.protect.md) 
+
+### [Regensburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.private.md) 
+
+### [Regensburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.personal.md) 
+
+### [Regensburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.secret.md) 

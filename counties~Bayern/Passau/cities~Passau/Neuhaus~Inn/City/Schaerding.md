@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Schaerding|Schaerding]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Schaerding.public|Schaerding.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Schaerding.internal|Schaerding.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Schaerding.protect|Schaerding.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Schaerding.private|Schaerding.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Schaerding.personal|Schaerding.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Schaerding.secret|Schaerding.secret]] 
+
+### [Schaerding](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.md) 
+
+### [Schaerding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.internal.md) 
+
+### [Schaerding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.protect.md) 
+
+### [Schaerding.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.private.md) 
+
+### [Schaerding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.personal.md) 
+
+### [Schaerding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.secret.md) 

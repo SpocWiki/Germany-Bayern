@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.88,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -42,9 +42,15 @@ Bereits 1993 wurde sie von der Unesco als Weltkulturerbe ausgezeichnet.
 
 
 ## Confidential Links & Embeds: 
-- [[Bamberg|Bamberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.internal|Bamberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.protect|Bamberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.private|Bamberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.personal|Bamberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bamberg.secret|Bamberg.secret]] 
+
+### [Bamberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.md) 
+
+### [Bamberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.internal.md) 
+
+### [Bamberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.protect.md) 
+
+### [Bamberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.private.md) 
+
+### [Bamberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.personal.md) 
+
+### [Bamberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.secret.md) 

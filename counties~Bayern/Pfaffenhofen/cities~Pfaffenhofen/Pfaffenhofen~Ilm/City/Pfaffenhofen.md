@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Pfaffenhofen|Pfaffenhofen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.internal|Pfaffenhofen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.protect|Pfaffenhofen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.private|Pfaffenhofen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.personal|Pfaffenhofen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Pfaffenhofen.secret|Pfaffenhofen.secret]] 
+
+### [Pfaffenhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.md) 
+
+### [Pfaffenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.internal.md) 
+
+### [Pfaffenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.protect.md) 
+
+### [Pfaffenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.private.md) 
+
+### [Pfaffenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.personal.md) 
+
+### [Pfaffenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Pfaffenhofen~Ilm/City/Pfaffenhofen.secret.md) 

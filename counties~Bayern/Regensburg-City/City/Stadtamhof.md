@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Stadtamhof|Stadtamhof]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.internal|Stadtamhof.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.protect|Stadtamhof.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.private|Stadtamhof.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.personal|Stadtamhof.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Stadtamhof.secret|Stadtamhof.secret]] 
+
+### [Stadtamhof](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.md) 
+
+### [Stadtamhof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.internal.md) 
+
+### [Stadtamhof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.protect.md) 
+
+### [Stadtamhof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.private.md) 
+
+### [Stadtamhof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.personal.md) 
+
+### [Stadtamhof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Stadtamhof.secret.md) 

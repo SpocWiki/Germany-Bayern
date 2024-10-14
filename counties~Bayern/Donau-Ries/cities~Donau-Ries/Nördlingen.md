@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 48.85
   - 10.48
@@ -44,9 +44,15 @@ Der mittelalterliche Stadtkern wird von einer komplett erhaltenen und rundum beg
 Überall finden sich prachtvolle Patrizier- und Bürgerhäuser, Kirchen, Türme und Tore.
 
 ## Confidential Links & Embeds: 
-- [[Nördlingen|Nördlingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nördlingen.internal|Nördlingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nördlingen.protect|Nördlingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nördlingen.private|Nördlingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nördlingen.personal|Nördlingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nördlingen.secret|Nördlingen.secret]] 
+
+### [Nördlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.md) 
+
+### [Nördlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.internal.md) 
+
+### [Nördlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.protect.md) 
+
+### [Nördlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.private.md) 
+
+### [Nördlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.personal.md) 
+
+### [Nördlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.secret.md) 

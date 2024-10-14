@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Memmelsdorf~Oberfranken|Memmelsdorf~Oberfranken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.internal|Memmelsdorf~Oberfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.protect|Memmelsdorf~Oberfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.private|Memmelsdorf~Oberfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.personal|Memmelsdorf~Oberfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Oberfranken.secret|Memmelsdorf~Oberfranken.secret]] 
+
+### [Memmelsdorf~Oberfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.md) 
+
+### [Memmelsdorf~Oberfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.internal.md) 
+
+### [Memmelsdorf~Oberfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.protect.md) 
+
+### [Memmelsdorf~Oberfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.private.md) 
+
+### [Memmelsdorf~Oberfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.personal.md) 
+
+### [Memmelsdorf~Oberfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Memmelsdorf/City/Memmelsdorf~Oberfranken.secret.md) 

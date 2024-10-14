@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oberhaunstadt|Oberhaunstadt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.internal|Oberhaunstadt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.protect|Oberhaunstadt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.private|Oberhaunstadt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.personal|Oberhaunstadt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberhaunstadt.secret|Oberhaunstadt.secret]] 
+
+### [Oberhaunstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.md) 
+
+### [Oberhaunstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.internal.md) 
+
+### [Oberhaunstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.protect.md) 
+
+### [Oberhaunstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.private.md) 
+
+### [Oberhaunstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.personal.md) 
+
+### [Oberhaunstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.secret.md) 

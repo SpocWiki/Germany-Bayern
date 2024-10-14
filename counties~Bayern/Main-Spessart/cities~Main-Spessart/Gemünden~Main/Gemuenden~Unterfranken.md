@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Gemuenden~Unterfranken|Gemuenden~Unterfranken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.internal|Gemuenden~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.protect|Gemuenden~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.private|Gemuenden~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.personal|Gemuenden~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Gemuenden~Unterfranken.secret|Gemuenden~Unterfranken.secret]] 
+
+### [Gemuenden~Unterfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.md) 
+
+### [Gemuenden~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.internal.md) 
+
+### [Gemuenden~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.protect.md) 
+
+### [Gemuenden~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.private.md) 
+
+### [Gemuenden~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.personal.md) 
+
+### [Gemuenden~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.secret.md) 

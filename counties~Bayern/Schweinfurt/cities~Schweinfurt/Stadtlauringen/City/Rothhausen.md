@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rothhausen|Rothhausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.internal|Rothhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.protect|Rothhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.private|Rothhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.personal|Rothhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothhausen.secret|Rothhausen.secret]] 
+
+### [Rothhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.md) 
+
+### [Rothhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.internal.md) 
+
+### [Rothhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.protect.md) 
+
+### [Rothhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.private.md) 
+
+### [Rothhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.personal.md) 
+
+### [Rothhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.secret.md) 

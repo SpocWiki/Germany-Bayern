@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.46, 10.86] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Cadolzburg|Cadolzburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.internal|Cadolzburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.protect|Cadolzburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.private|Cadolzburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.personal|Cadolzburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Cadolzburg.secret|Cadolzburg.secret]] 
+
+### [Cadolzburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.md) 
+
+### [Cadolzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.internal.md) 
+
+### [Cadolzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.protect.md) 
+
+### [Cadolzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.private.md) 
+
+### [Cadolzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.personal.md) 
+
+### [Cadolzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.secret.md) 

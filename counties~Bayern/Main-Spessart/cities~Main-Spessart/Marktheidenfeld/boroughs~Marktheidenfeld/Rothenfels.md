@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Rothenfels|Rothenfels]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.internal|Rothenfels.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.protect|Rothenfels.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.private|Rothenfels.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.personal|Rothenfels.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenfels.secret|Rothenfels.secret]] 
+
+### [Rothenfels](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.md) 
+
+### [Rothenfels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.internal.md) 
+
+### [Rothenfels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.protect.md) 
+
+### [Rothenfels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.private.md) 
+
+### [Rothenfels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.personal.md) 
+
+### [Rothenfels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Marktheidenfeld/boroughs~Marktheidenfeld/Rothenfels.secret.md) 

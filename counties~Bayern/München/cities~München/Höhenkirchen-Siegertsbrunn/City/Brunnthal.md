@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Brunnthal|Brunnthal]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.internal|Brunnthal.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.protect|Brunnthal.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.private|Brunnthal.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.personal|Brunnthal.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Brunnthal.secret|Brunnthal.secret]] 
+
+### [Brunnthal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.md) 
+
+### [Brunnthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.internal.md) 
+
+### [Brunnthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.protect.md) 
+
+### [Brunnthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.private.md) 
+
+### [Brunnthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.personal.md) 
+
+### [Brunnthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.secret.md) 

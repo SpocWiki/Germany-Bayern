@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neuenmarkt|Neuenmarkt]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.internal|Neuenmarkt.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.protect|Neuenmarkt.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.private|Neuenmarkt.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.personal|Neuenmarkt.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neuenmarkt.secret|Neuenmarkt.secret]] 
+
+### [Neuenmarkt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.md) 
+
+### [Neuenmarkt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.internal.md) 
+
+### [Neuenmarkt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.protect.md) 
+
+### [Neuenmarkt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.private.md) 
+
+### [Neuenmarkt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.personal.md) 
+
+### [Neuenmarkt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.secret.md) 

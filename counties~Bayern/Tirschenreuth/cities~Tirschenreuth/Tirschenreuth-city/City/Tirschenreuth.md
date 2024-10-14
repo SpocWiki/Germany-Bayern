@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Tirschenreuth|Tirschenreuth]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.internal|Tirschenreuth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.protect|Tirschenreuth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.private|Tirschenreuth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.personal|Tirschenreuth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Tirschenreuth.secret|Tirschenreuth.secret]] 
+
+### [Tirschenreuth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.md) 
+
+### [Tirschenreuth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.internal.md) 
+
+### [Tirschenreuth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.protect.md) 
+
+### [Tirschenreuth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.private.md) 
+
+### [Tirschenreuth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.personal.md) 
+
+### [Tirschenreuth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Tirschenreuth-city/City/Tirschenreuth.secret.md) 

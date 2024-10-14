@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Ober-Traubling|Ober-Traubling]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.internal|Ober-Traubling.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.protect|Ober-Traubling.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.private|Ober-Traubling.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.personal|Ober-Traubling.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Ober-Traubling.secret|Ober-Traubling.secret]] 
+
+### [Ober-Traubling](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.md) 
+
+### [Ober-Traubling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.internal.md) 
+
+### [Ober-Traubling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.protect.md) 
+
+### [Ober-Traubling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.private.md) 
+
+### [Ober-Traubling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.personal.md) 
+
+### [Ober-Traubling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Obertraubling/City/Ober-Traubling.secret.md) 

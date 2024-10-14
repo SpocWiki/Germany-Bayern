@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Olching|Olching]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Olching.internal|Olching.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Olching.protect|Olching.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Olching.private|Olching.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Olching.personal|Olching.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Olching.secret|Olching.secret]] 
+
+### [Olching](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.md) 
+
+### [Olching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.internal.md) 
+
+### [Olching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.protect.md) 
+
+### [Olching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.private.md) 
+
+### [Olching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.personal.md) 
+
+### [Olching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Eichenau/City/Olching.secret.md) 

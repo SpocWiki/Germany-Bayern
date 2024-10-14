@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.87,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ Der Besucher stößt auf die mittelalterliche Stadtmauer, eine gotische Pfarrkir
 das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock.
 
 ## Confidential Links & Embeds: 
-- [[Volkach|Volkach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.internal|Volkach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.protect|Volkach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.private|Volkach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.personal|Volkach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Volkach.secret|Volkach.secret]] 
+
+### [Volkach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.md) 
+
+### [Volkach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.internal.md) 
+
+### [Volkach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.protect.md) 
+
+### [Volkach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.private.md) 
+
+### [Volkach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.personal.md) 
+
+### [Volkach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.secret.md) 

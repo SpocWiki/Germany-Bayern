@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Laufamholz|Laufamholz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.internal|Laufamholz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.protect|Laufamholz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.private|Laufamholz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.personal|Laufamholz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufamholz.secret|Laufamholz.secret]] 
+
+### [Laufamholz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.md) 
+
+### [Laufamholz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.internal.md) 
+
+### [Laufamholz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.protect.md) 
+
+### [Laufamholz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.private.md) 
+
+### [Laufamholz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.personal.md) 
+
+### [Laufamholz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Zerzabelshofer_Forst/City/Laufamholz.secret.md) 

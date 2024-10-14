@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Nieder-Murrach|Nieder-Murrach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.internal|Nieder-Murrach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.protect|Nieder-Murrach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.private|Nieder-Murrach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.personal|Nieder-Murrach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Nieder-Murrach.secret|Nieder-Murrach.secret]] 
+
+### [Nieder-Murrach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.md) 
+
+### [Nieder-Murrach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.internal.md) 
+
+### [Nieder-Murrach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.protect.md) 
+
+### [Nieder-Murrach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.private.md) 
+
+### [Nieder-Murrach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.personal.md) 
+
+### [Nieder-Murrach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.secret.md) 

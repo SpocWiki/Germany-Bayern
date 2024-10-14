@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Roethenbach~Oberpfalz|Roethenbach~Oberpfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.internal|Roethenbach~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.protect|Roethenbach~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.private|Roethenbach~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.personal|Roethenbach~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Roethenbach~Oberpfalz.secret|Roethenbach~Oberpfalz.secret]] 
+
+### [Roethenbach~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.md) 
+
+### [Roethenbach~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.internal.md) 
+
+### [Roethenbach~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.protect.md) 
+
+### [Roethenbach~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.private.md) 
+
+### [Roethenbach~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.personal.md) 
+
+### [Roethenbach~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.secret.md) 

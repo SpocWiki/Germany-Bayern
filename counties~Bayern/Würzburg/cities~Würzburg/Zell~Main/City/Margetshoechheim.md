@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Margetshoechheim|Margetshoechheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.internal|Margetshoechheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.protect|Margetshoechheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.private|Margetshoechheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.personal|Margetshoechheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Margetshoechheim.secret|Margetshoechheim.secret]] 
+
+### [Margetshoechheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.md) 
+
+### [Margetshoechheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.internal.md) 
+
+### [Margetshoechheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.protect.md) 
+
+### [Margetshoechheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.private.md) 
+
+### [Margetshoechheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.personal.md) 
+
+### [Margetshoechheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Zell~Main/City/Margetshoechheim.secret.md) 

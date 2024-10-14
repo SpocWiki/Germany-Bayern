@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sulzbach~Oberpfalz|Sulzbach~Oberpfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.internal|Sulzbach~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.protect|Sulzbach~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.private|Sulzbach~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.personal|Sulzbach~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Oberpfalz.secret|Sulzbach~Oberpfalz.secret]] 
+
+### [Sulzbach,Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.md) 
+
+### [Sulzbach,Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.internal.md) 
+
+### [Sulzbach,Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.protect.md) 
+
+### [Sulzbach,Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.private.md) 
+
+### [Sulzbach,Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.personal.md) 
+
+### [Sulzbach,Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.secret.md) 

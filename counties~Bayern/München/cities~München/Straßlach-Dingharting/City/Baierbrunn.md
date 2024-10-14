@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Baierbrunn|Baierbrunn]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.internal|Baierbrunn.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.protect|Baierbrunn.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.private|Baierbrunn.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.personal|Baierbrunn.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Baierbrunn.secret|Baierbrunn.secret]] 
+
+### [Baierbrunn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.md) 
+
+### [Baierbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.internal.md) 
+
+### [Baierbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.protect.md) 
+
+### [Baierbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.private.md) 
+
+### [Baierbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.personal.md) 
+
+### [Baierbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.secret.md) 

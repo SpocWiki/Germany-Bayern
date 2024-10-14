@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Radldorf|Radldorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.internal|Radldorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.protect|Radldorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.private|Radldorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.personal|Radldorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Radldorf.secret|Radldorf.secret]] 
+
+### [Radldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.md) 
+
+### [Radldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.internal.md) 
+
+### [Radldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.protect.md) 
+
+### [Radldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.private.md) 
+
+### [Radldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.personal.md) 
+
+### [Radldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.secret.md) 

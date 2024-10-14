@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Haimhausen|Haimhausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.internal|Haimhausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.protect|Haimhausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.private|Haimhausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.personal|Haimhausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Haimhausen.secret|Haimhausen.secret]] 
+
+### [Haimhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.md) 
+
+### [Haimhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.internal.md) 
+
+### [Haimhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.protect.md) 
+
+### [Haimhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.private.md) 
+
+### [Haimhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.personal.md) 
+
+### [Haimhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.secret.md) 

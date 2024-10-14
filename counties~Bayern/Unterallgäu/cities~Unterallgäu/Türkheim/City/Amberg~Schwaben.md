@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Amberg~Schwaben|Amberg~Schwaben]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.internal|Amberg~Schwaben.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.protect|Amberg~Schwaben.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.private|Amberg~Schwaben.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.personal|Amberg~Schwaben.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Amberg~Schwaben.secret|Amberg~Schwaben.secret]] 
+
+### [Amberg~Schwaben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.md) 
+
+### [Amberg~Schwaben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.internal.md) 
+
+### [Amberg~Schwaben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.protect.md) 
+
+### [Amberg~Schwaben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.private.md) 
+
+### [Amberg~Schwaben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.personal.md) 
+
+### [Amberg~Schwaben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Amberg~Schwaben.secret.md) 

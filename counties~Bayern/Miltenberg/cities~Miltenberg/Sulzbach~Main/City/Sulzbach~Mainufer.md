@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Sulzbach~Mainufer|Sulzbach~Mainufer]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.internal|Sulzbach~Mainufer.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.protect|Sulzbach~Mainufer.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.private|Sulzbach~Mainufer.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.personal|Sulzbach~Mainufer.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Sulzbach~Mainufer.secret|Sulzbach~Mainufer.secret]] 
+
+### [Sulzbach~Mainufer](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.md) 
+
+### [Sulzbach~Mainufer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.internal.md) 
+
+### [Sulzbach~Mainufer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.protect.md) 
+
+### [Sulzbach~Mainufer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.private.md) 
+
+### [Sulzbach~Mainufer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.personal.md) 
+
+### [Sulzbach~Mainufer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.secret.md) 

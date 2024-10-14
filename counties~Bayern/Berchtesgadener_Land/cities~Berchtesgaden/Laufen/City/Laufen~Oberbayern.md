@@ -1,4 +1,4 @@
----
+﻿---
 location: [47.93,12.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Laufen~Oberbayern|Laufen~Oberbayern]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.internal|Laufen~Oberbayern.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.protect|Laufen~Oberbayern.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.private|Laufen~Oberbayern.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.personal|Laufen~Oberbayern.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Laufen~Oberbayern.secret|Laufen~Oberbayern.secret]] 
+
+### [Laufen~Oberbayern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.md) 
+
+### [Laufen~Oberbayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.internal.md) 
+
+### [Laufen~Oberbayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.protect.md) 
+
+### [Laufen~Oberbayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.private.md) 
+
+### [Laufen~Oberbayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.personal.md) 
+
+### [Laufen~Oberbayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.secret.md) 

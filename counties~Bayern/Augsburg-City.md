@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.37,10.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -37,9 +37,15 @@ maxZoom: 18
 Augsburger Wassermanagement-System (2019) 
 
 ## Confidential Links & Embeds: 
-- [[Augsburg|Augsburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.internal|Augsburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.protect|Augsburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.private|Augsburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.personal|Augsburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Augsburg.secret|Augsburg.secret]] 
+
+### [Augsburg-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.md) 
+
+### [Augsburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.internal.md) 
+
+### [Augsburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.protect.md) 
+
+### [Augsburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.private.md) 
+
+### [Augsburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.personal.md) 
+
+### [Augsburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.secret.md) 

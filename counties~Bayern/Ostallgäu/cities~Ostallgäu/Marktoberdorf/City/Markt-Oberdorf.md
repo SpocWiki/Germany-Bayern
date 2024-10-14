@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Markt-Oberdorf|Markt-Oberdorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.internal|Markt-Oberdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.protect|Markt-Oberdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.private|Markt-Oberdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.personal|Markt-Oberdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Markt-Oberdorf.secret|Markt-Oberdorf.secret]] 
+
+### [Markt-Oberdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.md) 
+
+### [Markt-Oberdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.internal.md) 
+
+### [Markt-Oberdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.protect.md) 
+
+### [Markt-Oberdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.private.md) 
+
+### [Markt-Oberdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.personal.md) 
+
+### [Markt-Oberdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Marktoberdorf/City/Markt-Oberdorf.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fuerth~Nuernberg|Fuerth~Nuernberg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.internal|Fuerth~Nuernberg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.protect|Fuerth~Nuernberg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.private|Fuerth~Nuernberg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.personal|Fuerth~Nuernberg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerth~Nuernberg.secret|Fuerth~Nuernberg.secret]] 
+
+### [Fuerth~Nuernberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.md) 
+
+### [Fuerth~Nuernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.internal.md) 
+
+### [Fuerth~Nuernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.protect.md) 
+
+### [Fuerth~Nuernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.private.md) 
+
+### [Fuerth~Nuernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.personal.md) 
+
+### [Fuerth~Nuernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.secret.md) 

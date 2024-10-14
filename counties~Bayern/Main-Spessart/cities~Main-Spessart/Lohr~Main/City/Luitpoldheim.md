@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Luitpoldheim|Luitpoldheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.internal|Luitpoldheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.protect|Luitpoldheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.private|Luitpoldheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.personal|Luitpoldheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Luitpoldheim.secret|Luitpoldheim.secret]] 
+
+### [Luitpoldheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.md) 
+
+### [Luitpoldheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.internal.md) 
+
+### [Luitpoldheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.protect.md) 
+
+### [Luitpoldheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.private.md) 
+
+### [Luitpoldheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.personal.md) 
+
+### [Luitpoldheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Luitpoldheim.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Metten~Niederbayern|Metten~Niederbayern]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.internal|Metten~Niederbayern.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.protect|Metten~Niederbayern.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.private|Metten~Niederbayern.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.personal|Metten~Niederbayern.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Metten~Niederbayern.secret|Metten~Niederbayern.secret]] 
+
+### [Metten~Niederbayern](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.md) 
+
+### [Metten~Niederbayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.internal.md) 
+
+### [Metten~Niederbayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.protect.md) 
+
+### [Metten~Niederbayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.private.md) 
+
+### [Metten~Niederbayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.personal.md) 
+
+### [Metten~Niederbayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Metten/City/Metten~Niederbayern.secret.md) 

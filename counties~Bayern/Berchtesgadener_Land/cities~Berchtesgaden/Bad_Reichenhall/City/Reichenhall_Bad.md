@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/Austria/City/Reichenhall_Bad|Reichenhall_Bad]] 
-- [[../../../../../../_public/geo/Continent/Europe/Austria/City/Reichenhall_Bad.public|Reichenhall_Bad.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/Austria/City/Reichenhall_Bad.internal|Reichenhall_Bad.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/Austria/City/Reichenhall_Bad.protect|Reichenhall_Bad.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/Austria/City/Reichenhall_Bad.private|Reichenhall_Bad.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/Austria/City/Reichenhall_Bad.personal|Reichenhall_Bad.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/Austria/City/Reichenhall_Bad.secret|Reichenhall_Bad.secret]] 
+
+### [Reichenhall_Bad](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.md) 
+
+### [Reichenhall_Bad.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.internal.md) 
+
+### [Reichenhall_Bad.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.protect.md) 
+
+### [Reichenhall_Bad.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.private.md) 
+
+### [Reichenhall_Bad.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.personal.md) 
+
+### [Reichenhall_Bad.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall/City/Reichenhall_Bad.secret.md) 

@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.95,11.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ Markgräfliches Opernhaus Bayreuth (2012)
 
 
 ## Confidential Links & Embeds: 
-- [[Bayreuth|Bayreuth]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.internal|Bayreuth.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.protect|Bayreuth.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.private|Bayreuth.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.personal|Bayreuth.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Bayreuth.secret|Bayreuth.secret]] 
+
+### [Bayreuth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.md) 
+
+### [Bayreuth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.internal.md) 
+
+### [Bayreuth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.protect.md) 
+
+### [Bayreuth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.private.md) 
+
+### [Bayreuth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.personal.md) 
+
+### [Bayreuth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.secret.md) 

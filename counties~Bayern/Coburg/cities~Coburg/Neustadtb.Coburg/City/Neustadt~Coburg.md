@@ -33,10 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../../_Standards/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg|Neustadt~Coburg]] 
-- [[../../../../../../../../_public/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.public|Neustadt~Coburg.public]] 
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.internal|Neustadt~Coburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.protect|Neustadt~Coburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.private|Neustadt~Coburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.personal|Neustadt~Coburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/Germany~East/Thüringen/City/Neustadt~Coburg.secret|Neustadt~Coburg.secret]] 
+
+### [Neustadt~Coburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.md) 
+
+### [Neustadt~Coburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.internal.md) 
+
+### [Neustadt~Coburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.protect.md) 
+
+### [Neustadt~Coburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.private.md) 
+
+### [Neustadt~Coburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.personal.md) 
+
+### [Neustadt~Coburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.secret.md) 

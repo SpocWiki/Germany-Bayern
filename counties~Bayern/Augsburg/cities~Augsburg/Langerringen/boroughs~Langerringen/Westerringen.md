@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Westerringen|Westerringen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.internal|Westerringen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.protect|Westerringen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.private|Westerringen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.personal|Westerringen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Westerringen.secret|Westerringen.secret]] 
+
+### [Westerringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.md) 
+
+### [Westerringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.internal.md) 
+
+### [Westerringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.protect.md) 
+
+### [Westerringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.private.md) 
+
+### [Westerringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.personal.md) 
+
+### [Westerringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.secret.md) 

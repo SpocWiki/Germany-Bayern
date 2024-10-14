@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.42,11.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Obergriesbach|Obergriesbach]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.internal|Obergriesbach.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.protect|Obergriesbach.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.private|Obergriesbach.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.personal|Obergriesbach.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Obergriesbach.secret|Obergriesbach.secret]] 
+
+### [Obergriesbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.md) 
+
+### [Obergriesbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.internal.md) 
+
+### [Obergriesbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.protect.md) 
+
+### [Obergriesbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.private.md) 
+
+### [Obergriesbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.personal.md) 
+
+### [Obergriesbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.secret.md) 

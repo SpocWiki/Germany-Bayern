@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.17,12.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -41,9 +41,15 @@ Zusammen mit einer Besichtigung der weltlängsten Burg über der denkmalgeschüt
 lohnt sich ein Rundgang durch die bayerische Kleinstadt an der Grenze zu Österreich.
 
 ## Confidential Links & Embeds: 
-- [[Burghausen|Burghausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Burghausen.internal|Burghausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Burghausen.protect|Burghausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Burghausen.private|Burghausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Burghausen.personal|Burghausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Burghausen.secret|Burghausen.secret]] 
+
+### [Burghausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.md) 
+
+### [Burghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.internal.md) 
+
+### [Burghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.protect.md) 
+
+### [Burghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.private.md) 
+
+### [Burghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.personal.md) 
+
+### [Burghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.secret.md) 

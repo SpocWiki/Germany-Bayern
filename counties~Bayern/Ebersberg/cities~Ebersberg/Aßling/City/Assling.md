@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Assling|Assling]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Assling.internal|Assling.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Assling.protect|Assling.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Assling.private|Assling.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Assling.personal|Assling.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Assling.secret|Assling.secret]] 
+
+### [Assling](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.md) 
+
+### [Assling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.internal.md) 
+
+### [Assling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.protect.md) 
+
+### [Assling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.private.md) 
+
+### [Assling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.personal.md) 
+
+### [Assling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Aßling/City/Assling.secret.md) 

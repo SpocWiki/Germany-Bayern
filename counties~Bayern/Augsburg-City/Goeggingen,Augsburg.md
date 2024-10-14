@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.35,10.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Goeggingen|Goeggingen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.internal|Goeggingen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.protect|Goeggingen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.private|Goeggingen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.personal|Goeggingen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Goeggingen.secret|Goeggingen.secret]] 
+
+### [Goeggingen,Augsburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.md) 
+
+### [Goeggingen,Augsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.internal.md) 
+
+### [Goeggingen,Augsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.protect.md) 
+
+### [Goeggingen,Augsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.private.md) 
+
+### [Goeggingen,Augsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.personal.md) 
+
+### [Goeggingen,Augsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.secret.md) 

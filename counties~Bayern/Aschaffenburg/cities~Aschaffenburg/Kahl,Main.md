@@ -1,4 +1,4 @@
----
+﻿---
 location: [50.07,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kahl|Kahl]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.internal|Kahl.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.protect|Kahl.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.private|Kahl.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.personal|Kahl.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kahl.secret|Kahl.secret]] 
+
+### [Kahl,Main](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.md) 
+
+### [Kahl,Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.internal.md) 
+
+### [Kahl,Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.protect.md) 
+
+### [Kahl,Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.private.md) 
+
+### [Kahl,Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.personal.md) 
+
+### [Kahl,Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.secret.md) 

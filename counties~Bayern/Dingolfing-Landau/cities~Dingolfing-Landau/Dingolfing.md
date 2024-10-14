@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Dingolfing|Dingolfing]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.internal|Dingolfing.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.protect|Dingolfing.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.private|Dingolfing.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.personal|Dingolfing.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Dingolfing.secret|Dingolfing.secret]] 
+
+### [Dingolfing](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.md) 
+
+### [Dingolfing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.internal.md) 
+
+### [Dingolfing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.protect.md) 
+
+### [Dingolfing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.private.md) 
+
+### [Dingolfing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.personal.md) 
+
+### [Dingolfing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.secret.md) 

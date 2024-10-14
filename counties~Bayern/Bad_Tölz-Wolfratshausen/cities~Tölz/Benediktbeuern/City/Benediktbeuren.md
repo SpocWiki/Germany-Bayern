@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Benediktbeuren|Benediktbeuren]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.internal|Benediktbeuren.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.protect|Benediktbeuren.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.private|Benediktbeuren.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.personal|Benediktbeuren.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Benediktbeuren.secret|Benediktbeuren.secret]] 
+
+### [Benediktbeuren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.md) 
+
+### [Benediktbeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.internal.md) 
+
+### [Benediktbeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.protect.md) 
+
+### [Benediktbeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.private.md) 
+
+### [Benediktbeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.personal.md) 
+
+### [Benediktbeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.secret.md) 

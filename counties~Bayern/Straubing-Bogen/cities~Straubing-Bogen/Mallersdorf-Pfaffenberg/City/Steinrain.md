@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Steinrain|Steinrain]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.internal|Steinrain.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.protect|Steinrain.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.private|Steinrain.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.personal|Steinrain.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Steinrain.secret|Steinrain.secret]] 
+
+### [Steinrain](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.md) 
+
+### [Steinrain.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.internal.md) 
+
+### [Steinrain.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.protect.md) 
+
+### [Steinrain.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.private.md) 
+
+### [Steinrain.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.personal.md) 
+
+### [Steinrain.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Mallersdorf-Pfaffenberg/City/Steinrain.secret.md) 

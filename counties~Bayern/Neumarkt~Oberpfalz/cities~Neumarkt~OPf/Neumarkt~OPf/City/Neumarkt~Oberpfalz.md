@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Neumarkt~Oberpfalz|Neumarkt~Oberpfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.internal|Neumarkt~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.protect|Neumarkt~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.private|Neumarkt~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.personal|Neumarkt~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Neumarkt~Oberpfalz.secret|Neumarkt~Oberpfalz.secret]] 
+
+### [Neumarkt~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.md) 
+
+### [Neumarkt~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.internal.md) 
+
+### [Neumarkt~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.protect.md) 
+
+### [Neumarkt~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.private.md) 
+
+### [Neumarkt~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.personal.md) 
+
+### [Neumarkt~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.secret.md) 

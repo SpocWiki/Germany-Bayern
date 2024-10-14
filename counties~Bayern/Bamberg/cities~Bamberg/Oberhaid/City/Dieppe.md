@@ -34,10 +34,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Europe/France/City/Dieppe|Dieppe]] 
-- [[../../../../../../_public/geo/Continent/Europe/France/City/Dieppe.public|Dieppe.public]] 
-- [[../../../../../../_internal/geo/Continent/Europe/France/City/Dieppe.internal|Dieppe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Europe/France/City/Dieppe.protect|Dieppe.protect]] 
-- [[../../../../../../_private/geo/Continent/Europe/France/City/Dieppe.private|Dieppe.private]] 
-- [[../../../../../../_personal/geo/Continent/Europe/France/City/Dieppe.personal|Dieppe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Europe/France/City/Dieppe.secret|Dieppe.secret]] 
+
+### [Dieppe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.md) 
+
+### [Dieppe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.internal.md) 
+
+### [Dieppe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.protect.md) 
+
+### [Dieppe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.private.md) 
+
+### [Dieppe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.personal.md) 
+
+### [Dieppe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.secret.md) 

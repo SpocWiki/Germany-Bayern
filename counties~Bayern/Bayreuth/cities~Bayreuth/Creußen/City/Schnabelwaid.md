@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Schnabelwaid|Schnabelwaid]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.internal|Schnabelwaid.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.protect|Schnabelwaid.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.private|Schnabelwaid.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.personal|Schnabelwaid.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Schnabelwaid.secret|Schnabelwaid.secret]] 
+
+### [Schnabelwaid](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.md) 
+
+### [Schnabelwaid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.internal.md) 
+
+### [Schnabelwaid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.protect.md) 
+
+### [Schnabelwaid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.private.md) 
+
+### [Schnabelwaid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.personal.md) 
+
+### [Schnabelwaid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.secret.md) 

@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wilhermsdorf|Wilhermsdorf]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.internal|Wilhermsdorf.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.protect|Wilhermsdorf.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.private|Wilhermsdorf.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.personal|Wilhermsdorf.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilhermsdorf.secret|Wilhermsdorf.secret]] 
+
+### [Wilhermsdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.md) 
+
+### [Wilhermsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.internal.md) 
+
+### [Wilhermsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.protect.md) 
+
+### [Wilhermsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.private.md) 
+
+### [Wilhermsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.personal.md) 
+
+### [Wilhermsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.secret.md) 

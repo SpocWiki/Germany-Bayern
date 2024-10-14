@@ -1,4 +1,4 @@
----
+﻿---
 location: [48.32,10.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Margertshausen|Margertshausen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.internal|Margertshausen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.protect|Margertshausen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.private|Margertshausen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.personal|Margertshausen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Margertshausen.secret|Margertshausen.secret]] 
+
+### [Margertshausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.md) 
+
+### [Margertshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.internal.md) 
+
+### [Margertshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.protect.md) 
+
+### [Margertshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.private.md) 
+
+### [Margertshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.personal.md) 
+
+### [Margertshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.secret.md) 

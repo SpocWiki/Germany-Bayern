@@ -1,4 +1,4 @@
----
+﻿---
 location:
   - 49.79
   - 9.93
@@ -42,9 +42,15 @@ maxZoom: 18
 Residenz Würzburg mit Hofgarten und Residenzplatz (1981 [[Unesco]] Welterbe)
 
 ## Confidential Links & Embeds: 
-- [[Würzburg|Wuerzburg]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.internal|Wuerzburg.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.protect|Wuerzburg.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.private|Wuerzburg.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.personal|Wuerzburg.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wuerzburg.secret|Wuerzburg.secret]] 
+
+### [Würzburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.md) 
+
+### [Würzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.internal.md) 
+
+### [Würzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.protect.md) 
+
+### [Würzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.private.md) 
+
+### [Würzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.personal.md) 
+
+### [Würzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg-City/City/Würzburg.secret.md) 

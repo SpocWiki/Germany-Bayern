@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Oberschleissheim|Oberschleissheim]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.internal|Oberschleissheim.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.protect|Oberschleissheim.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.private|Oberschleissheim.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.personal|Oberschleissheim.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Oberschleissheim.secret|Oberschleissheim.secret]] 
+
+### [Oberschleissheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.md) 
+
+### [Oberschleissheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.internal.md) 
+
+### [Oberschleissheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.protect.md) 
+
+### [Oberschleissheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.private.md) 
+
+### [Oberschleissheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.personal.md) 
+
+### [Oberschleissheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Oberschleissheim.secret.md) 

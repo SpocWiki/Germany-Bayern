@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Kemnath~Oberpfalz|Kemnath~Oberpfalz]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.internal|Kemnath~Oberpfalz.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.protect|Kemnath~Oberpfalz.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.private|Kemnath~Oberpfalz.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.personal|Kemnath~Oberpfalz.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Kemnath~Oberpfalz.secret|Kemnath~Oberpfalz.secret]] 
+
+### [Kemnath~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.md) 
+
+### [Kemnath~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.internal.md) 
+
+### [Kemnath~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.protect.md) 
+
+### [Kemnath~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.private.md) 
+
+### [Kemnath~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.personal.md) 
+
+### [Kemnath~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.secret.md) 

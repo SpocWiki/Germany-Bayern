@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Erlenbach~Unterfranken|Erlenbach~Unterfranken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.internal|Erlenbach~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.protect|Erlenbach~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.private|Erlenbach~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.personal|Erlenbach~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Erlenbach~Unterfranken.secret|Erlenbach~Unterfranken.secret]] 
+
+### [Erlenbach~Unterfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.md) 
+
+### [Erlenbach~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.internal.md) 
+
+### [Erlenbach~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.protect.md) 
+
+### [Erlenbach~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.private.md) 
+
+### [Erlenbach~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.personal.md) 
+
+### [Erlenbach~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.secret.md) 

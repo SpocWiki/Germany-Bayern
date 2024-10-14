@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.02,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -38,9 +38,15 @@ markerFolder: ./Heidenheim,MFranken/
 
 
 ## Confidential Links & Embeds: 
-- [[Heidenheim~Mittelfranken|Heidenheim~Mittelfranken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.internal|Heidenheim~Mittelfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.protect|Heidenheim~Mittelfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.private|Heidenheim~Mittelfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.personal|Heidenheim~Mittelfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Heidenheim~Mittelfranken.secret|Heidenheim~Mittelfranken.secret]] 
+
+### [Heidenheim,MFranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.md) 
+
+### [Heidenheim,MFranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.internal.md) 
+
+### [Heidenheim,MFranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.protect.md) 
+
+### [Heidenheim,MFranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.private.md) 
+
+### [Heidenheim,MFranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.personal.md) 
+
+### [Heidenheim,MFranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Hahnenkamm/boroughs~Hahnenkamm/Heidenheim,MFranken.secret.md) 

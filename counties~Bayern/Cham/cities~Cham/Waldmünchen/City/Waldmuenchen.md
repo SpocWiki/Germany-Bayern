@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Waldmuenchen|Waldmuenchen]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.internal|Waldmuenchen.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.protect|Waldmuenchen.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.private|Waldmuenchen.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.personal|Waldmuenchen.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Waldmuenchen.secret|Waldmuenchen.secret]] 
+
+### [Waldmuenchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.md) 
+
+### [Waldmuenchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.internal.md) 
+
+### [Waldmuenchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.protect.md) 
+
+### [Waldmuenchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.private.md) 
+
+### [Waldmuenchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.personal.md) 
+
+### [Waldmuenchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.secret.md) 

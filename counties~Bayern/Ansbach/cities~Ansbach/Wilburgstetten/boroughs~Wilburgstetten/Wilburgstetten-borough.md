@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.03,10.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Wilburgstetten|Wilburgstetten]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.internal|Wilburgstetten.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.protect|Wilburgstetten.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.private|Wilburgstetten.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.personal|Wilburgstetten.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Wilburgstetten.secret|Wilburgstetten.secret]] 
+
+### [Wilburgstetten-borough](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.md) 
+
+### [Wilburgstetten-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.internal.md) 
+
+### [Wilburgstetten-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.protect.md) 
+
+### [Wilburgstetten-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.private.md) 
+
+### [Wilburgstetten-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.personal.md) 
+
+### [Wilburgstetten-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.secret.md) 

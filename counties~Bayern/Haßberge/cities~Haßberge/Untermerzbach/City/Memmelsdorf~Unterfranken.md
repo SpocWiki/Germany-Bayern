@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Memmelsdorf~Unterfranken|Memmelsdorf~Unterfranken]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Unterfranken.internal|Memmelsdorf~Unterfranken.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Unterfranken.protect|Memmelsdorf~Unterfranken.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Unterfranken.private|Memmelsdorf~Unterfranken.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Unterfranken.personal|Memmelsdorf~Unterfranken.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Memmelsdorf~Unterfranken.secret|Memmelsdorf~Unterfranken.secret]] 
+
+### [Memmelsdorf~Unterfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.md) 
+
+### [Memmelsdorf~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.internal.md) 
+
+### [Memmelsdorf~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.protect.md) 
+
+### [Memmelsdorf~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.private.md) 
+
+### [Memmelsdorf~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.personal.md) 
+
+### [Memmelsdorf~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.secret.md) 

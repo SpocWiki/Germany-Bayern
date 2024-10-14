@@ -1,4 +1,4 @@
----
+﻿---
 location: [49.42,10.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -43,9 +43,15 @@ maxZoom: 18
 Das _Plönlein_ mit dem _Sieberstor_ (links) und dem _Kobolzeller Tor_ (rechts), 2008
 Der Siebersturm aus der Zeit um 1385 und das Kobolzeller Tor um 1360 zusammen mit den umgebenden Fachwerkhäusern. 
 ## Confidential Links & Embeds: 
-- [[Rothenburg_ob_der_Tauber|Rothenburg_ob_der_Tauber]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.internal|Rothenburg_ob_der_Tauber.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.protect|Rothenburg_ob_der_Tauber.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.private|Rothenburg_ob_der_Tauber.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.personal|Rothenburg_ob_der_Tauber.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Rothenburg_ob_der_Tauber.secret|Rothenburg_ob_der_Tauber.secret]] 
+
+### [Rothenburg~Tauber~Verw](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.md) 
+
+### [Rothenburg~Tauber~Verw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.internal.md) 
+
+### [Rothenburg~Tauber~Verw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.protect.md) 
+
+### [Rothenburg~Tauber~Verw.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.private.md) 
+
+### [Rothenburg~Tauber~Verw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.personal.md) 
+
+### [Rothenburg~Tauber~Verw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.secret.md) 

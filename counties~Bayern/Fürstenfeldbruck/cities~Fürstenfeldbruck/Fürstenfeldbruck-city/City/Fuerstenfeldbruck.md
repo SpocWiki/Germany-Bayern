@@ -33,9 +33,15 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fuerstenfeldbruck|Fuerstenfeldbruck]]  
-- [[../../../../../../../../_internal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.internal|Fuerstenfeldbruck.internal]] 
-- [[../../../../../../../../_protect/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.protect|Fuerstenfeldbruck.protect]] 
-- [[../../../../../../../../_private/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.private|Fuerstenfeldbruck.private]] 
-- [[../../../../../../../../_personal/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.personal|Fuerstenfeldbruck.personal]] 
-- [[../../../../../../../../_secret/geo/Continent/Europe/Germany/West/Bayern/City/Fuerstenfeldbruck.secret|Fuerstenfeldbruck.secret]] 
+
+### [Fuerstenfeldbruck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.md) 
+
+### [Fuerstenfeldbruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.internal.md) 
+
+### [Fuerstenfeldbruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.protect.md) 
+
+### [Fuerstenfeldbruck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.private.md) 
+
+### [Fuerstenfeldbruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.personal.md) 
+
+### [Fuerstenfeldbruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Fuerstenfeldbruck.secret.md) 
