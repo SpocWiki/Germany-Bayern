@@ -190,7 +190,7 @@ flag image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg
 budget: 71424666800
 native label: Freistaat Bayern
-inception: 1919-01-12T00:00:00Z
+inception: 1919-01-12
 coordinate location: Point(11.385555555 49.078611111)
 coordinates of northernmost point: Point(10.19564 50.55515)
 Commons category: Bavaria
