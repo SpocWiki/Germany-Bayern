@@ -280,7 +280,7 @@ markerFolder: ./
  
 
 has_place_country:: [[Germany]]  
-Capital ::  [[München]] 
+Capital ::[[counties~Bayern/München,County/City/München,City]]]] 
 #is_a_/Place  
 #is_a_ :: [[Place]] 
 [has_place_longitude::11.3382] 
