@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.8,11.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schaftlach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.md) 
+### #is_/same_as :: [Schaftlach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.md) 
 
-### [Schaftlach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.internal.md) 
+### #is_/same_as :: [Schaftlach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.public.md) 
 
-### [Schaftlach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.protect.md) 
+### #is_/same_as :: [Schaftlach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.internal.md) 
 
-### [Schaftlach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.private.md) 
+### #is_/same_as :: [Schaftlach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.protect.md) 
 
-### [Schaftlach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.personal.md) 
+### #is_/same_as :: [Schaftlach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.private.md) 
 
-### [Schaftlach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.secret.md) 
+### #is_/same_as :: [Schaftlach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.personal.md) 
+
+### #is_/same_as :: [Schaftlach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau/City/Schaftlach.secret.md)
+

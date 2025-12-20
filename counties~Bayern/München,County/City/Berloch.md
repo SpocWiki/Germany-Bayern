@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.1,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Berloch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.md) 
+### #is_/same_as :: [Berloch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.md) 
 
-### [Berloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.internal.md) 
+### #is_/same_as :: [Berloch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.public.md) 
 
-### [Berloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.protect.md) 
+### #is_/same_as :: [Berloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.internal.md) 
 
-### [Berloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.private.md) 
+### #is_/same_as :: [Berloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.protect.md) 
 
-### [Berloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.personal.md) 
+### #is_/same_as :: [Berloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.private.md) 
 
-### [Berloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Berloch.secret.md) 
+### #is_/same_as :: [Berloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.personal.md) 
+
+### #is_/same_as :: [Berloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Berloch.secret.md)
+

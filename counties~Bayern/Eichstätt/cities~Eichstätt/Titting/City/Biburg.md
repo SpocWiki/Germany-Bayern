@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.03,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Biburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.md) 
+### #is_/same_as :: [Biburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.md) 
 
-### [Biburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.internal.md) 
+### #is_/same_as :: [Biburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.public.md) 
 
-### [Biburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.protect.md) 
+### #is_/same_as :: [Biburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.internal.md) 
 
-### [Biburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.private.md) 
+### #is_/same_as :: [Biburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.protect.md) 
 
-### [Biburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.personal.md) 
+### #is_/same_as :: [Biburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.private.md) 
 
-### [Biburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.secret.md) 
+### #is_/same_as :: [Biburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.personal.md) 
+
+### #is_/same_as :: [Biburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Biburg.secret.md)
+

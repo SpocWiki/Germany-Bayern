@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,11.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zamdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.md) 
+### #is_/same_as :: [Zamdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.md) 
 
-### [Zamdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.internal.md) 
+### #is_/same_as :: [Zamdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.public.md) 
 
-### [Zamdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.protect.md) 
+### #is_/same_as :: [Zamdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.internal.md) 
 
-### [Zamdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.private.md) 
+### #is_/same_as :: [Zamdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.protect.md) 
 
-### [Zamdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.personal.md) 
+### #is_/same_as :: [Zamdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.private.md) 
 
-### [Zamdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Zamdorf.secret.md) 
+### #is_/same_as :: [Zamdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.personal.md) 
+
+### #is_/same_as :: [Zamdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Zamdorf.secret.md)
+

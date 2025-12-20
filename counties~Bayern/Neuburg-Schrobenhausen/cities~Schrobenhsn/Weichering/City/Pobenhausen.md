@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.7,11.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pobenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.md) 
+### #is_/same_as :: [Pobenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.md) 
 
-### [Pobenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.internal.md) 
+### #is_/same_as :: [Pobenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.public.md) 
 
-### [Pobenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.protect.md) 
+### #is_/same_as :: [Pobenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.internal.md) 
 
-### [Pobenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.private.md) 
+### #is_/same_as :: [Pobenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.protect.md) 
 
-### [Pobenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.personal.md) 
+### #is_/same_as :: [Pobenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.private.md) 
 
-### [Pobenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.secret.md) 
+### #is_/same_as :: [Pobenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.personal.md) 
+
+### #is_/same_as :: [Pobenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Weichering/City/Pobenhausen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.73,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Waldnaab-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.md) 
 
-### [Neustadt~Waldnaab-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.internal.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.public.md) 
 
-### [Neustadt~Waldnaab-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.protect.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.internal.md) 
 
-### [Neustadt~Waldnaab-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.private.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.protect.md) 
 
-### [Neustadt~Waldnaab-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.personal.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.private.md) 
 
-### [Neustadt~Waldnaab-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.secret.md) 
+### #is_/same_as :: [Neustadt~Waldnaab-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.personal.md) 
+
+### #is_/same_as :: [Neustadt~Waldnaab-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Neustadt~Waldnaab-City.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.18,11.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Münchberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.md) 
+### #is_/same_as :: [Münchberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.md) 
 
-### [Münchberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.internal.md) 
+### #is_/same_as :: [Münchberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.public.md) 
 
-### [Münchberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.protect.md) 
+### #is_/same_as :: [Münchberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.internal.md) 
 
-### [Münchberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.private.md) 
+### #is_/same_as :: [Münchberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.protect.md) 
 
-### [Münchberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.personal.md) 
+### #is_/same_as :: [Münchberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.private.md) 
 
-### [Münchberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.secret.md) 
+### #is_/same_as :: [Münchberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.personal.md) 
+
+### #is_/same_as :: [Münchberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Münchberg.secret.md)
+

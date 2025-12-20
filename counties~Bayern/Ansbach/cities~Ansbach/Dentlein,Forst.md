@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.32,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dentlein,Forst](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.md) 
+### #is_/same_as :: [Dentlein,Forst](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.md) 
 
-### [Dentlein,Forst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.internal.md) 
+### #is_/same_as :: [Dentlein,Forst.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.public.md) 
 
-### [Dentlein,Forst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.protect.md) 
+### #is_/same_as :: [Dentlein,Forst.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.internal.md) 
 
-### [Dentlein,Forst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.private.md) 
+### #is_/same_as :: [Dentlein,Forst.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.protect.md) 
 
-### [Dentlein,Forst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.personal.md) 
+### #is_/same_as :: [Dentlein,Forst.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.private.md) 
 
-### [Dentlein,Forst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.secret.md) 
+### #is_/same_as :: [Dentlein,Forst.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.personal.md) 
+
+### #is_/same_as :: [Dentlein,Forst.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst.secret.md)
+

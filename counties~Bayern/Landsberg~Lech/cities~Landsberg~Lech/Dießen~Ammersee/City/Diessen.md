@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.95,11.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Diessen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.md) 
+### #is_/same_as :: [Diessen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.md) 
 
-### [Diessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.internal.md) 
+### #is_/same_as :: [Diessen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.public.md) 
 
-### [Diessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.protect.md) 
+### #is_/same_as :: [Diessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.internal.md) 
 
-### [Diessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.private.md) 
+### #is_/same_as :: [Diessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.protect.md) 
 
-### [Diessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.personal.md) 
+### #is_/same_as :: [Diessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.private.md) 
 
-### [Diessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.secret.md) 
+### #is_/same_as :: [Diessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.personal.md) 
+
+### #is_/same_as :: [Diessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Dießen~Ammersee/City/Diessen.secret.md)
+

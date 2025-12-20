@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.5,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wartenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.md) 
+### #is_/same_as :: [Wartenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.md) 
 
-### [Wartenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.internal.md) 
+### #is_/same_as :: [Wartenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.public.md) 
 
-### [Wartenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.protect.md) 
+### #is_/same_as :: [Wartenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.internal.md) 
 
-### [Wartenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.private.md) 
+### #is_/same_as :: [Wartenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.protect.md) 
 
-### [Wartenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.personal.md) 
+### #is_/same_as :: [Wartenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.private.md) 
 
-### [Wartenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.secret.md) 
+### #is_/same_as :: [Wartenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.personal.md) 
+
+### #is_/same_as :: [Wartenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Bruckberg/City/Wartenberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.77,11.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Toelz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.md) 
+### #is_/same_as :: [Bad_Toelz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.md) 
 
-### [Bad_Toelz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.internal.md) 
+### #is_/same_as :: [Bad_Toelz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.public.md) 
 
-### [Bad_Toelz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.protect.md) 
+### #is_/same_as :: [Bad_Toelz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.internal.md) 
 
-### [Bad_Toelz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.private.md) 
+### #is_/same_as :: [Bad_Toelz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.protect.md) 
 
-### [Bad_Toelz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.personal.md) 
+### #is_/same_as :: [Bad_Toelz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.private.md) 
 
-### [Bad_Toelz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.secret.md) 
+### #is_/same_as :: [Bad_Toelz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.personal.md) 
+
+### #is_/same_as :: [Bad_Toelz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Tölz/City/Bad_Toelz.secret.md)
+

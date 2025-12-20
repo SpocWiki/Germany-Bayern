@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.92,12.93] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Edenstetten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.md) 
+### #is_/same_as :: [Edenstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.md) 
 
-### [Edenstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.internal.md) 
+### #is_/same_as :: [Edenstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.public.md) 
 
-### [Edenstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.protect.md) 
+### #is_/same_as :: [Edenstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.internal.md) 
 
-### [Edenstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.private.md) 
+### #is_/same_as :: [Edenstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.protect.md) 
 
-### [Edenstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.personal.md) 
+### #is_/same_as :: [Edenstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.private.md) 
 
-### [Edenstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.secret.md) 
+### #is_/same_as :: [Edenstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.personal.md) 
+
+### #is_/same_as :: [Edenstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Bernried/City/Edenstetten.secret.md)
+

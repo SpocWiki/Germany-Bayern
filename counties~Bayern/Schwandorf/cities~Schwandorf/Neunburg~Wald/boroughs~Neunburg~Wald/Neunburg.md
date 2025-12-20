@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.35,12.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neunburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.md) 
+### #is_/same_as :: [Neunburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.md) 
 
-### [Neunburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.internal.md) 
+### #is_/same_as :: [Neunburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.public.md) 
 
-### [Neunburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.protect.md) 
+### #is_/same_as :: [Neunburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.internal.md) 
 
-### [Neunburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.private.md) 
+### #is_/same_as :: [Neunburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.protect.md) 
 
-### [Neunburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.personal.md) 
+### #is_/same_as :: [Neunburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.private.md) 
 
-### [Neunburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.secret.md) 
+### #is_/same_as :: [Neunburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.personal.md) 
+
+### #is_/same_as :: [Neunburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Neunburg.secret.md)
+

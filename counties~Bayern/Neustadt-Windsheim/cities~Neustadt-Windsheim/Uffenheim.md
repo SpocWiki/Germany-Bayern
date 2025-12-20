@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.55,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Uffenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.md) 
+### #is_/same_as :: [Uffenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.md) 
 
-### [Uffenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.internal.md) 
+### #is_/same_as :: [Uffenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.public.md) 
 
-### [Uffenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.protect.md) 
+### #is_/same_as :: [Uffenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.internal.md) 
 
-### [Uffenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.private.md) 
+### #is_/same_as :: [Uffenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.protect.md) 
 
-### [Uffenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.personal.md) 
+### #is_/same_as :: [Uffenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.private.md) 
 
-### [Uffenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.secret.md) 
+### #is_/same_as :: [Uffenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.personal.md) 
+
+### #is_/same_as :: [Uffenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Uffenheim.secret.md)
+

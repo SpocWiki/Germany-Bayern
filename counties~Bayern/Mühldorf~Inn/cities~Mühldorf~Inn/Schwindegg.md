@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.27,12.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwindegg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.md) 
+### #is_/same_as :: [Schwindegg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.md) 
 
-### [Schwindegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.internal.md) 
+### #is_/same_as :: [Schwindegg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.public.md) 
 
-### [Schwindegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.protect.md) 
+### #is_/same_as :: [Schwindegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.internal.md) 
 
-### [Schwindegg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.private.md) 
+### #is_/same_as :: [Schwindegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.protect.md) 
 
-### [Schwindegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.personal.md) 
+### #is_/same_as :: [Schwindegg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.private.md) 
 
-### [Schwindegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.secret.md) 
+### #is_/same_as :: [Schwindegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.personal.md) 
+
+### #is_/same_as :: [Schwindegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Schwindegg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.78,9.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldbuettelbrunn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.md) 
+### #is_/same_as :: [Waldbuettelbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.md) 
 
-### [Waldbuettelbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.internal.md) 
+### #is_/same_as :: [Waldbuettelbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.public.md) 
 
-### [Waldbuettelbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.protect.md) 
+### #is_/same_as :: [Waldbuettelbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.internal.md) 
 
-### [Waldbuettelbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.private.md) 
+### #is_/same_as :: [Waldbuettelbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.protect.md) 
 
-### [Waldbuettelbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.personal.md) 
+### #is_/same_as :: [Waldbuettelbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.private.md) 
 
-### [Waldbuettelbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.secret.md) 
+### #is_/same_as :: [Waldbuettelbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.personal.md) 
+
+### #is_/same_as :: [Waldbuettelbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Waldbüttelbrunn/City/Waldbuettelbrunn.secret.md)
+

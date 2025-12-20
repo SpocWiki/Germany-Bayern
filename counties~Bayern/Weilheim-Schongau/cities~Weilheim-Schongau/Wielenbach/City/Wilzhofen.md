@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.88,11.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilzhofen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.md) 
+### #is_/same_as :: [Wilzhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.md) 
 
-### [Wilzhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.internal.md) 
+### #is_/same_as :: [Wilzhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.public.md) 
 
-### [Wilzhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.protect.md) 
+### #is_/same_as :: [Wilzhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.internal.md) 
 
-### [Wilzhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.private.md) 
+### #is_/same_as :: [Wilzhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.protect.md) 
 
-### [Wilzhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.personal.md) 
+### #is_/same_as :: [Wilzhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.private.md) 
 
-### [Wilzhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.secret.md) 
+### #is_/same_as :: [Wilzhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.personal.md) 
+
+### #is_/same_as :: [Wilzhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Wielenbach/City/Wilzhofen.secret.md)
+

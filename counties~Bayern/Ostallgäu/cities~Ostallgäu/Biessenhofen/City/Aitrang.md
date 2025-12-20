@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.82,10.53] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aitrang](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.md) 
+### #is_/same_as :: [Aitrang](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.md) 
 
-### [Aitrang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.internal.md) 
+### #is_/same_as :: [Aitrang.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.public.md) 
 
-### [Aitrang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.protect.md) 
+### #is_/same_as :: [Aitrang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.internal.md) 
 
-### [Aitrang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.private.md) 
+### #is_/same_as :: [Aitrang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.protect.md) 
 
-### [Aitrang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.personal.md) 
+### #is_/same_as :: [Aitrang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.private.md) 
 
-### [Aitrang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.secret.md) 
+### #is_/same_as :: [Aitrang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.personal.md) 
+
+### #is_/same_as :: [Aitrang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Biessenhofen/City/Aitrang.secret.md)
+

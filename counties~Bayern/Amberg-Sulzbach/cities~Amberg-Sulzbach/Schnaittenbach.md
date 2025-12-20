@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.52,12.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schnaittenbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.md) 
+### #is_/same_as :: [Schnaittenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.md) 
 
-### [Schnaittenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.internal.md) 
+### #is_/same_as :: [Schnaittenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.public.md) 
 
-### [Schnaittenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.protect.md) 
+### #is_/same_as :: [Schnaittenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.internal.md) 
 
-### [Schnaittenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.private.md) 
+### #is_/same_as :: [Schnaittenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.protect.md) 
 
-### [Schnaittenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.personal.md) 
+### #is_/same_as :: [Schnaittenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.private.md) 
 
-### [Schnaittenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.secret.md) 
+### #is_/same_as :: [Schnaittenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.personal.md) 
+
+### #is_/same_as :: [Schnaittenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Schnaittenbach.secret.md)
+

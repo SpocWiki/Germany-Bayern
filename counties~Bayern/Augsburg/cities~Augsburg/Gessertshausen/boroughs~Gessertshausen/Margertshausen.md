@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.32,10.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Margertshausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.md) 
+### #is_/same_as :: [Margertshausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.md) 
 
-### [Margertshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.internal.md) 
+### #is_/same_as :: [Margertshausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.public.md) 
 
-### [Margertshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.protect.md) 
+### #is_/same_as :: [Margertshausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.internal.md) 
 
-### [Margertshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.private.md) 
+### #is_/same_as :: [Margertshausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.protect.md) 
 
-### [Margertshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.personal.md) 
+### #is_/same_as :: [Margertshausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.private.md) 
 
-### [Margertshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.secret.md) 
+### #is_/same_as :: [Margertshausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.personal.md) 
+
+### #is_/same_as :: [Margertshausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Gessertshausen/boroughs~Gessertshausen/Margertshausen.secret.md)
+

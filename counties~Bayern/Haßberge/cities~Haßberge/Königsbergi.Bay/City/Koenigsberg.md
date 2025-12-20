@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.08,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Koenigsberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.md) 
+### #is_/same_as :: [Koenigsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.md) 
 
-### [Koenigsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.internal.md) 
+### #is_/same_as :: [Koenigsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.public.md) 
 
-### [Koenigsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.protect.md) 
+### #is_/same_as :: [Koenigsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.internal.md) 
 
-### [Koenigsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.private.md) 
+### #is_/same_as :: [Koenigsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.protect.md) 
 
-### [Koenigsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.personal.md) 
+### #is_/same_as :: [Koenigsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.private.md) 
 
-### [Koenigsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.secret.md) 
+### #is_/same_as :: [Koenigsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.personal.md) 
+
+### #is_/same_as :: [Koenigsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Königsbergi.Bay/City/Koenigsberg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,11.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Heilbrunn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.md) 
+### #is_/same_as :: [Heilbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.md) 
 
-### [Heilbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.internal.md) 
+### #is_/same_as :: [Heilbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.public.md) 
 
-### [Heilbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.protect.md) 
+### #is_/same_as :: [Heilbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.internal.md) 
 
-### [Heilbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.private.md) 
+### #is_/same_as :: [Heilbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.protect.md) 
 
-### [Heilbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.personal.md) 
+### #is_/same_as :: [Heilbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.private.md) 
 
-### [Heilbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.secret.md) 
+### #is_/same_as :: [Heilbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.personal.md) 
+
+### #is_/same_as :: [Heilbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Bad_Heilbrunn/City/Heilbrunn.secret.md)
+

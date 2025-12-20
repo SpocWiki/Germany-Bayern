@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,11.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Herrsching](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.md) 
+### #is_/same_as :: [Herrsching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.md) 
 
-### [Herrsching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.internal.md) 
+### #is_/same_as :: [Herrsching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.public.md) 
 
-### [Herrsching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.protect.md) 
+### #is_/same_as :: [Herrsching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.internal.md) 
 
-### [Herrsching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.private.md) 
+### #is_/same_as :: [Herrsching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.protect.md) 
 
-### [Herrsching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.personal.md) 
+### #is_/same_as :: [Herrsching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.private.md) 
 
-### [Herrsching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.secret.md) 
+### #is_/same_as :: [Herrsching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.personal.md) 
+
+### #is_/same_as :: [Herrsching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Herrsching~Ammersee/City/Herrsching.secret.md)
+

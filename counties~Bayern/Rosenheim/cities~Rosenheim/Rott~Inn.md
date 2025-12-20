@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.98,12.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rott~Inn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.md) 
+### #is_/same_as :: [Rott~Inn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.md) 
 
-### [Rott~Inn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.internal.md) 
+### #is_/same_as :: [Rott~Inn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.public.md) 
 
-### [Rott~Inn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.protect.md) 
+### #is_/same_as :: [Rott~Inn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.internal.md) 
 
-### [Rott~Inn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.private.md) 
+### #is_/same_as :: [Rott~Inn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.protect.md) 
 
-### [Rott~Inn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.personal.md) 
+### #is_/same_as :: [Rott~Inn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.private.md) 
 
-### [Rott~Inn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.secret.md) 
+### #is_/same_as :: [Rott~Inn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.personal.md) 
+
+### #is_/same_as :: [Rott~Inn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Rott~Inn.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.82,11.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schnabelwaid](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.md) 
+### #is_/same_as :: [Schnabelwaid](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.md) 
 
-### [Schnabelwaid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.internal.md) 
+### #is_/same_as :: [Schnabelwaid.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.public.md) 
 
-### [Schnabelwaid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.protect.md) 
+### #is_/same_as :: [Schnabelwaid.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.internal.md) 
 
-### [Schnabelwaid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.private.md) 
+### #is_/same_as :: [Schnabelwaid.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.protect.md) 
 
-### [Schnabelwaid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.personal.md) 
+### #is_/same_as :: [Schnabelwaid.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.private.md) 
 
-### [Schnabelwaid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.secret.md) 
+### #is_/same_as :: [Schnabelwaid.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.personal.md) 
+
+### #is_/same_as :: [Schnabelwaid.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Creußen/City/Schnabelwaid.secret.md)
+

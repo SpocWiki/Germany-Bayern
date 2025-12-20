@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.62,11.82] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vilseck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.md) 
+### #is_/same_as :: [Vilseck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.md) 
 
-### [Vilseck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.internal.md) 
+### #is_/same_as :: [Vilseck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.public.md) 
 
-### [Vilseck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.protect.md) 
+### #is_/same_as :: [Vilseck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.internal.md) 
 
-### [Vilseck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.private.md) 
+### #is_/same_as :: [Vilseck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.protect.md) 
 
-### [Vilseck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.personal.md) 
+### #is_/same_as :: [Vilseck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.private.md) 
 
-### [Vilseck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.secret.md) 
+### #is_/same_as :: [Vilseck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.personal.md) 
+
+### #is_/same_as :: [Vilseck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Vilseck.secret.md)
+

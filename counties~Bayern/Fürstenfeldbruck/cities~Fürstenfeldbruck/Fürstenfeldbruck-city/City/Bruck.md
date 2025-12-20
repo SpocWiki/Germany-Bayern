@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.17,11.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bruck](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.md) 
+### #is_/same_as :: [Bruck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.md) 
 
-### [Bruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.internal.md) 
+### #is_/same_as :: [Bruck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.public.md) 
 
-### [Bruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.protect.md) 
+### #is_/same_as :: [Bruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.internal.md) 
 
-### [Bruck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.private.md) 
+### #is_/same_as :: [Bruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.protect.md) 
 
-### [Bruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.personal.md) 
+### #is_/same_as :: [Bruck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.private.md) 
 
-### [Bruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.secret.md) 
+### #is_/same_as :: [Bruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.personal.md) 
+
+### #is_/same_as :: [Bruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürstenfeldbruck/cities~Fürstenfeldbruck/Fürstenfeldbruck-city/City/Bruck.secret.md)
+

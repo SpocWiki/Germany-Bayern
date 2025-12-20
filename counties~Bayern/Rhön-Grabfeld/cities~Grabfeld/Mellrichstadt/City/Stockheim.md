@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.45,10.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Stockheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.md) 
+### #is_/same_as :: [Stockheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.md) 
 
-### [Stockheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.internal.md) 
+### #is_/same_as :: [Stockheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.public.md) 
 
-### [Stockheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.protect.md) 
+### #is_/same_as :: [Stockheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.internal.md) 
 
-### [Stockheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.private.md) 
+### #is_/same_as :: [Stockheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.protect.md) 
 
-### [Stockheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.personal.md) 
+### #is_/same_as :: [Stockheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.private.md) 
 
-### [Stockheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.secret.md) 
+### #is_/same_as :: [Stockheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.personal.md) 
+
+### #is_/same_as :: [Stockheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.secret.md)
+

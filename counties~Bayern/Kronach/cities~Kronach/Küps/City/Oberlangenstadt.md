@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.18,11.28] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberlangenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.md) 
+### #is_/same_as :: [Oberlangenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.md) 
 
-### [Oberlangenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.internal.md) 
+### #is_/same_as :: [Oberlangenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.public.md) 
 
-### [Oberlangenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.protect.md) 
+### #is_/same_as :: [Oberlangenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.internal.md) 
 
-### [Oberlangenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.private.md) 
+### #is_/same_as :: [Oberlangenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.protect.md) 
 
-### [Oberlangenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.personal.md) 
+### #is_/same_as :: [Oberlangenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.private.md) 
 
-### [Oberlangenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.secret.md) 
+### #is_/same_as :: [Oberlangenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.personal.md) 
+
+### #is_/same_as :: [Oberlangenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Küps/City/Oberlangenstadt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.17,10.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kirchheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.md) 
+### #is_/same_as :: [Kirchheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.md) 
 
-### [Kirchheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.internal.md) 
+### #is_/same_as :: [Kirchheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.public.md) 
 
-### [Kirchheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.protect.md) 
+### #is_/same_as :: [Kirchheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.internal.md) 
 
-### [Kirchheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.private.md) 
+### #is_/same_as :: [Kirchheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.protect.md) 
 
-### [Kirchheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.personal.md) 
+### #is_/same_as :: [Kirchheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.private.md) 
 
-### [Kirchheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.secret.md) 
+### #is_/same_as :: [Kirchheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.personal.md) 
+
+### #is_/same_as :: [Kirchheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.secret.md)
+

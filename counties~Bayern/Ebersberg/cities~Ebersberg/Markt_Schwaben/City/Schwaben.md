@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.18,11.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwaben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.md) 
+### #is_/same_as :: [Schwaben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.md) 
 
-### [Schwaben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.internal.md) 
+### #is_/same_as :: [Schwaben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.public.md) 
 
-### [Schwaben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.protect.md) 
+### #is_/same_as :: [Schwaben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.internal.md) 
 
-### [Schwaben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.private.md) 
+### #is_/same_as :: [Schwaben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.protect.md) 
 
-### [Schwaben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.personal.md) 
+### #is_/same_as :: [Schwaben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.private.md) 
 
-### [Schwaben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.secret.md) 
+### #is_/same_as :: [Schwaben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.personal.md) 
+
+### #is_/same_as :: [Schwaben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ebersberg/cities~Ebersberg/Markt_Schwaben/City/Schwaben.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.82,12.3] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Pennabilli](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.md) 
+### #is_/same_as :: [Pennabilli](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.md) 
 
-### [Pennabilli.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.internal.md) 
+### #is_/same_as :: [Pennabilli.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.public.md) 
 
-### [Pennabilli.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.protect.md) 
+### #is_/same_as :: [Pennabilli.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.internal.md) 
 
-### [Pennabilli.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.private.md) 
+### #is_/same_as :: [Pennabilli.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.protect.md) 
 
-### [Pennabilli.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.personal.md) 
+### #is_/same_as :: [Pennabilli.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.private.md) 
 
-### [Pennabilli.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.secret.md) 
+### #is_/same_as :: [Pennabilli.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.personal.md) 
+
+### #is_/same_as :: [Pennabilli.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Plößberg/City/Pennabilli.secret.md)
+

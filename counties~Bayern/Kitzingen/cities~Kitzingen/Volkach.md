@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.87,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,16 +40,20 @@ Die Volkacher Altstadt ist fränkische Geschichte auf engstem Raum.
 Der Besucher stößt auf die mittelalterliche Stadtmauer, eine gotische Pfarrkirche, 
 das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock.
 
+
 ## Confidential Links & Embeds: 
 
-### [Volkach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.md) 
+### #is_/same_as :: [Volkach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.md) 
 
-### [Volkach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.internal.md) 
+### #is_/same_as :: [Volkach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.public.md) 
 
-### [Volkach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.protect.md) 
+### #is_/same_as :: [Volkach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.internal.md) 
 
-### [Volkach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.private.md) 
+### #is_/same_as :: [Volkach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.protect.md) 
 
-### [Volkach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.personal.md) 
+### #is_/same_as :: [Volkach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.private.md) 
 
-### [Volkach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.secret.md) 
+### #is_/same_as :: [Volkach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.personal.md) 
+
+### #is_/same_as :: [Volkach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.secret.md)
+

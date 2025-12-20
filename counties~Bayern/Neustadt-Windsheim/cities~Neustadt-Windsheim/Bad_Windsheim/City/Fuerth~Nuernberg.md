@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.48,10.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuerth~Nuernberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.md) 
+### #is_/same_as :: [Fuerth~Nuernberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.md) 
 
-### [Fuerth~Nuernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.internal.md) 
+### #is_/same_as :: [Fuerth~Nuernberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.public.md) 
 
-### [Fuerth~Nuernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.protect.md) 
+### #is_/same_as :: [Fuerth~Nuernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.internal.md) 
 
-### [Fuerth~Nuernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.private.md) 
+### #is_/same_as :: [Fuerth~Nuernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.protect.md) 
 
-### [Fuerth~Nuernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.personal.md) 
+### #is_/same_as :: [Fuerth~Nuernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.private.md) 
 
-### [Fuerth~Nuernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.secret.md) 
+### #is_/same_as :: [Fuerth~Nuernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.personal.md) 
+
+### #is_/same_as :: [Fuerth~Nuernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Fuerth~Nuernberg.secret.md)
+

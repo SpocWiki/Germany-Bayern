@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.15,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aubing](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.md) 
+### #is_/same_as :: [Aubing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.md) 
 
-### [Aubing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.internal.md) 
+### #is_/same_as :: [Aubing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.public.md) 
 
-### [Aubing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.protect.md) 
+### #is_/same_as :: [Aubing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.internal.md) 
 
-### [Aubing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.private.md) 
+### #is_/same_as :: [Aubing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.protect.md) 
 
-### [Aubing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.personal.md) 
+### #is_/same_as :: [Aubing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.private.md) 
 
-### [Aubing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München-City/City/Aubing.secret.md) 
+### #is_/same_as :: [Aubing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.personal.md) 
+
+### #is_/same_as :: [Aubing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Aubing.secret.md)
+

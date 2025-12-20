@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.03,10.38] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wilburgstetten-borough](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.md) 
+### #is_/same_as :: [Wilburgstetten-borough](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.md) 
 
-### [Wilburgstetten-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.internal.md) 
+### #is_/same_as :: [Wilburgstetten-borough.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.public.md) 
 
-### [Wilburgstetten-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.protect.md) 
+### #is_/same_as :: [Wilburgstetten-borough.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.internal.md) 
 
-### [Wilburgstetten-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.private.md) 
+### #is_/same_as :: [Wilburgstetten-borough.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.protect.md) 
 
-### [Wilburgstetten-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.personal.md) 
+### #is_/same_as :: [Wilburgstetten-borough.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.private.md) 
 
-### [Wilburgstetten-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.secret.md) 
+### #is_/same_as :: [Wilburgstetten-borough.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.personal.md) 
+
+### #is_/same_as :: [Wilburgstetten-borough.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Wilburgstetten/boroughs~Wilburgstetten/Wilburgstetten-borough.secret.md)
+

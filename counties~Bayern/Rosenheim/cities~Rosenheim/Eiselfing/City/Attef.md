@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,12.25] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Attef](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.md) 
+### #is_/same_as :: [Attef](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.md) 
 
-### [Attef.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.internal.md) 
+### #is_/same_as :: [Attef.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.public.md) 
 
-### [Attef.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.protect.md) 
+### #is_/same_as :: [Attef.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.internal.md) 
 
-### [Attef.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.private.md) 
+### #is_/same_as :: [Attef.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.protect.md) 
 
-### [Attef.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.personal.md) 
+### #is_/same_as :: [Attef.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.private.md) 
 
-### [Attef.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.secret.md) 
+### #is_/same_as :: [Attef.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.personal.md) 
+
+### #is_/same_as :: [Attef.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Eiselfing/City/Attef.secret.md)
+

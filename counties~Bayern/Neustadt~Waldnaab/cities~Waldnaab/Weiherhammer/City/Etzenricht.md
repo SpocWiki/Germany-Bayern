@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.63,12.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Etzenricht](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.md) 
+### #is_/same_as :: [Etzenricht](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.md) 
 
-### [Etzenricht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.internal.md) 
+### #is_/same_as :: [Etzenricht.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.public.md) 
 
-### [Etzenricht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.protect.md) 
+### #is_/same_as :: [Etzenricht.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.internal.md) 
 
-### [Etzenricht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.private.md) 
+### #is_/same_as :: [Etzenricht.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.protect.md) 
 
-### [Etzenricht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.personal.md) 
+### #is_/same_as :: [Etzenricht.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.private.md) 
 
-### [Etzenricht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.secret.md) 
+### #is_/same_as :: [Etzenricht.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.personal.md) 
+
+### #is_/same_as :: [Etzenricht.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Etzenricht.secret.md)
+

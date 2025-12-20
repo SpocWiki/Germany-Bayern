@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.32,10.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weissenhorn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.md) 
+### #is_/same_as :: [Weissenhorn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.md) 
 
-### [Weissenhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.internal.md) 
+### #is_/same_as :: [Weissenhorn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.public.md) 
 
-### [Weissenhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.protect.md) 
+### #is_/same_as :: [Weissenhorn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.internal.md) 
 
-### [Weissenhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.private.md) 
+### #is_/same_as :: [Weissenhorn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.protect.md) 
 
-### [Weissenhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.personal.md) 
+### #is_/same_as :: [Weissenhorn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.private.md) 
 
-### [Weissenhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.secret.md) 
+### #is_/same_as :: [Weissenhorn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.personal.md) 
+
+### #is_/same_as :: [Weissenhorn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.secret.md)
+

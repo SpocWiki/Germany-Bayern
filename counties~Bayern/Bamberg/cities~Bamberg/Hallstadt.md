@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.93,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hallstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.md) 
+### #is_/same_as :: [Hallstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.md) 
 
-### [Hallstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.internal.md) 
+### #is_/same_as :: [Hallstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.public.md) 
 
-### [Hallstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.protect.md) 
+### #is_/same_as :: [Hallstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.internal.md) 
 
-### [Hallstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.private.md) 
+### #is_/same_as :: [Hallstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.protect.md) 
 
-### [Hallstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.personal.md) 
+### #is_/same_as :: [Hallstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.private.md) 
 
-### [Hallstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.secret.md) 
+### #is_/same_as :: [Hallstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.personal.md) 
+
+### #is_/same_as :: [Hallstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Hallstadt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.82,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuenfstetten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.md) 
+### #is_/same_as :: [Fuenfstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.md) 
 
-### [Fuenfstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.internal.md) 
+### #is_/same_as :: [Fuenfstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.public.md) 
 
-### [Fuenfstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.protect.md) 
+### #is_/same_as :: [Fuenfstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.internal.md) 
 
-### [Fuenfstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.private.md) 
+### #is_/same_as :: [Fuenfstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.protect.md) 
 
-### [Fuenfstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.personal.md) 
+### #is_/same_as :: [Fuenfstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.private.md) 
 
-### [Fuenfstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.secret.md) 
+### #is_/same_as :: [Fuenfstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.personal.md) 
+
+### #is_/same_as :: [Fuenfstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Fuenfstetten.secret.md)
+

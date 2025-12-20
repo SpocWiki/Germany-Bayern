@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.9,11.62] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sandersdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.md) 
+### #is_/same_as :: [Sandersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.md) 
 
-### [Sandersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.internal.md) 
+### #is_/same_as :: [Sandersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.public.md) 
 
-### [Sandersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.protect.md) 
+### #is_/same_as :: [Sandersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.internal.md) 
 
-### [Sandersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.private.md) 
+### #is_/same_as :: [Sandersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.protect.md) 
 
-### [Sandersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.personal.md) 
+### #is_/same_as :: [Sandersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.private.md) 
 
-### [Sandersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.secret.md) 
+### #is_/same_as :: [Sandersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.personal.md) 
+
+### #is_/same_as :: [Sandersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Sandersdorf.secret.md)
+

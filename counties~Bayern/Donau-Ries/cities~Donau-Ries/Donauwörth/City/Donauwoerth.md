@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.72,10.78] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Donauwoerth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.md) 
+### #is_/same_as :: [Donauwoerth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.md) 
 
-### [Donauwoerth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.internal.md) 
+### #is_/same_as :: [Donauwoerth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.public.md) 
 
-### [Donauwoerth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.protect.md) 
+### #is_/same_as :: [Donauwoerth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.internal.md) 
 
-### [Donauwoerth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.private.md) 
+### #is_/same_as :: [Donauwoerth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.protect.md) 
 
-### [Donauwoerth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.personal.md) 
+### #is_/same_as :: [Donauwoerth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.private.md) 
 
-### [Donauwoerth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.secret.md) 
+### #is_/same_as :: [Donauwoerth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.personal.md) 
+
+### #is_/same_as :: [Donauwoerth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Donauwörth/City/Donauwoerth.secret.md)
+

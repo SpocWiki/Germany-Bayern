@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.26,11.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dachau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.md) 
+### #is_/same_as :: [Dachau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.md) 
 
-### [Dachau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.internal.md) 
+### #is_/same_as :: [Dachau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.public.md) 
 
-### [Dachau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.protect.md) 
+### #is_/same_as :: [Dachau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.internal.md) 
 
-### [Dachau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.private.md) 
+### #is_/same_as :: [Dachau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.protect.md) 
 
-### [Dachau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.personal.md) 
+### #is_/same_as :: [Dachau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.private.md) 
 
-### [Dachau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.secret.md) 
+### #is_/same_as :: [Dachau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.personal.md) 
+
+### #is_/same_as :: [Dachau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau.secret.md)
+

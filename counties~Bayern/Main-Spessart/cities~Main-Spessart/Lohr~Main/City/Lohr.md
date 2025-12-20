@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50,9.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lohr](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.md) 
+### #is_/same_as :: [Lohr](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.md) 
 
-### [Lohr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.internal.md) 
+### #is_/same_as :: [Lohr.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.public.md) 
 
-### [Lohr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.protect.md) 
+### #is_/same_as :: [Lohr.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.internal.md) 
 
-### [Lohr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.private.md) 
+### #is_/same_as :: [Lohr.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.protect.md) 
 
-### [Lohr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.personal.md) 
+### #is_/same_as :: [Lohr.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.private.md) 
 
-### [Lohr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.secret.md) 
+### #is_/same_as :: [Lohr.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.personal.md) 
+
+### #is_/same_as :: [Lohr.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Lohr~Main/City/Lohr.secret.md)
+

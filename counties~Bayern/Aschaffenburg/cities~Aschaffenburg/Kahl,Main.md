@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,9.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kahl,Main](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.md) 
+### #is_/same_as :: [Kahl,Main](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.md) 
 
-### [Kahl,Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.internal.md) 
+### #is_/same_as :: [Kahl,Main.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.public.md) 
 
-### [Kahl,Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.protect.md) 
+### #is_/same_as :: [Kahl,Main.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.internal.md) 
 
-### [Kahl,Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.private.md) 
+### #is_/same_as :: [Kahl,Main.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.protect.md) 
 
-### [Kahl,Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.personal.md) 
+### #is_/same_as :: [Kahl,Main.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.private.md) 
 
-### [Kahl,Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.secret.md) 
+### #is_/same_as :: [Kahl,Main.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.personal.md) 
+
+### #is_/same_as :: [Kahl,Main.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.secret.md)
+

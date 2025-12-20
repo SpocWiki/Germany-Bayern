@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.68,11.6] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Geisenfeld](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.md) 
+### #is_/same_as :: [Geisenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.md) 
 
-### [Geisenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.internal.md) 
+### #is_/same_as :: [Geisenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.public.md) 
 
-### [Geisenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.protect.md) 
+### #is_/same_as :: [Geisenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.internal.md) 
 
-### [Geisenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.private.md) 
+### #is_/same_as :: [Geisenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.protect.md) 
 
-### [Geisenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.personal.md) 
+### #is_/same_as :: [Geisenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.private.md) 
 
-### [Geisenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.secret.md) 
+### #is_/same_as :: [Geisenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.personal.md) 
+
+### #is_/same_as :: [Geisenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Geisenfeld.secret.md)
+

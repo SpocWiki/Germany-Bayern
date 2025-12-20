@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.04,10.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schweinfurt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.md) 
+### #is_/same_as :: [Schweinfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.md) 
 
-### [Schweinfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.internal.md) 
+### #is_/same_as :: [Schweinfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.public.md) 
 
-### [Schweinfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.protect.md) 
+### #is_/same_as :: [Schweinfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.internal.md) 
 
-### [Schweinfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.private.md) 
+### #is_/same_as :: [Schweinfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.protect.md) 
 
-### [Schweinfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.personal.md) 
+### #is_/same_as :: [Schweinfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.private.md) 
 
-### [Schweinfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.secret.md) 
+### #is_/same_as :: [Schweinfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.personal.md) 
+
+### #is_/same_as :: [Schweinfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.32,10.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Neustadt~Saale](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.md) 
 
-### [Bad_Neustadt~Saale.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.internal.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.public.md) 
 
-### [Bad_Neustadt~Saale.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.protect.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.internal.md) 
 
-### [Bad_Neustadt~Saale.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.private.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.protect.md) 
 
-### [Bad_Neustadt~Saale.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.personal.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.private.md) 
 
-### [Bad_Neustadt~Saale.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.secret.md) 
+### #is_/same_as :: [Bad_Neustadt~Saale.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.personal.md) 
+
+### #is_/same_as :: [Bad_Neustadt~Saale.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Bad_Neustadt~Saale.secret.md)
+

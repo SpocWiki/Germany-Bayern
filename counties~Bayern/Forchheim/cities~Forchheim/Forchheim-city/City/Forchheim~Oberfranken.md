@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.72,11.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Forchheim~Oberfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.md) 
+### #is_/same_as :: [Forchheim~Oberfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.md) 
 
-### [Forchheim~Oberfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.internal.md) 
+### #is_/same_as :: [Forchheim~Oberfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.public.md) 
 
-### [Forchheim~Oberfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.protect.md) 
+### #is_/same_as :: [Forchheim~Oberfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.internal.md) 
 
-### [Forchheim~Oberfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.private.md) 
+### #is_/same_as :: [Forchheim~Oberfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.protect.md) 
 
-### [Forchheim~Oberfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.personal.md) 
+### #is_/same_as :: [Forchheim~Oberfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.private.md) 
 
-### [Forchheim~Oberfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.secret.md) 
+### #is_/same_as :: [Forchheim~Oberfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.personal.md) 
+
+### #is_/same_as :: [Forchheim~Oberfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Forchheim~Oberfranken.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.46, 10.86] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cadolzburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.md) 
+### #is_/same_as :: [Cadolzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.md) 
 
-### [Cadolzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.internal.md) 
+### #is_/same_as :: [Cadolzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.public.md) 
 
-### [Cadolzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.protect.md) 
+### #is_/same_as :: [Cadolzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.internal.md) 
 
-### [Cadolzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.private.md) 
+### #is_/same_as :: [Cadolzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.protect.md) 
 
-### [Cadolzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.personal.md) 
+### #is_/same_as :: [Cadolzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.private.md) 
 
-### [Cadolzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.secret.md) 
+### #is_/same_as :: [Cadolzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.personal.md) 
+
+### #is_/same_as :: [Cadolzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Cadolzburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.33,12.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Penting](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.md) 
+### #is_/same_as :: [Penting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.md) 
 
-### [Penting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.internal.md) 
+### #is_/same_as :: [Penting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.public.md) 
 
-### [Penting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.protect.md) 
+### #is_/same_as :: [Penting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.internal.md) 
 
-### [Penting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.private.md) 
+### #is_/same_as :: [Penting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.protect.md) 
 
-### [Penting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.personal.md) 
+### #is_/same_as :: [Penting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.private.md) 
 
-### [Penting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.secret.md) 
+### #is_/same_as :: [Penting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.personal.md) 
+
+### #is_/same_as :: [Penting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Neunburg~Wald/boroughs~Neunburg~Wald/Penting.secret.md)
+

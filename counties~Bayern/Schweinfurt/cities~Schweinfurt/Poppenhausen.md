@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.12,10.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poppenhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.md) 
+### #is_/same_as :: [Poppenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.md) 
 
-### [Poppenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.internal.md) 
+### #is_/same_as :: [Poppenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.public.md) 
 
-### [Poppenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.protect.md) 
+### #is_/same_as :: [Poppenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.internal.md) 
 
-### [Poppenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.private.md) 
+### #is_/same_as :: [Poppenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.protect.md) 
 
-### [Poppenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.personal.md) 
+### #is_/same_as :: [Poppenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.private.md) 
 
-### [Poppenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.secret.md) 
+### #is_/same_as :: [Poppenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.personal.md) 
+
+### #is_/same_as :: [Poppenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Poppenhausen.secret.md)
+

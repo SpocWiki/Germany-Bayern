@@ -139,3 +139,20 @@ native_label: Ludwig-Maximilians-Universität München
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Ludwig%20Maximilian%20University%20of%20Munich) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.public.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.internal.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.protect.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.private.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.personal.md) 
+
+### #is_/same_as :: [Ludwig_Maximilian_University_of_Munich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/München,City/Ludwig_Maximilian_University_of_Munich.secret.md)
+

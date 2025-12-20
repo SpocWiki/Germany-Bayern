@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,11.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brunnthal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.md) 
+### #is_/same_as :: [Brunnthal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.md) 
 
-### [Brunnthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.internal.md) 
+### #is_/same_as :: [Brunnthal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.public.md) 
 
-### [Brunnthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.protect.md) 
+### #is_/same_as :: [Brunnthal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.internal.md) 
 
-### [Brunnthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.private.md) 
+### #is_/same_as :: [Brunnthal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.protect.md) 
 
-### [Brunnthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.personal.md) 
+### #is_/same_as :: [Brunnthal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.private.md) 
 
-### [Brunnthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.secret.md) 
+### #is_/same_as :: [Brunnthal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.personal.md) 
+
+### #is_/same_as :: [Brunnthal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Höhenkirchen-Siegertsbrunn/City/Brunnthal.secret.md)
+

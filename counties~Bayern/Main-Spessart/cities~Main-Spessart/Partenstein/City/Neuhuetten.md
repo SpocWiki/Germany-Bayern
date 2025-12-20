@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50,9.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neuhuetten](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.md) 
+### #is_/same_as :: [Neuhuetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.md) 
 
-### [Neuhuetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.internal.md) 
+### #is_/same_as :: [Neuhuetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.public.md) 
 
-### [Neuhuetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.protect.md) 
+### #is_/same_as :: [Neuhuetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.internal.md) 
 
-### [Neuhuetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.private.md) 
+### #is_/same_as :: [Neuhuetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.protect.md) 
 
-### [Neuhuetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.personal.md) 
+### #is_/same_as :: [Neuhuetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.private.md) 
 
-### [Neuhuetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.secret.md) 
+### #is_/same_as :: [Neuhuetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.personal.md) 
+
+### #is_/same_as :: [Neuhuetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Partenstein/City/Neuhuetten.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.73,10.16] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kitzingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.md) 
+### #is_/same_as :: [Kitzingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.md) 
 
-### [Kitzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.internal.md) 
+### #is_/same_as :: [Kitzingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.public.md) 
 
-### [Kitzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.protect.md) 
+### #is_/same_as :: [Kitzingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.internal.md) 
 
-### [Kitzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.private.md) 
+### #is_/same_as :: [Kitzingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.protect.md) 
 
-### [Kitzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.personal.md) 
+### #is_/same_as :: [Kitzingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.private.md) 
 
-### [Kitzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.secret.md) 
+### #is_/same_as :: [Kitzingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.personal.md) 
+
+### #is_/same_as :: [Kitzingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Kitzingen/boroughs~Kitzingen/Kitzingen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.78,9.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Klingenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.md) 
+### #is_/same_as :: [Klingenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.md) 
 
-### [Klingenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.internal.md) 
+### #is_/same_as :: [Klingenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.public.md) 
 
-### [Klingenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.protect.md) 
+### #is_/same_as :: [Klingenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.internal.md) 
 
-### [Klingenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.private.md) 
+### #is_/same_as :: [Klingenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.protect.md) 
 
-### [Klingenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.personal.md) 
+### #is_/same_as :: [Klingenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.private.md) 
 
-### [Klingenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.secret.md) 
+### #is_/same_as :: [Klingenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.personal.md) 
+
+### #is_/same_as :: [Klingenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Klingenberg~Main/City/Klingenberg.secret.md)
+

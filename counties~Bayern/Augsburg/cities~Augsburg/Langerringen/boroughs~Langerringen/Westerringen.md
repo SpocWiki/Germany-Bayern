@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Westerringen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.md) 
+### #is_/same_as :: [Westerringen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.md) 
 
-### [Westerringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.internal.md) 
+### #is_/same_as :: [Westerringen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.public.md) 
 
-### [Westerringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.protect.md) 
+### #is_/same_as :: [Westerringen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.internal.md) 
 
-### [Westerringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.private.md) 
+### #is_/same_as :: [Westerringen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.protect.md) 
 
-### [Westerringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.personal.md) 
+### #is_/same_as :: [Westerringen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.private.md) 
 
-### [Westerringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.secret.md) 
+### #is_/same_as :: [Westerringen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.personal.md) 
+
+### #is_/same_as :: [Westerringen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.secret.md)
+

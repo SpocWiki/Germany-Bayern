@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.85,12.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rosenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.md) 
+### #is_/same_as :: [Rosenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.md) 
 
-### [Rosenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.internal.md) 
+### #is_/same_as :: [Rosenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.public.md) 
 
-### [Rosenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.protect.md) 
+### #is_/same_as :: [Rosenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.internal.md) 
 
-### [Rosenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.private.md) 
+### #is_/same_as :: [Rosenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.protect.md) 
 
-### [Rosenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.personal.md) 
+### #is_/same_as :: [Rosenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.private.md) 
 
-### [Rosenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.secret.md) 
+### #is_/same_as :: [Rosenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.personal.md) 
+
+### #is_/same_as :: [Rosenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim.secret.md)
+

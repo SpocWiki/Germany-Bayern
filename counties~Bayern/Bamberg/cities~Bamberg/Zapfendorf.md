@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.02,10.95] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zapfendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.md) 
+### #is_/same_as :: [Zapfendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.md) 
 
-### [Zapfendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.internal.md) 
+### #is_/same_as :: [Zapfendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.public.md) 
 
-### [Zapfendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.protect.md) 
+### #is_/same_as :: [Zapfendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.internal.md) 
 
-### [Zapfendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.private.md) 
+### #is_/same_as :: [Zapfendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.protect.md) 
 
-### [Zapfendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.personal.md) 
+### #is_/same_as :: [Zapfendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.private.md) 
 
-### [Zapfendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.secret.md) 
+### #is_/same_as :: [Zapfendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.personal.md) 
+
+### #is_/same_as :: [Zapfendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Zapfendorf.secret.md)
+

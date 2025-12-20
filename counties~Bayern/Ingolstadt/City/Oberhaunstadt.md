@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.8,11.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oberhaunstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.md) 
+### #is_/same_as :: [Oberhaunstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.md) 
 
-### [Oberhaunstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.internal.md) 
+### #is_/same_as :: [Oberhaunstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.public.md) 
 
-### [Oberhaunstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.protect.md) 
+### #is_/same_as :: [Oberhaunstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.internal.md) 
 
-### [Oberhaunstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.private.md) 
+### #is_/same_as :: [Oberhaunstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.protect.md) 
 
-### [Oberhaunstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.personal.md) 
+### #is_/same_as :: [Oberhaunstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.private.md) 
 
-### [Oberhaunstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.secret.md) 
+### #is_/same_as :: [Oberhaunstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.personal.md) 
+
+### #is_/same_as :: [Oberhaunstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt/City/Oberhaunstadt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.01, 10.85] 
 mapzoom: [7,18] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Markt_Berolzheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.md) 
+### #is_/same_as :: [Markt_Berolzheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.md) 
 
-### [Markt_Berolzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.internal.md) 
+### #is_/same_as :: [Markt_Berolzheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.public.md) 
 
-### [Markt_Berolzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.protect.md) 
+### #is_/same_as :: [Markt_Berolzheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.internal.md) 
 
-### [Markt_Berolzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.private.md) 
+### #is_/same_as :: [Markt_Berolzheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.protect.md) 
 
-### [Markt_Berolzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.personal.md) 
+### #is_/same_as :: [Markt_Berolzheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.private.md) 
 
-### [Markt_Berolzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.secret.md) 
+### #is_/same_as :: [Markt_Berolzheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.personal.md) 
+
+### #is_/same_as :: [Markt_Berolzheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/Markt_Berolzheim.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q980
 location: [48.8642,11.3382] 
 type: State
@@ -288,17 +288,19 @@ Capital ::[[counties~Bayern/München,County/City/München,City]]]]
 [Population::] 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [ReadMe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.md) 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.internal.md) 
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.protect.md) 
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.private.md) 
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.personal.md) 
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.secret.md) 
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.secret.md)
+

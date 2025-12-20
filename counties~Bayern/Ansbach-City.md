@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.3,10.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ansbach-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.md) 
+### #is_/same_as :: [Ansbach-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.md) 
 
-### [Ansbach-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.internal.md) 
+### #is_/same_as :: [Ansbach-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.public.md) 
 
-### [Ansbach-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.protect.md) 
+### #is_/same_as :: [Ansbach-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.internal.md) 
 
-### [Ansbach-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.private.md) 
+### #is_/same_as :: [Ansbach-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.protect.md) 
 
-### [Ansbach-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.personal.md) 
+### #is_/same_as :: [Ansbach-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.private.md) 
 
-### [Ansbach-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.secret.md) 
+### #is_/same_as :: [Ansbach-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.personal.md) 
+
+### #is_/same_as :: [Ansbach-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach-City.secret.md)
+

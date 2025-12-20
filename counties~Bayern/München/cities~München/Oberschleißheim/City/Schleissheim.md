@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.25,11.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schleissheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.md) 
+### #is_/same_as :: [Schleissheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.md) 
 
-### [Schleissheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.internal.md) 
+### #is_/same_as :: [Schleissheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.public.md) 
 
-### [Schleissheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.protect.md) 
+### #is_/same_as :: [Schleissheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.internal.md) 
 
-### [Schleissheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.private.md) 
+### #is_/same_as :: [Schleissheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.protect.md) 
 
-### [Schleissheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.personal.md) 
+### #is_/same_as :: [Schleissheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.private.md) 
 
-### [Schleissheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.secret.md) 
+### #is_/same_as :: [Schleissheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.personal.md) 
+
+### #is_/same_as :: [Schleissheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Oberschleißheim/City/Schleissheim.secret.md)
+

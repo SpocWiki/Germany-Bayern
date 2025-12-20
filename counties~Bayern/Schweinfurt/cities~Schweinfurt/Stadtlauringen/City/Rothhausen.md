@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,10.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rothhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.md) 
+### #is_/same_as :: [Rothhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.md) 
 
-### [Rothhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.internal.md) 
+### #is_/same_as :: [Rothhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.public.md) 
 
-### [Rothhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.protect.md) 
+### #is_/same_as :: [Rothhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.internal.md) 
 
-### [Rothhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.private.md) 
+### #is_/same_as :: [Rothhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.protect.md) 
 
-### [Rothhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.personal.md) 
+### #is_/same_as :: [Rothhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.private.md) 
 
-### [Rothhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.secret.md) 
+### #is_/same_as :: [Rothhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.personal.md) 
+
+### #is_/same_as :: [Rothhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Stadtlauringen/City/Rothhausen.secret.md)
+

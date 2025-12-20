@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.88,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buettelbrunn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.md) 
+### #is_/same_as :: [Buettelbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.md) 
 
-### [Buettelbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.internal.md) 
+### #is_/same_as :: [Buettelbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.public.md) 
 
-### [Buettelbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.protect.md) 
+### #is_/same_as :: [Buettelbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.internal.md) 
 
-### [Buettelbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.private.md) 
+### #is_/same_as :: [Buettelbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.protect.md) 
 
-### [Buettelbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.personal.md) 
+### #is_/same_as :: [Buettelbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.private.md) 
 
-### [Buettelbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.secret.md) 
+### #is_/same_as :: [Buettelbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.personal.md) 
+
+### #is_/same_as :: [Buettelbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Wemding/City/Buettelbrunn.secret.md)
+

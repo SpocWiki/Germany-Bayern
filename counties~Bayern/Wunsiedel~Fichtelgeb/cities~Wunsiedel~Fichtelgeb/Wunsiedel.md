@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.03,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wunsiedel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.md) 
+### #is_/same_as :: [Wunsiedel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.md) 
 
-### [Wunsiedel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.internal.md) 
+### #is_/same_as :: [Wunsiedel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.public.md) 
 
-### [Wunsiedel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.protect.md) 
+### #is_/same_as :: [Wunsiedel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.internal.md) 
 
-### [Wunsiedel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.private.md) 
+### #is_/same_as :: [Wunsiedel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.protect.md) 
 
-### [Wunsiedel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.personal.md) 
+### #is_/same_as :: [Wunsiedel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.private.md) 
 
-### [Wunsiedel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.secret.md) 
+### #is_/same_as :: [Wunsiedel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.personal.md) 
+
+### #is_/same_as :: [Wunsiedel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.secret.md)
+

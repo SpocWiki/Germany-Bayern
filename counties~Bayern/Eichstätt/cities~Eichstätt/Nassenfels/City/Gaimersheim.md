@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.8,11.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gaimersheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.md) 
+### #is_/same_as :: [Gaimersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.md) 
 
-### [Gaimersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.internal.md) 
+### #is_/same_as :: [Gaimersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.public.md) 
 
-### [Gaimersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.protect.md) 
+### #is_/same_as :: [Gaimersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.internal.md) 
 
-### [Gaimersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.private.md) 
+### #is_/same_as :: [Gaimersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.protect.md) 
 
-### [Gaimersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.personal.md) 
+### #is_/same_as :: [Gaimersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.private.md) 
 
-### [Gaimersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.secret.md) 
+### #is_/same_as :: [Gaimersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.personal.md) 
+
+### #is_/same_as :: [Gaimersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Nassenfels/City/Gaimersheim.secret.md)
+

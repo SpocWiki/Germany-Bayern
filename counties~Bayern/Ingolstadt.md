@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.76,11.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ingolstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.md) 
+### #is_/same_as :: [Ingolstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.md) 
 
-### [Ingolstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.internal.md) 
+### #is_/same_as :: [Ingolstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.public.md) 
 
-### [Ingolstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.protect.md) 
+### #is_/same_as :: [Ingolstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.internal.md) 
 
-### [Ingolstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.private.md) 
+### #is_/same_as :: [Ingolstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.protect.md) 
 
-### [Ingolstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.personal.md) 
+### #is_/same_as :: [Ingolstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.private.md) 
 
-### [Ingolstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.secret.md) 
+### #is_/same_as :: [Ingolstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.personal.md) 
+
+### #is_/same_as :: [Ingolstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ingolstadt.secret.md)
+

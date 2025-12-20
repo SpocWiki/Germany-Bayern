@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.24,12.74] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Cham](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.md) 
+### #is_/same_as :: [Cham](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.md) 
 
-### [Cham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.internal.md) 
+### #is_/same_as :: [Cham.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.public.md) 
 
-### [Cham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.protect.md) 
+### #is_/same_as :: [Cham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.internal.md) 
 
-### [Cham.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.private.md) 
+### #is_/same_as :: [Cham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.protect.md) 
 
-### [Cham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.personal.md) 
+### #is_/same_as :: [Cham.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.private.md) 
 
-### [Cham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.secret.md) 
+### #is_/same_as :: [Cham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.personal.md) 
+
+### #is_/same_as :: [Cham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.47,11.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aichach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.md) 
+### #is_/same_as :: [Aichach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.md) 
 
-### [Aichach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.internal.md) 
+### #is_/same_as :: [Aichach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.public.md) 
 
-### [Aichach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.protect.md) 
+### #is_/same_as :: [Aichach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.internal.md) 
 
-### [Aichach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.private.md) 
+### #is_/same_as :: [Aichach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.protect.md) 
 
-### [Aichach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.personal.md) 
+### #is_/same_as :: [Aichach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.private.md) 
 
-### [Aichach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.secret.md) 
+### #is_/same_as :: [Aichach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.personal.md) 
+
+### #is_/same_as :: [Aichach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Aichach.secret.md)
+

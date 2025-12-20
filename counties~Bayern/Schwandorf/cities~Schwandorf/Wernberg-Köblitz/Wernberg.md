@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.55,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wernberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.md) 
+### #is_/same_as :: [Wernberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.md) 
 
-### [Wernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.internal.md) 
+### #is_/same_as :: [Wernberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.public.md) 
 
-### [Wernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.protect.md) 
+### #is_/same_as :: [Wernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.internal.md) 
 
-### [Wernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.private.md) 
+### #is_/same_as :: [Wernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.protect.md) 
 
-### [Wernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.personal.md) 
+### #is_/same_as :: [Wernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.private.md) 
 
-### [Wernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.secret.md) 
+### #is_/same_as :: [Wernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.personal.md) 
+
+### #is_/same_as :: [Wernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Wernberg-Köblitz/Wernberg.secret.md)
+

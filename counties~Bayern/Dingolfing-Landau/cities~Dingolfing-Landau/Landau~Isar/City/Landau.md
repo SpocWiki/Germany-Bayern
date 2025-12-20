@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.67,12.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Landau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.md) 
+### #is_/same_as :: [Landau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.md) 
 
-### [Landau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.internal.md) 
+### #is_/same_as :: [Landau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.public.md) 
 
-### [Landau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.protect.md) 
+### #is_/same_as :: [Landau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.internal.md) 
 
-### [Landau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.private.md) 
+### #is_/same_as :: [Landau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.protect.md) 
 
-### [Landau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.personal.md) 
+### #is_/same_as :: [Landau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.private.md) 
 
-### [Landau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.secret.md) 
+### #is_/same_as :: [Landau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.personal.md) 
+
+### #is_/same_as :: [Landau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Landau~Isar/City/Landau.secret.md)
+

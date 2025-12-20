@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.33,11.57] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Haimhausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.md) 
+### #is_/same_as :: [Haimhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.md) 
 
-### [Haimhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.internal.md) 
+### #is_/same_as :: [Haimhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.public.md) 
 
-### [Haimhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.protect.md) 
+### #is_/same_as :: [Haimhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.internal.md) 
 
-### [Haimhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.private.md) 
+### #is_/same_as :: [Haimhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.protect.md) 
 
-### [Haimhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.personal.md) 
+### #is_/same_as :: [Haimhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.private.md) 
 
-### [Haimhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.secret.md) 
+### #is_/same_as :: [Haimhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.personal.md) 
+
+### #is_/same_as :: [Haimhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dachau/cities~Dachau/Haimhausen.secret.md)
+

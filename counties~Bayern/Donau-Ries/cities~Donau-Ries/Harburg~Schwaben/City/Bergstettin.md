@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.8,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergstettin](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.md) 
+### #is_/same_as :: [Bergstettin](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.md) 
 
-### [Bergstettin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.internal.md) 
+### #is_/same_as :: [Bergstettin.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.public.md) 
 
-### [Bergstettin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.protect.md) 
+### #is_/same_as :: [Bergstettin.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.internal.md) 
 
-### [Bergstettin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.private.md) 
+### #is_/same_as :: [Bergstettin.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.protect.md) 
 
-### [Bergstettin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.personal.md) 
+### #is_/same_as :: [Bergstettin.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.private.md) 
 
-### [Bergstettin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.secret.md) 
+### #is_/same_as :: [Bergstettin.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.personal.md) 
+
+### #is_/same_as :: [Bergstettin.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Bergstettin.secret.md)
+

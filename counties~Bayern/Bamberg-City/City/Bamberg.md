@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.88,10.88] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -43,14 +43,17 @@ Bereits 1993 wurde sie von der Unesco als Weltkulturerbe ausgezeichnet.
 
 ## Confidential Links & Embeds: 
 
-### [Bamberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.md) 
+### #is_/same_as :: [Bamberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.md) 
 
-### [Bamberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.internal.md) 
+### #is_/same_as :: [Bamberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.public.md) 
 
-### [Bamberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.protect.md) 
+### #is_/same_as :: [Bamberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.internal.md) 
 
-### [Bamberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.private.md) 
+### #is_/same_as :: [Bamberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.protect.md) 
 
-### [Bamberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.personal.md) 
+### #is_/same_as :: [Bamberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.private.md) 
 
-### [Bamberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.secret.md) 
+### #is_/same_as :: [Bamberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.personal.md) 
+
+### #is_/same_as :: [Bamberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Bamberg.secret.md)
+

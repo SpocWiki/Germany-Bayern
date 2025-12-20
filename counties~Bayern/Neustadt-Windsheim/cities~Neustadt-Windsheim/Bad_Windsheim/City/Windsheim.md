@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.5,10.42] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Windsheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.md) 
+### #is_/same_as :: [Windsheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.md) 
 
-### [Windsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.internal.md) 
+### #is_/same_as :: [Windsheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.public.md) 
 
-### [Windsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.protect.md) 
+### #is_/same_as :: [Windsheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.internal.md) 
 
-### [Windsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.private.md) 
+### #is_/same_as :: [Windsheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.protect.md) 
 
-### [Windsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.personal.md) 
+### #is_/same_as :: [Windsheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.private.md) 
 
-### [Windsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.secret.md) 
+### #is_/same_as :: [Windsheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.personal.md) 
+
+### #is_/same_as :: [Windsheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Bad_Windsheim/City/Windsheim.secret.md)
+

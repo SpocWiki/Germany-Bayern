@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.85,12.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Radldorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.md) 
+### #is_/same_as :: [Radldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.md) 
 
-### [Radldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.internal.md) 
+### #is_/same_as :: [Radldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.public.md) 
 
-### [Radldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.protect.md) 
+### #is_/same_as :: [Radldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.internal.md) 
 
-### [Radldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.private.md) 
+### #is_/same_as :: [Radldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.protect.md) 
 
-### [Radldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.personal.md) 
+### #is_/same_as :: [Radldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.private.md) 
 
-### [Radldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.secret.md) 
+### #is_/same_as :: [Radldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.personal.md) 
+
+### #is_/same_as :: [Radldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Straubing-Bogen/cities~Straubing-Bogen/Rain/City/Radldorf.secret.md)
+

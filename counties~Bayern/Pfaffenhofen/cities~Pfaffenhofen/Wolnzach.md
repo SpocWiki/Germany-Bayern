@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.62,11.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wolnzach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.md) 
+### #is_/same_as :: [Wolnzach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.md) 
 
-### [Wolnzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.internal.md) 
+### #is_/same_as :: [Wolnzach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.public.md) 
 
-### [Wolnzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.protect.md) 
+### #is_/same_as :: [Wolnzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.internal.md) 
 
-### [Wolnzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.private.md) 
+### #is_/same_as :: [Wolnzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.protect.md) 
 
-### [Wolnzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.personal.md) 
+### #is_/same_as :: [Wolnzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.private.md) 
 
-### [Wolnzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.secret.md) 
+### #is_/same_as :: [Wolnzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.personal.md) 
+
+### #is_/same_as :: [Wolnzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Wolnzach.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.05,10.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Tuerkheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.md) 
+### #is_/same_as :: [Tuerkheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.md) 
 
-### [Tuerkheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.internal.md) 
+### #is_/same_as :: [Tuerkheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.public.md) 
 
-### [Tuerkheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.protect.md) 
+### #is_/same_as :: [Tuerkheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.internal.md) 
 
-### [Tuerkheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.private.md) 
+### #is_/same_as :: [Tuerkheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.protect.md) 
 
-### [Tuerkheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.personal.md) 
+### #is_/same_as :: [Tuerkheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.private.md) 
 
-### [Tuerkheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.secret.md) 
+### #is_/same_as :: [Tuerkheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.personal.md) 
+
+### #is_/same_as :: [Tuerkheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Türkheim/City/Tuerkheim.secret.md)
+

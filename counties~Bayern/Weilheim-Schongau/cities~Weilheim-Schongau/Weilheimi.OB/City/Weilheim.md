@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.83,11.16] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Weilheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.md) 
+### #is_/same_as :: [Weilheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.md) 
 
-### [Weilheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.internal.md) 
+### #is_/same_as :: [Weilheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.public.md) 
 
-### [Weilheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.protect.md) 
+### #is_/same_as :: [Weilheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.internal.md) 
 
-### [Weilheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.private.md) 
+### #is_/same_as :: [Weilheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.protect.md) 
 
-### [Weilheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.personal.md) 
+### #is_/same_as :: [Weilheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.private.md) 
 
-### [Weilheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.secret.md) 
+### #is_/same_as :: [Weilheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.personal.md) 
+
+### #is_/same_as :: [Weilheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Weilheimi.OB/City/Weilheim.secret.md)
+

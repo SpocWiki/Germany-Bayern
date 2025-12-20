@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.58,10.63] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Neustadt~Aisch](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.md) 
+### #is_/same_as :: [Neustadt~Aisch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.md) 
 
-### [Neustadt~Aisch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.internal.md) 
+### #is_/same_as :: [Neustadt~Aisch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.public.md) 
 
-### [Neustadt~Aisch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.protect.md) 
+### #is_/same_as :: [Neustadt~Aisch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.internal.md) 
 
-### [Neustadt~Aisch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.private.md) 
+### #is_/same_as :: [Neustadt~Aisch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.protect.md) 
 
-### [Neustadt~Aisch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.personal.md) 
+### #is_/same_as :: [Neustadt~Aisch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.private.md) 
 
-### [Neustadt~Aisch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.secret.md) 
+### #is_/same_as :: [Neustadt~Aisch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.personal.md) 
+
+### #is_/same_as :: [Neustadt~Aisch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt-Windsheim/cities~Neustadt-Windsheim/Neustadt~Aisch.secret.md)
+

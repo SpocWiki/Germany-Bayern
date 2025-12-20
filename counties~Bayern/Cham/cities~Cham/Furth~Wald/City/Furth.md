@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.31,12.86] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Furth](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.md) 
+### #is_/same_as :: [Furth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.md) 
 
-### [Furth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.internal.md) 
+### #is_/same_as :: [Furth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.public.md) 
 
-### [Furth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.protect.md) 
+### #is_/same_as :: [Furth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.internal.md) 
 
-### [Furth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.private.md) 
+### #is_/same_as :: [Furth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.protect.md) 
 
-### [Furth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.personal.md) 
+### #is_/same_as :: [Furth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.private.md) 
 
-### [Furth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.secret.md) 
+### #is_/same_as :: [Furth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.personal.md) 
+
+### #is_/same_as :: [Furth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Furth~Wald/City/Furth.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.88,10.61] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kaufbeuren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.md) 
+### #is_/same_as :: [Kaufbeuren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.md) 
 
-### [Kaufbeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.internal.md) 
+### #is_/same_as :: [Kaufbeuren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.public.md) 
 
-### [Kaufbeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.protect.md) 
+### #is_/same_as :: [Kaufbeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.internal.md) 
 
-### [Kaufbeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.private.md) 
+### #is_/same_as :: [Kaufbeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.protect.md) 
 
-### [Kaufbeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.personal.md) 
+### #is_/same_as :: [Kaufbeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.private.md) 
 
-### [Kaufbeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.secret.md) 
+### #is_/same_as :: [Kaufbeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.personal.md) 
+
+### #is_/same_as :: [Kaufbeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren.secret.md)
+

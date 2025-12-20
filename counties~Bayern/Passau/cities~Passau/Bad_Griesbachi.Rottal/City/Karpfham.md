@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.42,13.18] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Karpfham](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.md) 
+### #is_/same_as :: [Karpfham](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.md) 
 
-### [Karpfham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.internal.md) 
+### #is_/same_as :: [Karpfham.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.public.md) 
 
-### [Karpfham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.protect.md) 
+### #is_/same_as :: [Karpfham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.internal.md) 
 
-### [Karpfham.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.private.md) 
+### #is_/same_as :: [Karpfham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.protect.md) 
 
-### [Karpfham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.personal.md) 
+### #is_/same_as :: [Karpfham.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.private.md) 
 
-### [Karpfham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.secret.md) 
+### #is_/same_as :: [Karpfham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.personal.md) 
+
+### #is_/same_as :: [Karpfham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Bad_Griesbachi.Rottal/City/Karpfham.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.37,10.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,16 +36,20 @@ maxZoom: 18
 ![[../../../../../../../../../assets/geo/Europe/Germany/Augsburger_Wassermanagement.webp]] 
 Augsburger Wassermanagement-System (2019) 
 
+
 ## Confidential Links & Embeds: 
 
-### [Augsburg-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.md) 
+### #is_/same_as :: [Augsburg-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.md) 
 
-### [Augsburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.internal.md) 
+### #is_/same_as :: [Augsburg-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.public.md) 
 
-### [Augsburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.protect.md) 
+### #is_/same_as :: [Augsburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.internal.md) 
 
-### [Augsburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.private.md) 
+### #is_/same_as :: [Augsburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.protect.md) 
 
-### [Augsburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.personal.md) 
+### #is_/same_as :: [Augsburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.private.md) 
 
-### [Augsburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.secret.md) 
+### #is_/same_as :: [Augsburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.personal.md) 
+
+### #is_/same_as :: [Augsburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.98,10.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Memmingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.md) 
+### #is_/same_as :: [Memmingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.md) 
 
-### [Memmingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.internal.md) 
+### #is_/same_as :: [Memmingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.public.md) 
 
-### [Memmingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.protect.md) 
+### #is_/same_as :: [Memmingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.internal.md) 
 
-### [Memmingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.private.md) 
+### #is_/same_as :: [Memmingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.protect.md) 
 
-### [Memmingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.personal.md) 
+### #is_/same_as :: [Memmingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.private.md) 
 
-### [Memmingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.secret.md) 
+### #is_/same_as :: [Memmingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.personal.md) 
+
+### #is_/same_as :: [Memmingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Memmingen.secret.md)
+

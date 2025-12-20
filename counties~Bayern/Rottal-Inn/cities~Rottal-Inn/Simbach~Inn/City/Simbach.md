@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.27,13.03] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Simbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.md) 
+### #is_/same_as :: [Simbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.md) 
 
-### [Simbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.internal.md) 
+### #is_/same_as :: [Simbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.public.md) 
 
-### [Simbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.protect.md) 
+### #is_/same_as :: [Simbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.internal.md) 
 
-### [Simbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.private.md) 
+### #is_/same_as :: [Simbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.protect.md) 
 
-### [Simbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.personal.md) 
+### #is_/same_as :: [Simbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.private.md) 
 
-### [Simbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.secret.md) 
+### #is_/same_as :: [Simbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.personal.md) 
+
+### #is_/same_as :: [Simbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Simbach~Inn/City/Simbach.secret.md)
+

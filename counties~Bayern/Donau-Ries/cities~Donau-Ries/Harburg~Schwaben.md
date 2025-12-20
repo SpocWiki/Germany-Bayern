@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.78,10.68] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Harburg~Schwaben](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.md) 
+### #is_/same_as :: [Harburg~Schwaben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.md) 
 
-### [Harburg~Schwaben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.internal.md) 
+### #is_/same_as :: [Harburg~Schwaben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.public.md) 
 
-### [Harburg~Schwaben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.protect.md) 
+### #is_/same_as :: [Harburg~Schwaben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.internal.md) 
 
-### [Harburg~Schwaben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.private.md) 
+### #is_/same_as :: [Harburg~Schwaben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.protect.md) 
 
-### [Harburg~Schwaben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.personal.md) 
+### #is_/same_as :: [Harburg~Schwaben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.private.md) 
 
-### [Harburg~Schwaben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.secret.md) 
+### #is_/same_as :: [Harburg~Schwaben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.personal.md) 
+
+### #is_/same_as :: [Harburg~Schwaben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben.secret.md)
+

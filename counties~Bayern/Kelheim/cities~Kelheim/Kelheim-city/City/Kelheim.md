@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.92,11.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kelheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.md) 
+### #is_/same_as :: [Kelheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.md) 
 
-### [Kelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.internal.md) 
+### #is_/same_as :: [Kelheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.public.md) 
 
-### [Kelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.protect.md) 
+### #is_/same_as :: [Kelheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.internal.md) 
 
-### [Kelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.private.md) 
+### #is_/same_as :: [Kelheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.protect.md) 
 
-### [Kelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.personal.md) 
+### #is_/same_as :: [Kelheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.private.md) 
 
-### [Kelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.secret.md) 
+### #is_/same_as :: [Kelheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.personal.md) 
+
+### #is_/same_as :: [Kelheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Kelheim-city/City/Kelheim.secret.md)
+

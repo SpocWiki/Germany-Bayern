@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.18,12.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Leonberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.md) 
+### #is_/same_as :: [Leonberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.md) 
 
-### [Leonberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.internal.md) 
+### #is_/same_as :: [Leonberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.public.md) 
 
-### [Leonberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.protect.md) 
+### #is_/same_as :: [Leonberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.internal.md) 
 
-### [Leonberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.private.md) 
+### #is_/same_as :: [Leonberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.protect.md) 
 
-### [Leonberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.personal.md) 
+### #is_/same_as :: [Leonberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.private.md) 
 
-### [Leonberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.secret.md) 
+### #is_/same_as :: [Leonberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.personal.md) 
+
+### #is_/same_as :: [Leonberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Maxhütte-Haidhof/City/Leonberg.secret.md)
+

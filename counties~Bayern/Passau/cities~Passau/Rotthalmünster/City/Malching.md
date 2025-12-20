@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.32,13.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Malching](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.md) 
+### #is_/same_as :: [Malching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.md) 
 
-### [Malching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.internal.md) 
+### #is_/same_as :: [Malching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.public.md) 
 
-### [Malching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.protect.md) 
+### #is_/same_as :: [Malching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.internal.md) 
 
-### [Malching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.private.md) 
+### #is_/same_as :: [Malching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.protect.md) 
 
-### [Malching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.personal.md) 
+### #is_/same_as :: [Malching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.private.md) 
 
-### [Malching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.secret.md) 
+### #is_/same_as :: [Malching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.personal.md) 
+
+### #is_/same_as :: [Malching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Rotthalmünster/City/Malching.secret.md)
+

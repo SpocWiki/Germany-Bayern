@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 48.85
   - 10.48
@@ -43,16 +43,20 @@ Die bayerische Stadt Nördlingen liegt an der "Romantischen Straße" und besitzt
 Der mittelalterliche Stadtkern wird von einer komplett erhaltenen und rundum begehbaren Stadtmauer umschlossen. 
 Überall finden sich prachtvolle Patrizier- und Bürgerhäuser, Kirchen, Türme und Tore.
 
+
 ## Confidential Links & Embeds: 
 
-### [Nördlingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.md) 
+### #is_/same_as :: [Nördlingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.md) 
 
-### [Nördlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.internal.md) 
+### #is_/same_as :: [Nördlingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.public.md) 
 
-### [Nördlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.protect.md) 
+### #is_/same_as :: [Nördlingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.internal.md) 
 
-### [Nördlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.private.md) 
+### #is_/same_as :: [Nördlingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.protect.md) 
 
-### [Nördlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.personal.md) 
+### #is_/same_as :: [Nördlingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.private.md) 
 
-### [Nördlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.secret.md) 
+### #is_/same_as :: [Nördlingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.personal.md) 
+
+### #is_/same_as :: [Nördlingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Nördlingen.secret.md)
+

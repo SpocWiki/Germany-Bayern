@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.07,12.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wasserburg~Inn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.md) 
+### #is_/same_as :: [Wasserburg~Inn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.md) 
 
-### [Wasserburg~Inn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.internal.md) 
+### #is_/same_as :: [Wasserburg~Inn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.public.md) 
 
-### [Wasserburg~Inn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.protect.md) 
+### #is_/same_as :: [Wasserburg~Inn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.internal.md) 
 
-### [Wasserburg~Inn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.private.md) 
+### #is_/same_as :: [Wasserburg~Inn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.protect.md) 
 
-### [Wasserburg~Inn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.personal.md) 
+### #is_/same_as :: [Wasserburg~Inn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.private.md) 
 
-### [Wasserburg~Inn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.secret.md) 
+### #is_/same_as :: [Wasserburg~Inn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.personal.md) 
+
+### #is_/same_as :: [Wasserburg~Inn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Babensham/City/Wasserburg~Inn.secret.md)
+

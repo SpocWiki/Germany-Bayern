@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.7,11.41] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Benediktbeuren](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.md) 
+### #is_/same_as :: [Benediktbeuren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.md) 
 
-### [Benediktbeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.internal.md) 
+### #is_/same_as :: [Benediktbeuren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.public.md) 
 
-### [Benediktbeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.protect.md) 
+### #is_/same_as :: [Benediktbeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.internal.md) 
 
-### [Benediktbeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.private.md) 
+### #is_/same_as :: [Benediktbeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.protect.md) 
 
-### [Benediktbeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.personal.md) 
+### #is_/same_as :: [Benediktbeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.private.md) 
 
-### [Benediktbeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.secret.md) 
+### #is_/same_as :: [Benediktbeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.personal.md) 
+
+### #is_/same_as :: [Benediktbeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Benediktbeuern/City/Benediktbeuren.secret.md)
+

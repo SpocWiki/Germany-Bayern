@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.83,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Aibling](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.md) 
+### #is_/same_as :: [Bad_Aibling](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.md) 
 
-### [Bad_Aibling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.internal.md) 
+### #is_/same_as :: [Bad_Aibling.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.public.md) 
 
-### [Bad_Aibling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.protect.md) 
+### #is_/same_as :: [Bad_Aibling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.internal.md) 
 
-### [Bad_Aibling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.private.md) 
+### #is_/same_as :: [Bad_Aibling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.protect.md) 
 
-### [Bad_Aibling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.personal.md) 
+### #is_/same_as :: [Bad_Aibling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.private.md) 
 
-### [Bad_Aibling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.secret.md) 
+### #is_/same_as :: [Bad_Aibling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.personal.md) 
+
+### #is_/same_as :: [Bad_Aibling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Bad_Aibling.secret.md)
+

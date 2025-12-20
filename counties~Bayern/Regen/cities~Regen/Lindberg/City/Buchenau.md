@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.03,13.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buchenau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.md) 
+### #is_/same_as :: [Buchenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.md) 
 
-### [Buchenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.internal.md) 
+### #is_/same_as :: [Buchenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.public.md) 
 
-### [Buchenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.protect.md) 
+### #is_/same_as :: [Buchenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.internal.md) 
 
-### [Buchenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.private.md) 
+### #is_/same_as :: [Buchenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.protect.md) 
 
-### [Buchenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.personal.md) 
+### #is_/same_as :: [Buchenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.private.md) 
 
-### [Buchenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.secret.md) 
+### #is_/same_as :: [Buchenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.personal.md) 
+
+### #is_/same_as :: [Buchenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Lindberg/City/Buchenau.secret.md)
+

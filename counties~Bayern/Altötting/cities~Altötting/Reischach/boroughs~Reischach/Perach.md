@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.27,12.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Perach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.md) 
+### #is_/same_as :: [Perach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.md) 
 
-### [Perach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.internal.md) 
+### #is_/same_as :: [Perach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.public.md) 
 
-### [Perach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.protect.md) 
+### #is_/same_as :: [Perach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.internal.md) 
 
-### [Perach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.private.md) 
+### #is_/same_as :: [Perach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.protect.md) 
 
-### [Perach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.personal.md) 
+### #is_/same_as :: [Perach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.private.md) 
 
-### [Perach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.secret.md) 
+### #is_/same_as :: [Perach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.personal.md) 
+
+### #is_/same_as :: [Perach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Reischach/boroughs~Reischach/Perach.secret.md)
+

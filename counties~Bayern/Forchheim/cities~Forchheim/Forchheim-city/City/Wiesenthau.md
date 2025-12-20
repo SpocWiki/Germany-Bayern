@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.72,11.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wiesenthau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.md) 
+### #is_/same_as :: [Wiesenthau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.md) 
 
-### [Wiesenthau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.internal.md) 
+### #is_/same_as :: [Wiesenthau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.public.md) 
 
-### [Wiesenthau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.protect.md) 
+### #is_/same_as :: [Wiesenthau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.internal.md) 
 
-### [Wiesenthau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.private.md) 
+### #is_/same_as :: [Wiesenthau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.protect.md) 
 
-### [Wiesenthau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.personal.md) 
+### #is_/same_as :: [Wiesenthau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.private.md) 
 
-### [Wiesenthau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.secret.md) 
+### #is_/same_as :: [Wiesenthau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.personal.md) 
+
+### #is_/same_as :: [Wiesenthau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Forchheim-city/City/Wiesenthau.secret.md)
+

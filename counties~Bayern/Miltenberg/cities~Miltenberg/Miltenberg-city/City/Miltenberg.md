@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.7,9.27] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Miltenberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.md) 
+### #is_/same_as :: [Miltenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.md) 
 
-### [Miltenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.internal.md) 
+### #is_/same_as :: [Miltenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.public.md) 
 
-### [Miltenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.protect.md) 
+### #is_/same_as :: [Miltenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.internal.md) 
 
-### [Miltenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.private.md) 
+### #is_/same_as :: [Miltenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.protect.md) 
 
-### [Miltenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.personal.md) 
+### #is_/same_as :: [Miltenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.private.md) 
 
-### [Miltenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.secret.md) 
+### #is_/same_as :: [Miltenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.personal.md) 
+
+### #is_/same_as :: [Miltenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Miltenberg-city/City/Miltenberg.secret.md)
+

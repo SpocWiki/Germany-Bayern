@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.95,9.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Thuengen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.md) 
+### #is_/same_as :: [Thuengen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.md) 
 
-### [Thuengen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.internal.md) 
+### #is_/same_as :: [Thuengen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.public.md) 
 
-### [Thuengen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.protect.md) 
+### #is_/same_as :: [Thuengen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.internal.md) 
 
-### [Thuengen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.private.md) 
+### #is_/same_as :: [Thuengen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.protect.md) 
 
-### [Thuengen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.personal.md) 
+### #is_/same_as :: [Thuengen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.private.md) 
 
-### [Thuengen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.secret.md) 
+### #is_/same_as :: [Thuengen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.personal.md) 
+
+### #is_/same_as :: [Thuengen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.secret.md)
+

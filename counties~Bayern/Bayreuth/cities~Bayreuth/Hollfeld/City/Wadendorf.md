@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.9,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wadendorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.md) 
+### #is_/same_as :: [Wadendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.md) 
 
-### [Wadendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.internal.md) 
+### #is_/same_as :: [Wadendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.public.md) 
 
-### [Wadendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.protect.md) 
+### #is_/same_as :: [Wadendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.internal.md) 
 
-### [Wadendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.private.md) 
+### #is_/same_as :: [Wadendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.protect.md) 
 
-### [Wadendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.personal.md) 
+### #is_/same_as :: [Wadendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.private.md) 
 
-### [Wadendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.secret.md) 
+### #is_/same_as :: [Wadendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.personal.md) 
+
+### #is_/same_as :: [Wadendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Hollfeld/City/Wadendorf.secret.md)
+

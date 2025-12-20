@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Auerberg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.md) 
+### #is_/same_as :: [Auerberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.md) 
 
-### [Auerberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.internal.md) 
+### #is_/same_as :: [Auerberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.public.md) 
 
-### [Auerberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.protect.md) 
+### #is_/same_as :: [Auerberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.internal.md) 
 
-### [Auerberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.private.md) 
+### #is_/same_as :: [Auerberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.protect.md) 
 
-### [Auerberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.personal.md) 
+### #is_/same_as :: [Auerberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.private.md) 
 
-### [Auerberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.secret.md) 
+### #is_/same_as :: [Auerberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.personal.md) 
+
+### #is_/same_as :: [Auerberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Unterthingau/City/Auerberg.secret.md)
+

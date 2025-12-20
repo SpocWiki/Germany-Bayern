@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.37,11.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Rothenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.md) 
+### #is_/same_as :: [Rothenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.md) 
 
-### [Rothenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.internal.md) 
+### #is_/same_as :: [Rothenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.public.md) 
 
-### [Rothenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.protect.md) 
+### #is_/same_as :: [Rothenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.internal.md) 
 
-### [Rothenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.private.md) 
+### #is_/same_as :: [Rothenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.protect.md) 
 
-### [Rothenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.personal.md) 
+### #is_/same_as :: [Rothenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.private.md) 
 
-### [Rothenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.secret.md) 
+### #is_/same_as :: [Rothenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.personal.md) 
+
+### #is_/same_as :: [Rothenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Pressig/City/Rothenkirchen.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.78,10.75] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Buchdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.md) 
+### #is_/same_as :: [Buchdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.md) 
 
-### [Buchdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.internal.md) 
+### #is_/same_as :: [Buchdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.public.md) 
 
-### [Buchdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.protect.md) 
+### #is_/same_as :: [Buchdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.internal.md) 
 
-### [Buchdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.private.md) 
+### #is_/same_as :: [Buchdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.protect.md) 
 
-### [Buchdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.personal.md) 
+### #is_/same_as :: [Buchdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.private.md) 
 
-### [Buchdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.secret.md) 
+### #is_/same_as :: [Buchdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.personal.md) 
+
+### #is_/same_as :: [Buchdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Kaisheim/City/Buchdorf.secret.md)
+

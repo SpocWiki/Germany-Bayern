@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.78,12.48] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Staudach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.md) 
+### #is_/same_as :: [Staudach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.md) 
 
-### [Staudach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.internal.md) 
+### #is_/same_as :: [Staudach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.public.md) 
 
-### [Staudach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.protect.md) 
+### #is_/same_as :: [Staudach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.internal.md) 
 
-### [Staudach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.private.md) 
+### #is_/same_as :: [Staudach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.protect.md) 
 
-### [Staudach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.personal.md) 
+### #is_/same_as :: [Staudach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.private.md) 
 
-### [Staudach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.secret.md) 
+### #is_/same_as :: [Staudach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.personal.md) 
+
+### #is_/same_as :: [Staudach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Marquartstein/City/Staudach.secret.md)
+

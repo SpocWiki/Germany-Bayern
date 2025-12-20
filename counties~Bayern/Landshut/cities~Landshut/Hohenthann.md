@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.65,12.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hohenthann](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.md) 
+### #is_/same_as :: [Hohenthann](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.md) 
 
-### [Hohenthann.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.internal.md) 
+### #is_/same_as :: [Hohenthann.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.public.md) 
 
-### [Hohenthann.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.protect.md) 
+### #is_/same_as :: [Hohenthann.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.internal.md) 
 
-### [Hohenthann.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.private.md) 
+### #is_/same_as :: [Hohenthann.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.protect.md) 
 
-### [Hohenthann.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.personal.md) 
+### #is_/same_as :: [Hohenthann.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.private.md) 
 
-### [Hohenthann.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.secret.md) 
+### #is_/same_as :: [Hohenthann.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.personal.md) 
+
+### #is_/same_as :: [Hohenthann.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Hohenthann.secret.md)
+

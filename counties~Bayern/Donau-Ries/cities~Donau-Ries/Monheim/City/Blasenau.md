@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.83,11] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Blasenau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.md) 
+### #is_/same_as :: [Blasenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.md) 
 
-### [Blasenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.internal.md) 
+### #is_/same_as :: [Blasenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.public.md) 
 
-### [Blasenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.protect.md) 
+### #is_/same_as :: [Blasenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.internal.md) 
 
-### [Blasenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.private.md) 
+### #is_/same_as :: [Blasenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.protect.md) 
 
-### [Blasenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.personal.md) 
+### #is_/same_as :: [Blasenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.private.md) 
 
-### [Blasenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.secret.md) 
+### #is_/same_as :: [Blasenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.personal.md) 
+
+### #is_/same_as :: [Blasenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Blasenau.secret.md)
+

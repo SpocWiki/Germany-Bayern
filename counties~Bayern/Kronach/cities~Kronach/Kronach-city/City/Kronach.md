@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.25,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kronach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.md) 
+### #is_/same_as :: [Kronach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.md) 
 
-### [Kronach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.internal.md) 
+### #is_/same_as :: [Kronach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.public.md) 
 
-### [Kronach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.protect.md) 
+### #is_/same_as :: [Kronach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.internal.md) 
 
-### [Kronach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.private.md) 
+### #is_/same_as :: [Kronach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.protect.md) 
 
-### [Kronach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.personal.md) 
+### #is_/same_as :: [Kronach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.private.md) 
 
-### [Kronach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.secret.md) 
+### #is_/same_as :: [Kronach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.personal.md) 
+
+### #is_/same_as :: [Kronach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Kronach-city/City/Kronach.secret.md)
+

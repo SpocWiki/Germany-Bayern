@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.75,10.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mühlhausen~Oberfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.md) 
 
-### [Mühlhausen~Oberfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.internal.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.public.md) 
 
-### [Mühlhausen~Oberfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.protect.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.internal.md) 
 
-### [Mühlhausen~Oberfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.private.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.protect.md) 
 
-### [Mühlhausen~Oberfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.personal.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.private.md) 
 
-### [Mühlhausen~Oberfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.secret.md) 
+### #is_/same_as :: [Mühlhausen~Oberfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.personal.md) 
+
+### #is_/same_as :: [Mühlhausen~Oberfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch/boroughs~Höchstadt/Mühlhausen~Oberfranken.secret.md)
+

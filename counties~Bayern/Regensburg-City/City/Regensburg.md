@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.02,12.1] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -52,16 +52,20 @@ Viele Bauwerke zeugen von der Geschichte der Stadt als eines der Zentren des Hei
 darunter die Geschlechtertürme, die großen romanischen und gotischen Kirchenbauten 
 sowie die Alte Kapelle und das spätgotische Rathaus.
 
+
 ## Confidential Links & Embeds: 
 
-### [Regensburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.md) 
+### #is_/same_as :: [Regensburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.md) 
 
-### [Regensburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.internal.md) 
+### #is_/same_as :: [Regensburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.public.md) 
 
-### [Regensburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.protect.md) 
+### #is_/same_as :: [Regensburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.internal.md) 
 
-### [Regensburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.private.md) 
+### #is_/same_as :: [Regensburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.protect.md) 
 
-### [Regensburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.personal.md) 
+### #is_/same_as :: [Regensburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.private.md) 
 
-### [Regensburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.secret.md) 
+### #is_/same_as :: [Regensburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.personal.md) 
+
+### #is_/same_as :: [Regensburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.secret.md)
+

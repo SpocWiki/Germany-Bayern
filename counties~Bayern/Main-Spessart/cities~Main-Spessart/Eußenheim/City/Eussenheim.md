@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.98,9.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Eussenheim](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.md) 
+### #is_/same_as :: [Eussenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.md) 
 
-### [Eussenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.internal.md) 
+### #is_/same_as :: [Eussenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.public.md) 
 
-### [Eussenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.protect.md) 
+### #is_/same_as :: [Eussenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.internal.md) 
 
-### [Eussenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.private.md) 
+### #is_/same_as :: [Eussenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.protect.md) 
 
-### [Eussenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.personal.md) 
+### #is_/same_as :: [Eussenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.private.md) 
 
-### [Eussenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.secret.md) 
+### #is_/same_as :: [Eussenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.personal.md) 
+
+### #is_/same_as :: [Eussenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Eußenheim/City/Eussenheim.secret.md)
+

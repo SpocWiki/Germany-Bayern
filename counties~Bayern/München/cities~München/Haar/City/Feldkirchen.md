@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.13,11.73] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Feldkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.md) 
+### #is_/same_as :: [Feldkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.md) 
 
-### [Feldkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.internal.md) 
+### #is_/same_as :: [Feldkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.public.md) 
 
-### [Feldkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.protect.md) 
+### #is_/same_as :: [Feldkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.internal.md) 
 
-### [Feldkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.private.md) 
+### #is_/same_as :: [Feldkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.protect.md) 
 
-### [Feldkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.personal.md) 
+### #is_/same_as :: [Feldkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.private.md) 
 
-### [Feldkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.secret.md) 
+### #is_/same_as :: [Feldkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.personal.md) 
+
+### #is_/same_as :: [Feldkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Haar/City/Feldkirchen.secret.md)
+

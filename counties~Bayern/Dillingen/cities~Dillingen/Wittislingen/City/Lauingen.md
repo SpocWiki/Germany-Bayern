@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.6,10.43] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lauingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.md) 
+### #is_/same_as :: [Lauingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.md) 
 
-### [Lauingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.internal.md) 
+### #is_/same_as :: [Lauingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.public.md) 
 
-### [Lauingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.protect.md) 
+### #is_/same_as :: [Lauingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.internal.md) 
 
-### [Lauingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.private.md) 
+### #is_/same_as :: [Lauingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.protect.md) 
 
-### [Lauingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.personal.md) 
+### #is_/same_as :: [Lauingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.private.md) 
 
-### [Lauingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.secret.md) 
+### #is_/same_as :: [Lauingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.personal.md) 
+
+### #is_/same_as :: [Lauingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Wittislingen/City/Lauingen.secret.md)
+

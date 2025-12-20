@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.57,10.22] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Immenstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.md) 
+### #is_/same_as :: [Immenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.md) 
 
-### [Immenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.internal.md) 
+### #is_/same_as :: [Immenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.public.md) 
 
-### [Immenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.protect.md) 
+### #is_/same_as :: [Immenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.internal.md) 
 
-### [Immenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.private.md) 
+### #is_/same_as :: [Immenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.protect.md) 
 
-### [Immenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.personal.md) 
+### #is_/same_as :: [Immenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.private.md) 
 
-### [Immenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.secret.md) 
+### #is_/same_as :: [Immenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.personal.md) 
+
+### #is_/same_as :: [Immenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.75,12.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Marquartstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.md) 
+### #is_/same_as :: [Marquartstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.md) 
 
-### [Marquartstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.internal.md) 
+### #is_/same_as :: [Marquartstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.public.md) 
 
-### [Marquartstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.protect.md) 
+### #is_/same_as :: [Marquartstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.internal.md) 
 
-### [Marquartstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.private.md) 
+### #is_/same_as :: [Marquartstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.protect.md) 
 
-### [Marquartstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.personal.md) 
+### #is_/same_as :: [Marquartstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.private.md) 
 
-### [Marquartstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.secret.md) 
+### #is_/same_as :: [Marquartstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.personal.md) 
+
+### #is_/same_as :: [Marquartstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Unterwössen/City/Marquartstein.secret.md)
+

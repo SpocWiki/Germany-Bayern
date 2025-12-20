@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.92,11.67] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hexenagger](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.md) 
+### #is_/same_as :: [Hexenagger](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.md) 
 
-### [Hexenagger.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.internal.md) 
+### #is_/same_as :: [Hexenagger.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.public.md) 
 
-### [Hexenagger.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.protect.md) 
+### #is_/same_as :: [Hexenagger.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.internal.md) 
 
-### [Hexenagger.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.private.md) 
+### #is_/same_as :: [Hexenagger.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.protect.md) 
 
-### [Hexenagger.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.personal.md) 
+### #is_/same_as :: [Hexenagger.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.private.md) 
 
-### [Hexenagger.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.secret.md) 
+### #is_/same_as :: [Hexenagger.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.personal.md) 
+
+### #is_/same_as :: [Hexenagger.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Altmannstein/City/Hexenagger.secret.md)
+

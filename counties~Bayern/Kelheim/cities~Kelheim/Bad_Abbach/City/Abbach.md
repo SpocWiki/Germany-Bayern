@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.92,12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Abbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.md) 
+### #is_/same_as :: [Abbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.md) 
 
-### [Abbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.internal.md) 
+### #is_/same_as :: [Abbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.public.md) 
 
-### [Abbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.protect.md) 
+### #is_/same_as :: [Abbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.internal.md) 
 
-### [Abbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.private.md) 
+### #is_/same_as :: [Abbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.protect.md) 
 
-### [Abbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.personal.md) 
+### #is_/same_as :: [Abbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.private.md) 
 
-### [Abbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.secret.md) 
+### #is_/same_as :: [Abbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.personal.md) 
+
+### #is_/same_as :: [Abbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Bad_Abbach/City/Abbach.secret.md)
+

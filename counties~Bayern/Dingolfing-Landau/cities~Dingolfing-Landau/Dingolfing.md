@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.63,12.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dingolfing](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.md) 
+### #is_/same_as :: [Dingolfing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.md) 
 
-### [Dingolfing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.internal.md) 
+### #is_/same_as :: [Dingolfing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.public.md) 
 
-### [Dingolfing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.protect.md) 
+### #is_/same_as :: [Dingolfing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.internal.md) 
 
-### [Dingolfing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.private.md) 
+### #is_/same_as :: [Dingolfing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.protect.md) 
 
-### [Dingolfing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.personal.md) 
+### #is_/same_as :: [Dingolfing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.private.md) 
 
-### [Dingolfing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.secret.md) 
+### #is_/same_as :: [Dingolfing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.personal.md) 
+
+### #is_/same_as :: [Dingolfing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dingolfing-Landau/cities~Dingolfing-Landau/Dingolfing.secret.md)
+

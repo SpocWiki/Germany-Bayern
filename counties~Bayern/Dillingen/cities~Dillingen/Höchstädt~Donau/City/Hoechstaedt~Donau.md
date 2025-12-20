@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.62,10.58] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hoechstaedt~Donau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.md) 
+### #is_/same_as :: [Hoechstaedt~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.md) 
 
-### [Hoechstaedt~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.internal.md) 
+### #is_/same_as :: [Hoechstaedt~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.public.md) 
 
-### [Hoechstaedt~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.protect.md) 
+### #is_/same_as :: [Hoechstaedt~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.internal.md) 
 
-### [Hoechstaedt~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.private.md) 
+### #is_/same_as :: [Hoechstaedt~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.protect.md) 
 
-### [Hoechstaedt~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.personal.md) 
+### #is_/same_as :: [Hoechstaedt~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.private.md) 
 
-### [Hoechstaedt~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.secret.md) 
+### #is_/same_as :: [Hoechstaedt~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.personal.md) 
+
+### #is_/same_as :: [Hoechstaedt~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Hoechstaedt~Donau.secret.md)
+

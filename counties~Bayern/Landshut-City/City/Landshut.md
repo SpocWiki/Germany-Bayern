@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.53,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Landshut](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.md) 
+### #is_/same_as :: [Landshut](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.md) 
 
-### [Landshut.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.internal.md) 
+### #is_/same_as :: [Landshut.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.public.md) 
 
-### [Landshut.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.protect.md) 
+### #is_/same_as :: [Landshut.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.internal.md) 
 
-### [Landshut.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.private.md) 
+### #is_/same_as :: [Landshut.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.protect.md) 
 
-### [Landshut.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.personal.md) 
+### #is_/same_as :: [Landshut.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.private.md) 
 
-### [Landshut.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.secret.md) 
+### #is_/same_as :: [Landshut.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.personal.md) 
+
+### #is_/same_as :: [Landshut.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut-City/City/Landshut.secret.md)
+

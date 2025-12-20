@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.02,11.37] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Mühltal](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.md) 
+### #is_/same_as :: [Mühltal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.md) 
 
-### [Mühltal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.internal.md) 
+### #is_/same_as :: [Mühltal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.public.md) 
 
-### [Mühltal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.protect.md) 
+### #is_/same_as :: [Mühltal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.internal.md) 
 
-### [Mühltal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.private.md) 
+### #is_/same_as :: [Mühltal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.protect.md) 
 
-### [Mühltal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.personal.md) 
+### #is_/same_as :: [Mühltal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.private.md) 
 
-### [Mühltal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.secret.md) 
+### #is_/same_as :: [Mühltal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.personal.md) 
+
+### #is_/same_as :: [Mühltal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Mühltal.secret.md)
+

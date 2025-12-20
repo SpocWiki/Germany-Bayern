@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.97,11.65] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Sauerlach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.md) 
+### #is_/same_as :: [Sauerlach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.md) 
 
-### [Sauerlach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.internal.md) 
+### #is_/same_as :: [Sauerlach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.public.md) 
 
-### [Sauerlach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.protect.md) 
+### #is_/same_as :: [Sauerlach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.internal.md) 
 
-### [Sauerlach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.private.md) 
+### #is_/same_as :: [Sauerlach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.protect.md) 
 
-### [Sauerlach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.personal.md) 
+### #is_/same_as :: [Sauerlach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.private.md) 
 
-### [Sauerlach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.secret.md) 
+### #is_/same_as :: [Sauerlach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.personal.md) 
+
+### #is_/same_as :: [Sauerlach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Sauerlach.secret.md)
+

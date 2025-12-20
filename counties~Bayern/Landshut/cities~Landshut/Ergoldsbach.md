@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.7,12.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Ergoldsbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.md) 
+### #is_/same_as :: [Ergoldsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.md) 
 
-### [Ergoldsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.internal.md) 
+### #is_/same_as :: [Ergoldsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.public.md) 
 
-### [Ergoldsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.protect.md) 
+### #is_/same_as :: [Ergoldsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.internal.md) 
 
-### [Ergoldsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.private.md) 
+### #is_/same_as :: [Ergoldsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.protect.md) 
 
-### [Ergoldsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.personal.md) 
+### #is_/same_as :: [Ergoldsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.private.md) 
 
-### [Ergoldsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.secret.md) 
+### #is_/same_as :: [Ergoldsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.personal.md) 
+
+### #is_/same_as :: [Ergoldsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Ergoldsbach.secret.md)
+

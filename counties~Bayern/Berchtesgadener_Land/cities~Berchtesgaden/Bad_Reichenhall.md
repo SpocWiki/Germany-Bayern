@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.72,12.87] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Reichenhall](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.md) 
+### #is_/same_as :: [Bad_Reichenhall](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.md) 
 
-### [Bad_Reichenhall.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.internal.md) 
+### #is_/same_as :: [Bad_Reichenhall.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.public.md) 
 
-### [Bad_Reichenhall.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.protect.md) 
+### #is_/same_as :: [Bad_Reichenhall.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.internal.md) 
 
-### [Bad_Reichenhall.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.private.md) 
+### #is_/same_as :: [Bad_Reichenhall.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.protect.md) 
 
-### [Bad_Reichenhall.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.personal.md) 
+### #is_/same_as :: [Bad_Reichenhall.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.private.md) 
 
-### [Bad_Reichenhall.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.secret.md) 
+### #is_/same_as :: [Bad_Reichenhall.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.personal.md) 
+
+### #is_/same_as :: [Bad_Reichenhall.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Bad_Reichenhall.secret.md)
+

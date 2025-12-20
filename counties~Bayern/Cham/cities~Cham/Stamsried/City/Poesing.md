@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.23,12.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Poesing](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.md) 
+### #is_/same_as :: [Poesing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.md) 
 
-### [Poesing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.internal.md) 
+### #is_/same_as :: [Poesing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.public.md) 
 
-### [Poesing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.protect.md) 
+### #is_/same_as :: [Poesing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.internal.md) 
 
-### [Poesing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.private.md) 
+### #is_/same_as :: [Poesing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.protect.md) 
 
-### [Poesing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.personal.md) 
+### #is_/same_as :: [Poesing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.private.md) 
 
-### [Poesing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.secret.md) 
+### #is_/same_as :: [Poesing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.personal.md) 
+
+### #is_/same_as :: [Poesing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Stamsried/City/Poesing.secret.md)
+

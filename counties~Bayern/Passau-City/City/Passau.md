@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.57,13.47] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Passau](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.md) 
+### #is_/same_as :: [Passau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.md) 
 
-### [Passau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.internal.md) 
+### #is_/same_as :: [Passau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.public.md) 
 
-### [Passau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.protect.md) 
+### #is_/same_as :: [Passau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.internal.md) 
 
-### [Passau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.private.md) 
+### #is_/same_as :: [Passau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.protect.md) 
 
-### [Passau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.personal.md) 
+### #is_/same_as :: [Passau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.private.md) 
 
-### [Passau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.secret.md) 
+### #is_/same_as :: [Passau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.personal.md) 
+
+### #is_/same_as :: [Passau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau-City/City/Passau.secret.md)
+

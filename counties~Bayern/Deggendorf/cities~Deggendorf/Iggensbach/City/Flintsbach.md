@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.72,13.15] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Flintsbach](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.md) 
+### #is_/same_as :: [Flintsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.md) 
 
-### [Flintsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.internal.md) 
+### #is_/same_as :: [Flintsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.public.md) 
 
-### [Flintsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.protect.md) 
+### #is_/same_as :: [Flintsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.internal.md) 
 
-### [Flintsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.private.md) 
+### #is_/same_as :: [Flintsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.protect.md) 
 
-### [Flintsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.personal.md) 
+### #is_/same_as :: [Flintsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.private.md) 
 
-### [Flintsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.secret.md) 
+### #is_/same_as :: [Flintsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.personal.md) 
+
+### #is_/same_as :: [Flintsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Iggensbach/City/Flintsbach.secret.md)
+

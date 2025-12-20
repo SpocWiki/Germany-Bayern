@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.63,10.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bergheim~Dillingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.md) 
+### #is_/same_as :: [Bergheim~Dillingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.md) 
 
-### [Bergheim~Dillingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.internal.md) 
+### #is_/same_as :: [Bergheim~Dillingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.public.md) 
 
-### [Bergheim~Dillingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.protect.md) 
+### #is_/same_as :: [Bergheim~Dillingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.internal.md) 
 
-### [Bergheim~Dillingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.private.md) 
+### #is_/same_as :: [Bergheim~Dillingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.protect.md) 
 
-### [Bergheim~Dillingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.personal.md) 
+### #is_/same_as :: [Bergheim~Dillingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.private.md) 
 
-### [Bergheim~Dillingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.secret.md) 
+### #is_/same_as :: [Bergheim~Dillingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.personal.md) 
+
+### #is_/same_as :: [Bergheim~Dillingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.secret.md)
+

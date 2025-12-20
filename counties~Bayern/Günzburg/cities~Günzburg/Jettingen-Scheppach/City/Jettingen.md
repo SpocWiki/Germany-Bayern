@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.37,10.45] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Jettingen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.md) 
+### #is_/same_as :: [Jettingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.md) 
 
-### [Jettingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.internal.md) 
+### #is_/same_as :: [Jettingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.public.md) 
 
-### [Jettingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.protect.md) 
+### #is_/same_as :: [Jettingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.internal.md) 
 
-### [Jettingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.private.md) 
+### #is_/same_as :: [Jettingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.protect.md) 
 
-### [Jettingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.personal.md) 
+### #is_/same_as :: [Jettingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.private.md) 
 
-### [Jettingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.secret.md) 
+### #is_/same_as :: [Jettingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.personal.md) 
+
+### #is_/same_as :: [Jettingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Jettingen-Scheppach/City/Jettingen.secret.md)
+

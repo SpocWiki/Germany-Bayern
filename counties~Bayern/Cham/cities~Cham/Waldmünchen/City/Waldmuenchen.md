@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.38,12.72] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Waldmuenchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.md) 
+### #is_/same_as :: [Waldmuenchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.md) 
 
-### [Waldmuenchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.internal.md) 
+### #is_/same_as :: [Waldmuenchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.public.md) 
 
-### [Waldmuenchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.protect.md) 
+### #is_/same_as :: [Waldmuenchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.internal.md) 
 
-### [Waldmuenchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.private.md) 
+### #is_/same_as :: [Waldmuenchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.protect.md) 
 
-### [Waldmuenchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.personal.md) 
+### #is_/same_as :: [Waldmuenchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.private.md) 
 
-### [Waldmuenchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.secret.md) 
+### #is_/same_as :: [Waldmuenchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.personal.md) 
+
+### #is_/same_as :: [Waldmuenchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Waldmuenchen.secret.md)
+

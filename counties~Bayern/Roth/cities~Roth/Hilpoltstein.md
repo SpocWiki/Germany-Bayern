@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.18,11.2] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hilpoltstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.md) 
+### #is_/same_as :: [Hilpoltstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.md) 
 
-### [Hilpoltstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.internal.md) 
+### #is_/same_as :: [Hilpoltstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.public.md) 
 
-### [Hilpoltstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.protect.md) 
+### #is_/same_as :: [Hilpoltstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.internal.md) 
 
-### [Hilpoltstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.private.md) 
+### #is_/same_as :: [Hilpoltstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.protect.md) 
 
-### [Hilpoltstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.personal.md) 
+### #is_/same_as :: [Hilpoltstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.private.md) 
 
-### [Hilpoltstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.secret.md) 
+### #is_/same_as :: [Hilpoltstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.personal.md) 
+
+### #is_/same_as :: [Hilpoltstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Hilpoltstein.secret.md)
+

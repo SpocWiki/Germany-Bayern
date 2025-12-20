@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.03,11.08] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Utting](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.md) 
+### #is_/same_as :: [Utting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.md) 
 
-### [Utting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.internal.md) 
+### #is_/same_as :: [Utting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.public.md) 
 
-### [Utting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.protect.md) 
+### #is_/same_as :: [Utting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.internal.md) 
 
-### [Utting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.private.md) 
+### #is_/same_as :: [Utting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.protect.md) 
 
-### [Utting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.personal.md) 
+### #is_/same_as :: [Utting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.private.md) 
 
-### [Utting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.secret.md) 
+### #is_/same_as :: [Utting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.personal.md) 
+
+### #is_/same_as :: [Utting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.secret.md)
+

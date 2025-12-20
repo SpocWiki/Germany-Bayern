@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.33,12.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwandorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.md) 
+### #is_/same_as :: [Schwandorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.md) 
 
-### [Schwandorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.internal.md) 
+### #is_/same_as :: [Schwandorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.public.md) 
 
-### [Schwandorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.protect.md) 
+### #is_/same_as :: [Schwandorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.internal.md) 
 
-### [Schwandorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.private.md) 
+### #is_/same_as :: [Schwandorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.protect.md) 
 
-### [Schwandorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.personal.md) 
+### #is_/same_as :: [Schwandorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.private.md) 
 
-### [Schwandorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.secret.md) 
+### #is_/same_as :: [Schwandorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.personal.md) 
+
+### #is_/same_as :: [Schwandorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schwandorf-city/City/Schwandorf.secret.md)
+

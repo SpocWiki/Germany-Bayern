@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.23,12.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Lengdorf](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.md) 
+### #is_/same_as :: [Lengdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.md) 
 
-### [Lengdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.internal.md) 
+### #is_/same_as :: [Lengdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.public.md) 
 
-### [Lengdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.protect.md) 
+### #is_/same_as :: [Lengdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.internal.md) 
 
-### [Lengdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.private.md) 
+### #is_/same_as :: [Lengdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.protect.md) 
 
-### [Lengdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.personal.md) 
+### #is_/same_as :: [Lengdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.private.md) 
 
-### [Lengdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.secret.md) 
+### #is_/same_as :: [Lengdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.personal.md) 
+
+### #is_/same_as :: [Lengdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Isen/City/Lengdorf.secret.md)
+

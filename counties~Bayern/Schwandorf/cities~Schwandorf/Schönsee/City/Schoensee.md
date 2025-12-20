@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.52,12.55] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schoensee](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.md) 
+### #is_/same_as :: [Schoensee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.md) 
 
-### [Schoensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.internal.md) 
+### #is_/same_as :: [Schoensee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.public.md) 
 
-### [Schoensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.protect.md) 
+### #is_/same_as :: [Schoensee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.internal.md) 
 
-### [Schoensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.private.md) 
+### #is_/same_as :: [Schoensee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.protect.md) 
 
-### [Schoensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.personal.md) 
+### #is_/same_as :: [Schoensee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.private.md) 
 
-### [Schoensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.secret.md) 
+### #is_/same_as :: [Schoensee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.personal.md) 
+
+### #is_/same_as :: [Schoensee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Schönsee/City/Schoensee.secret.md)
+

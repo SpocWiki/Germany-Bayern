@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.75,13.12] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Schwanenkirchen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.md) 
+### #is_/same_as :: [Schwanenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.md) 
 
-### [Schwanenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.internal.md) 
+### #is_/same_as :: [Schwanenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.public.md) 
 
-### [Schwanenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.protect.md) 
+### #is_/same_as :: [Schwanenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.internal.md) 
 
-### [Schwanenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.private.md) 
+### #is_/same_as :: [Schwanenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.protect.md) 
 
-### [Schwanenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.personal.md) 
+### #is_/same_as :: [Schwanenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.private.md) 
 
-### [Schwanenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.secret.md) 
+### #is_/same_as :: [Schwanenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.personal.md) 
+
+### #is_/same_as :: [Schwanenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Hengersberg/City/Schwanenkirchen.secret.md)
+

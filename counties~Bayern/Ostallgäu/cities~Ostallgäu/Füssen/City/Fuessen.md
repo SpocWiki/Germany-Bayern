@@ -1,4 +1,4 @@
-﻿---
+---
 location: [47.57,10.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fuessen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.md) 
+### #is_/same_as :: [Fuessen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.md) 
 
-### [Fuessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.internal.md) 
+### #is_/same_as :: [Fuessen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.public.md) 
 
-### [Fuessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.protect.md) 
+### #is_/same_as :: [Fuessen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.internal.md) 
 
-### [Fuessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.private.md) 
+### #is_/same_as :: [Fuessen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.protect.md) 
 
-### [Fuessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.personal.md) 
+### #is_/same_as :: [Fuessen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.private.md) 
 
-### [Fuessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.secret.md) 
+### #is_/same_as :: [Fuessen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.personal.md) 
+
+### #is_/same_as :: [Fuessen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.secret.md)
+

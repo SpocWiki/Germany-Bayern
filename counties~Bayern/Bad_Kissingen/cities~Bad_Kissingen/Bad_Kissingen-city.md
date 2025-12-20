@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.2,10.07] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -36,14 +36,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bad_Kissingen-city](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.md) 
+### #is_/same_as :: [Bad_Kissingen-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.md) 
 
-### [Bad_Kissingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.internal.md) 
+### #is_/same_as :: [Bad_Kissingen-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.public.md) 
 
-### [Bad_Kissingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.protect.md) 
+### #is_/same_as :: [Bad_Kissingen-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.internal.md) 
 
-### [Bad_Kissingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.private.md) 
+### #is_/same_as :: [Bad_Kissingen-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.protect.md) 
 
-### [Bad_Kissingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.personal.md) 
+### #is_/same_as :: [Bad_Kissingen-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.private.md) 
 
-### [Bad_Kissingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.secret.md) 
+### #is_/same_as :: [Bad_Kissingen-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.personal.md) 
+
+### #is_/same_as :: [Bad_Kissingen-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Kissingen-city.secret.md)
+

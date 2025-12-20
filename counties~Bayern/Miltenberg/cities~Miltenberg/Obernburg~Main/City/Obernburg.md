@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.83,9.13] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Obernburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.md) 
+### #is_/same_as :: [Obernburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.md) 
 
-### [Obernburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.internal.md) 
+### #is_/same_as :: [Obernburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.public.md) 
 
-### [Obernburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.protect.md) 
+### #is_/same_as :: [Obernburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.internal.md) 
 
-### [Obernburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.private.md) 
+### #is_/same_as :: [Obernburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.protect.md) 
 
-### [Obernburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.personal.md) 
+### #is_/same_as :: [Obernburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.private.md) 
 
-### [Obernburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.secret.md) 
+### #is_/same_as :: [Obernburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.personal.md) 
+
+### #is_/same_as :: [Obernburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.secret.md)
+

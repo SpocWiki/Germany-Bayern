@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.53,11.8] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nandlstadt](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.md) 
+### #is_/same_as :: [Nandlstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.md) 
 
-### [Nandlstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.internal.md) 
+### #is_/same_as :: [Nandlstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.public.md) 
 
-### [Nandlstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.protect.md) 
+### #is_/same_as :: [Nandlstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.internal.md) 
 
-### [Nandlstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.private.md) 
+### #is_/same_as :: [Nandlstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.protect.md) 
 
-### [Nandlstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.personal.md) 
+### #is_/same_as :: [Nandlstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.private.md) 
 
-### [Nandlstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.secret.md) 
+### #is_/same_as :: [Nandlstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.personal.md) 
+
+### #is_/same_as :: [Nandlstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Nandlstadt.secret.md)
+

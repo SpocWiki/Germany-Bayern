@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.77,11.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Goessweinstein](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.md) 
+### #is_/same_as :: [Goessweinstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.md) 
 
-### [Goessweinstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.internal.md) 
+### #is_/same_as :: [Goessweinstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.public.md) 
 
-### [Goessweinstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.protect.md) 
+### #is_/same_as :: [Goessweinstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.internal.md) 
 
-### [Goessweinstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.private.md) 
+### #is_/same_as :: [Goessweinstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.protect.md) 
 
-### [Goessweinstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.personal.md) 
+### #is_/same_as :: [Goessweinstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.private.md) 
 
-### [Goessweinstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.secret.md) 
+### #is_/same_as :: [Goessweinstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.personal.md) 
+
+### #is_/same_as :: [Goessweinstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Forchheim/cities~Forchheim/Gößweinstein/City/Goessweinstein.secret.md)
+

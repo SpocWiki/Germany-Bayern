@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.93,10.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -35,14 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Dieppe](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.md) 
+### #is_/same_as :: [Dieppe](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.md) 
 
-### [Dieppe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.internal.md) 
+### #is_/same_as :: [Dieppe.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.public.md) 
 
-### [Dieppe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.protect.md) 
+### #is_/same_as :: [Dieppe.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.internal.md) 
 
-### [Dieppe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.private.md) 
+### #is_/same_as :: [Dieppe.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.protect.md) 
 
-### [Dieppe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.personal.md) 
+### #is_/same_as :: [Dieppe.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.private.md) 
 
-### [Dieppe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.secret.md) 
+### #is_/same_as :: [Dieppe.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.personal.md) 
+
+### #is_/same_as :: [Dieppe.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Oberhaid/City/Dieppe.secret.md)
+

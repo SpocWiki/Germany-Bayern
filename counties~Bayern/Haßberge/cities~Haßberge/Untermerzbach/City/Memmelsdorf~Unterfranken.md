@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.13,10.85] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Memmelsdorf~Unterfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.md) 
 
-### [Memmelsdorf~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.internal.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.public.md) 
 
-### [Memmelsdorf~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.protect.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.internal.md) 
 
-### [Memmelsdorf~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.private.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.protect.md) 
 
-### [Memmelsdorf~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.personal.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.private.md) 
 
-### [Memmelsdorf~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.secret.md) 
+### #is_/same_as :: [Memmelsdorf~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.personal.md) 
+
+### #is_/same_as :: [Memmelsdorf~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Untermerzbach/City/Memmelsdorf~Unterfranken.secret.md)
+

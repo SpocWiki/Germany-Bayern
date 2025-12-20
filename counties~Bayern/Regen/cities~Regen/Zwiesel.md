@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.01,13.23] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Zwiesel](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.md) 
+### #is_/same_as :: [Zwiesel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.md) 
 
-### [Zwiesel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.internal.md) 
+### #is_/same_as :: [Zwiesel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.public.md) 
 
-### [Zwiesel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.protect.md) 
+### #is_/same_as :: [Zwiesel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.internal.md) 
 
-### [Zwiesel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.private.md) 
+### #is_/same_as :: [Zwiesel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.protect.md) 
 
-### [Zwiesel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.personal.md) 
+### #is_/same_as :: [Zwiesel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.private.md) 
 
-### [Zwiesel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.secret.md) 
+### #is_/same_as :: [Zwiesel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.personal.md) 
+
+### #is_/same_as :: [Zwiesel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Zwiesel.secret.md)
+

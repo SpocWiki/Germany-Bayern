@@ -1,4 +1,4 @@
-﻿# Creative Commons Legal Code
+# Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
 
@@ -110,16 +110,20 @@ Except for the limited purpose of indicating to the public that the Work is lice
 
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
+
 ## Confidential Links & Embeds: 
 
-### [License](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.md) 
+### #is_/same_as :: [License](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.md) 
 
-### [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.internal.md) 
+### #is_/same_as :: [License.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.public.md) 
 
-### [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.protect.md) 
+### #is_/same_as :: [License.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.internal.md) 
 
-### [License.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.private.md) 
+### #is_/same_as :: [License.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.protect.md) 
 
-### [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.personal.md) 
+### #is_/same_as :: [License.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.private.md) 
 
-### [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.secret.md) 
+### #is_/same_as :: [License.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.personal.md) 
+
+### #is_/same_as :: [License.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/License.secret.md)
+

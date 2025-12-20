@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.8,12.17] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Altenstadt~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.md) 
 
-### [Altenstadt~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.internal.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.public.md) 
 
-### [Altenstadt~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.protect.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.internal.md) 
 
-### [Altenstadt~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.private.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.protect.md) 
 
-### [Altenstadt~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.personal.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.private.md) 
 
-### [Altenstadt~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.secret.md) 
+### #is_/same_as :: [Altenstadt~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.personal.md) 
+
+### #is_/same_as :: [Altenstadt~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Windischeschenbach/City/Altenstadt~Oberpfalz.secret.md)
+

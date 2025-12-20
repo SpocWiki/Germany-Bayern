@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.45,12.35] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Vilsbiburg](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.md) 
+### #is_/same_as :: [Vilsbiburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.md) 
 
-### [Vilsbiburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.internal.md) 
+### #is_/same_as :: [Vilsbiburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.public.md) 
 
-### [Vilsbiburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.protect.md) 
+### #is_/same_as :: [Vilsbiburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.internal.md) 
 
-### [Vilsbiburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.private.md) 
+### #is_/same_as :: [Vilsbiburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.protect.md) 
 
-### [Vilsbiburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.personal.md) 
+### #is_/same_as :: [Vilsbiburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.private.md) 
 
-### [Vilsbiburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.secret.md) 
+### #is_/same_as :: [Vilsbiburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.personal.md) 
+
+### #is_/same_as :: [Vilsbiburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landshut/cities~Landshut/Vilsbiburg.secret.md)
+

@@ -1,4 +1,4 @@
-﻿---
+---
 location:
   - 49.12
   - 10.32
@@ -42,16 +42,20 @@ im Herzen der historischen Altstadt mit den zahlreichen Fachwerkhäusern.
 In der Stadt an der Grenze zu Baden-Württemberg 
 vermischen sich mittelfränkische, schwäbische und altbairische Mundarten.
 
+
 ## Confidential Links & Embeds: 
 
-### [Dinkelsbühl](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.md) 
+### #is_/same_as :: [Dinkelsbühl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.md) 
 
-### [Dinkelsbühl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.internal.md) 
+### #is_/same_as :: [Dinkelsbühl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.public.md) 
 
-### [Dinkelsbühl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.protect.md) 
+### #is_/same_as :: [Dinkelsbühl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.internal.md) 
 
-### [Dinkelsbühl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.private.md) 
+### #is_/same_as :: [Dinkelsbühl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.protect.md) 
 
-### [Dinkelsbühl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.personal.md) 
+### #is_/same_as :: [Dinkelsbühl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.private.md) 
 
-### [Dinkelsbühl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.secret.md) 
+### #is_/same_as :: [Dinkelsbühl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.personal.md) 
+
+### #is_/same_as :: [Dinkelsbühl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dinkelsbühl.secret.md)
+

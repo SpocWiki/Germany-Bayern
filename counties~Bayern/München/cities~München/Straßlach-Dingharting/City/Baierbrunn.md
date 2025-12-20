@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48,11.5] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Baierbrunn](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.md) 
+### #is_/same_as :: [Baierbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.md) 
 
-### [Baierbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.internal.md) 
+### #is_/same_as :: [Baierbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.public.md) 
 
-### [Baierbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.protect.md) 
+### #is_/same_as :: [Baierbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.internal.md) 
 
-### [Baierbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.private.md) 
+### #is_/same_as :: [Baierbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.protect.md) 
 
-### [Baierbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.personal.md) 
+### #is_/same_as :: [Baierbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.private.md) 
 
-### [Baierbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.secret.md) 
+### #is_/same_as :: [Baierbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.personal.md) 
+
+### #is_/same_as :: [Baierbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Straßlach-Dingharting/City/Baierbrunn.secret.md)
+

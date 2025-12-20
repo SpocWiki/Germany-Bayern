@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.63,12.02] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Roethenbach~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.md) 
 
-### [Roethenbach~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.internal.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.public.md) 
 
-### [Roethenbach~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.protect.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.internal.md) 
 
-### [Roethenbach~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.private.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.protect.md) 
 
-### [Roethenbach~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.personal.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.private.md) 
 
-### [Roethenbach~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.secret.md) 
+### #is_/same_as :: [Roethenbach~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.personal.md) 
+
+### #is_/same_as :: [Roethenbach~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Weiherhammer/City/Roethenbach~Oberpfalz.secret.md)
+

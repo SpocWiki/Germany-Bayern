@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.97,9.14] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Aschaffenburg-City](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.md) 
+### #is_/same_as :: [Aschaffenburg-City](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.md) 
 
-### [Aschaffenburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.internal.md) 
+### #is_/same_as :: [Aschaffenburg-City.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.public.md) 
 
-### [Aschaffenburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.protect.md) 
+### #is_/same_as :: [Aschaffenburg-City.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.internal.md) 
 
-### [Aschaffenburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.private.md) 
+### #is_/same_as :: [Aschaffenburg-City.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.protect.md) 
 
-### [Aschaffenburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.personal.md) 
+### #is_/same_as :: [Aschaffenburg-City.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.private.md) 
 
-### [Aschaffenburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.secret.md) 
+### #is_/same_as :: [Aschaffenburg-City.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.personal.md) 
+
+### #is_/same_as :: [Aschaffenburg-City.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.secret.md)
+

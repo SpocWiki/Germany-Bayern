@@ -1,4 +1,4 @@
-﻿---
+---
 location: [49.87,11.9] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Kemnath~Oberpfalz](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.md) 
 
-### [Kemnath~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.internal.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.public.md) 
 
-### [Kemnath~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.protect.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.internal.md) 
 
-### [Kemnath~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.private.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.protect.md) 
 
-### [Kemnath~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.personal.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.private.md) 
 
-### [Kemnath~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.secret.md) 
+### #is_/same_as :: [Kemnath~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.personal.md) 
+
+### #is_/same_as :: [Kemnath~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Kemnath/City/Kemnath~Oberpfalz.secret.md)
+

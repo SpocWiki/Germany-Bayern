@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.17,12.83] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -40,16 +40,20 @@ mit ihren über die Dachhöhe gezogenen Giebelmauern und reicher Fassadenzier.
 Zusammen mit einer Besichtigung der weltlängsten Burg über der denkmalgeschützten Altstadt 
 lohnt sich ein Rundgang durch die bayerische Kleinstadt an der Grenze zu Österreich.
 
+
 ## Confidential Links & Embeds: 
 
-### [Burghausen](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.md) 
+### #is_/same_as :: [Burghausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.md) 
 
-### [Burghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.internal.md) 
+### #is_/same_as :: [Burghausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.public.md) 
 
-### [Burghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.protect.md) 
+### #is_/same_as :: [Burghausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.internal.md) 
 
-### [Burghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.private.md) 
+### #is_/same_as :: [Burghausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.protect.md) 
 
-### [Burghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.personal.md) 
+### #is_/same_as :: [Burghausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.private.md) 
 
-### [Burghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.secret.md) 
+### #is_/same_as :: [Burghausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.personal.md) 
+
+### #is_/same_as :: [Burghausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burghausen.secret.md)
+

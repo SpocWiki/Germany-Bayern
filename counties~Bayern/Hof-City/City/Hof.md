@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.32,11.92] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hof](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.md) 
+### #is_/same_as :: [Hof](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.md) 
 
-### [Hof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.internal.md) 
+### #is_/same_as :: [Hof.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.public.md) 
 
-### [Hof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.protect.md) 
+### #is_/same_as :: [Hof.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.internal.md) 
 
-### [Hof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.private.md) 
+### #is_/same_as :: [Hof.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.protect.md) 
 
-### [Hof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.personal.md) 
+### #is_/same_as :: [Hof.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.private.md) 
 
-### [Hof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.secret.md) 
+### #is_/same_as :: [Hof.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.personal.md) 
+
+### #is_/same_as :: [Hof.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof-City/City/Hof.secret.md)
+

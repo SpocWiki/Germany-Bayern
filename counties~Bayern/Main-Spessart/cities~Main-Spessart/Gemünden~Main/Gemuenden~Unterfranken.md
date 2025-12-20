@@ -1,4 +1,4 @@
-﻿---
+---
 location: [50.07,9.7] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Gemuenden~Unterfranken](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.md) 
 
-### [Gemuenden~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.internal.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.public.md) 
 
-### [Gemuenden~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.protect.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.internal.md) 
 
-### [Gemuenden~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.private.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.protect.md) 
 
-### [Gemuenden~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.personal.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.private.md) 
 
-### [Gemuenden~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.secret.md) 
+### #is_/same_as :: [Gemuenden~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.personal.md) 
+
+### #is_/same_as :: [Gemuenden~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Gemünden~Main/Gemuenden~Unterfranken.secret.md)
+

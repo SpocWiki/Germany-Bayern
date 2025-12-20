@@ -1,4 +1,4 @@
-﻿---
+---
 location: [48.58,13.77] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,14 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Wildenranna](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.md) 
+### #is_/same_as :: [Wildenranna](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.md) 
 
-### [Wildenranna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.internal.md) 
+### #is_/same_as :: [Wildenranna.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.public.md) 
 
-### [Wildenranna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.protect.md) 
+### #is_/same_as :: [Wildenranna.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.internal.md) 
 
-### [Wildenranna.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.private.md) 
+### #is_/same_as :: [Wildenranna.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.protect.md) 
 
-### [Wildenranna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.personal.md) 
+### #is_/same_as :: [Wildenranna.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.private.md) 
 
-### [Wildenranna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.secret.md) 
+### #is_/same_as :: [Wildenranna.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.personal.md) 
+
+### #is_/same_as :: [Wildenranna.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Wegscheid/City/Wildenranna.secret.md)
+
