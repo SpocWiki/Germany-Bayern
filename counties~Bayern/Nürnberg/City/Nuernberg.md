@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuernberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg|Nuernberg]] 
 
-### #is_/same_as :: [Nuernberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.public|Nuernberg.public]] 
 
-### #is_/same_as :: [Nuernberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.internal|Nuernberg.internal]] 
 
-### #is_/same_as :: [Nuernberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.protect|Nuernberg.protect]] 
 
-### #is_/same_as :: [Nuernberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.private|Nuernberg.private]] 
 
-### #is_/same_as :: [Nuernberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.personal|Nuernberg.personal]] 
 
-### #is_/same_as :: [Nuernberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.secret|Nuernberg.secret]] 
 

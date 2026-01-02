@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg|Parsberg]] 
 
-### #is_/same_as :: [Parsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.public|Parsberg.public]] 
 
-### #is_/same_as :: [Parsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.internal|Parsberg.internal]] 
 
-### #is_/same_as :: [Parsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.protect|Parsberg.protect]] 
 
-### #is_/same_as :: [Parsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.private|Parsberg.private]] 
 
-### #is_/same_as :: [Parsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.personal|Parsberg.personal]] 
 
-### #is_/same_as :: [Parsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Parsberg.secret|Parsberg.secret]] 
 

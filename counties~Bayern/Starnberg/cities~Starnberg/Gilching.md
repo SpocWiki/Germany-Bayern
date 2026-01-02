@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gilching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching|Gilching]] 
 
-### #is_/same_as :: [Gilching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.public|Gilching.public]] 
 
-### #is_/same_as :: [Gilching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.internal|Gilching.internal]] 
 
-### #is_/same_as :: [Gilching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.protect|Gilching.protect]] 
 
-### #is_/same_as :: [Gilching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.private|Gilching.private]] 
 
-### #is_/same_as :: [Gilching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.personal|Gilching.personal]] 
 
-### #is_/same_as :: [Gilching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gilching.secret|Gilching.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maria-Thann](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann|Maria-Thann]] 
 
-### #is_/same_as :: [Maria-Thann.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.public|Maria-Thann.public]] 
 
-### #is_/same_as :: [Maria-Thann.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.internal|Maria-Thann.internal]] 
 
-### #is_/same_as :: [Maria-Thann.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.protect|Maria-Thann.protect]] 
 
-### #is_/same_as :: [Maria-Thann.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.private|Maria-Thann.private]] 
 
-### #is_/same_as :: [Maria-Thann.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.personal|Maria-Thann.personal]] 
 
-### #is_/same_as :: [Maria-Thann.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Hergatz/City/Maria-Thann.secret|Maria-Thann.secret]] 
 

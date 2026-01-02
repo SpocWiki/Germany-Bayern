@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wabern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern|Wabern]] 
 
-### #is_/same_as :: [Wabern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.public|Wabern.public]] 
 
-### #is_/same_as :: [Wabern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.internal|Wabern.internal]] 
 
-### #is_/same_as :: [Wabern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.protect|Wabern.protect]] 
 
-### #is_/same_as :: [Wabern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.private|Wabern.private]] 
 
-### #is_/same_as :: [Wabern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.personal|Wabern.personal]] 
 
-### #is_/same_as :: [Wabern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Egling~Paar/City/Wabern.secret|Wabern.secret]] 
 

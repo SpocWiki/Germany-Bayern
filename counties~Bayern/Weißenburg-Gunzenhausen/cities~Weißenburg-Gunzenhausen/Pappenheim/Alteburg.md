@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alteburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg|Alteburg]] 
 
-### #is_/same_as :: [Alteburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.public|Alteburg.public]] 
 
-### #is_/same_as :: [Alteburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.internal|Alteburg.internal]] 
 
-### #is_/same_as :: [Alteburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.protect|Alteburg.protect]] 
 
-### #is_/same_as :: [Alteburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.private|Alteburg.private]] 
 
-### #is_/same_as :: [Alteburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.personal|Alteburg.personal]] 
 
-### #is_/same_as :: [Alteburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Alteburg.secret|Alteburg.secret]] 
 

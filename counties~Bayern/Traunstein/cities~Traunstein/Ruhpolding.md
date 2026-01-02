@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruhpolding](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding|Ruhpolding]] 
 
-### #is_/same_as :: [Ruhpolding.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.public|Ruhpolding.public]] 
 
-### #is_/same_as :: [Ruhpolding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.internal|Ruhpolding.internal]] 
 
-### #is_/same_as :: [Ruhpolding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.protect|Ruhpolding.protect]] 
 
-### #is_/same_as :: [Ruhpolding.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.private|Ruhpolding.private]] 
 
-### #is_/same_as :: [Ruhpolding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.personal|Ruhpolding.personal]] 
 
-### #is_/same_as :: [Ruhpolding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Ruhpolding.secret|Ruhpolding.secret]] 
 

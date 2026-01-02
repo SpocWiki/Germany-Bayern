@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alling](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling|Alling]] 
 
-### #is_/same_as :: [Alling.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.public|Alling.public]] 
 
-### #is_/same_as :: [Alling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.internal|Alling.internal]] 
 
-### #is_/same_as :: [Alling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.protect|Alling.protect]] 
 
-### #is_/same_as :: [Alling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.private|Alling.private]] 
 
-### #is_/same_as :: [Alling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.personal|Alling.personal]] 
 
-### #is_/same_as :: [Alling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Sinzing/City/Alling.secret|Alling.secret]] 
 

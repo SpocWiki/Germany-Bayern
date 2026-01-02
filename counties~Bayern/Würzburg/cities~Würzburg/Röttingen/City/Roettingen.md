@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roettingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen|Roettingen]] 
 
-### #is_/same_as :: [Roettingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.public|Roettingen.public]] 
 
-### #is_/same_as :: [Roettingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.internal|Roettingen.internal]] 
 
-### #is_/same_as :: [Roettingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.protect|Roettingen.protect]] 
 
-### #is_/same_as :: [Roettingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.private|Roettingen.private]] 
 
-### #is_/same_as :: [Roettingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.personal|Roettingen.personal]] 
 
-### #is_/same_as :: [Roettingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Röttingen/City/Roettingen.secret|Roettingen.secret]] 
 

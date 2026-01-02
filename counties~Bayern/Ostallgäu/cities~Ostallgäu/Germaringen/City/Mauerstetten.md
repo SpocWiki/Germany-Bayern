@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mauerstetten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten|Mauerstetten]] 
 
-### #is_/same_as :: [Mauerstetten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.public|Mauerstetten.public]] 
 
-### #is_/same_as :: [Mauerstetten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.internal|Mauerstetten.internal]] 
 
-### #is_/same_as :: [Mauerstetten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.protect|Mauerstetten.protect]] 
 
-### #is_/same_as :: [Mauerstetten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.private|Mauerstetten.private]] 
 
-### #is_/same_as :: [Mauerstetten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.personal|Mauerstetten.personal]] 
 
-### #is_/same_as :: [Mauerstetten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Germaringen/City/Mauerstetten.secret|Mauerstetten.secret]] 
 

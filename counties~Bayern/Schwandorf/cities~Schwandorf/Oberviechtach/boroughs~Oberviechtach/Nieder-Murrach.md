@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nieder-Murrach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach|Nieder-Murrach]] 
 
-### #is_/same_as :: [Nieder-Murrach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.public|Nieder-Murrach.public]] 
 
-### #is_/same_as :: [Nieder-Murrach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.internal|Nieder-Murrach.internal]] 
 
-### #is_/same_as :: [Nieder-Murrach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.protect|Nieder-Murrach.protect]] 
 
-### #is_/same_as :: [Nieder-Murrach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.private|Nieder-Murrach.private]] 
 
-### #is_/same_as :: [Nieder-Murrach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.personal|Nieder-Murrach.personal]] 
 
-### #is_/same_as :: [Nieder-Murrach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Oberviechtach/boroughs~Oberviechtach/Nieder-Murrach.secret|Nieder-Murrach.secret]] 
 

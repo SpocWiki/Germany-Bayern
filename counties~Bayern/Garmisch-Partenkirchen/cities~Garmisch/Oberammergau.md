@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberammergau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau|Oberammergau]] 
 
-### #is_/same_as :: [Oberammergau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.public|Oberammergau.public]] 
 
-### #is_/same_as :: [Oberammergau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.internal|Oberammergau.internal]] 
 
-### #is_/same_as :: [Oberammergau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.protect|Oberammergau.protect]] 
 
-### #is_/same_as :: [Oberammergau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.private|Oberammergau.private]] 
 
-### #is_/same_as :: [Oberammergau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.personal|Oberammergau.personal]] 
 
-### #is_/same_as :: [Oberammergau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Oberammergau.secret|Oberammergau.secret]] 
 

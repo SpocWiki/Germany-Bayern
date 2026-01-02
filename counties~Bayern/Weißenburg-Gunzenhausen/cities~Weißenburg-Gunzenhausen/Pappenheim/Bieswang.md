@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bieswang](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang|Bieswang]] 
 
-### #is_/same_as :: [Bieswang.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.public|Bieswang.public]] 
 
-### #is_/same_as :: [Bieswang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.internal|Bieswang.internal]] 
 
-### #is_/same_as :: [Bieswang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.protect|Bieswang.protect]] 
 
-### #is_/same_as :: [Bieswang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.private|Bieswang.private]] 
 
-### #is_/same_as :: [Bieswang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.personal|Bieswang.personal]] 
 
-### #is_/same_as :: [Bieswang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim/Bieswang.secret|Bieswang.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulzbach~Mainufer](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer|Sulzbach~Mainufer]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.public|Sulzbach~Mainufer.public]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.internal|Sulzbach~Mainufer.internal]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.protect|Sulzbach~Mainufer.protect]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.private|Sulzbach~Mainufer.private]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.personal|Sulzbach~Mainufer.personal]] 
 
-### #is_/same_as :: [Sulzbach~Mainufer.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Sulzbach~Main/City/Sulzbach~Mainufer.secret|Sulzbach~Mainufer.secret]] 
 

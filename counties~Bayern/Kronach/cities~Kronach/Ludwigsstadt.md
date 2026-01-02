@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ludwigsstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt|Ludwigsstadt]] 
 
-### #is_/same_as :: [Ludwigsstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.public|Ludwigsstadt.public]] 
 
-### #is_/same_as :: [Ludwigsstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.internal|Ludwigsstadt.internal]] 
 
-### #is_/same_as :: [Ludwigsstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.protect|Ludwigsstadt.protect]] 
 
-### #is_/same_as :: [Ludwigsstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.private|Ludwigsstadt.private]] 
 
-### #is_/same_as :: [Ludwigsstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.personal|Ludwigsstadt.personal]] 
 
-### #is_/same_as :: [Ludwigsstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Ludwigsstadt.secret|Ludwigsstadt.secret]] 
 

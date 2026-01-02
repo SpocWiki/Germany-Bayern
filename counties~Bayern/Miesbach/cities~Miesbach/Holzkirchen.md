@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holzkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen|Holzkirchen]] 
 
-### #is_/same_as :: [Holzkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.public|Holzkirchen.public]] 
 
-### #is_/same_as :: [Holzkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.internal|Holzkirchen.internal]] 
 
-### #is_/same_as :: [Holzkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.protect|Holzkirchen.protect]] 
 
-### #is_/same_as :: [Holzkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.private|Holzkirchen.private]] 
 
-### #is_/same_as :: [Holzkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.personal|Holzkirchen.personal]] 
 
-### #is_/same_as :: [Holzkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Holzkirchen.secret|Holzkirchen.secret]] 
 

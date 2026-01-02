@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thuengen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen|Thuengen]] 
 
-### #is_/same_as :: [Thuengen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.public|Thuengen.public]] 
 
-### #is_/same_as :: [Thuengen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.internal|Thuengen.internal]] 
 
-### #is_/same_as :: [Thuengen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.protect|Thuengen.protect]] 
 
-### #is_/same_as :: [Thuengen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.private|Thuengen.private]] 
 
-### #is_/same_as :: [Thuengen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.personal|Thuengen.personal]] 
 
-### #is_/same_as :: [Thuengen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Zellingen/City/Thuengen.secret|Thuengen.secret]] 
 

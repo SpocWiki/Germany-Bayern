@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seeshaupt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt|Seeshaupt]] 
 
-### #is_/same_as :: [Seeshaupt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.public|Seeshaupt.public]] 
 
-### #is_/same_as :: [Seeshaupt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.internal|Seeshaupt.internal]] 
 
-### #is_/same_as :: [Seeshaupt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.protect|Seeshaupt.protect]] 
 
-### #is_/same_as :: [Seeshaupt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.private|Seeshaupt.private]] 
 
-### #is_/same_as :: [Seeshaupt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.personal|Seeshaupt.personal]] 
 
-### #is_/same_as :: [Seeshaupt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Seeshaupt.secret|Seeshaupt.secret]] 
 

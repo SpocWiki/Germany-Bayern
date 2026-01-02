@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berchtesgaden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden|Berchtesgaden]] 
 
-### #is_/same_as :: [Berchtesgaden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.public|Berchtesgaden.public]] 
 
-### #is_/same_as :: [Berchtesgaden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.internal|Berchtesgaden.internal]] 
 
-### #is_/same_as :: [Berchtesgaden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.protect|Berchtesgaden.protect]] 
 
-### #is_/same_as :: [Berchtesgaden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.private|Berchtesgaden.private]] 
 
-### #is_/same_as :: [Berchtesgaden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.personal|Berchtesgaden.personal]] 
 
-### #is_/same_as :: [Berchtesgaden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Berchtesgaden.secret|Berchtesgaden.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ortenburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg|Ortenburg]] 
 
-### #is_/same_as :: [Ortenburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.public|Ortenburg.public]] 
 
-### #is_/same_as :: [Ortenburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.internal|Ortenburg.internal]] 
 
-### #is_/same_as :: [Ortenburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.protect|Ortenburg.protect]] 
 
-### #is_/same_as :: [Ortenburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.private|Ortenburg.private]] 
 
-### #is_/same_as :: [Ortenburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.personal|Ortenburg.personal]] 
 
-### #is_/same_as :: [Ortenburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Ortenburg.secret|Ortenburg.secret]] 
 

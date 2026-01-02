@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kirchheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim|Kirchheim]] 
 
-### #is_/same_as :: [Kirchheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.public|Kirchheim.public]] 
 
-### #is_/same_as :: [Kirchheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.internal|Kirchheim.internal]] 
 
-### #is_/same_as :: [Kirchheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.protect|Kirchheim.protect]] 
 
-### #is_/same_as :: [Kirchheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.private|Kirchheim.private]] 
 
-### #is_/same_as :: [Kirchheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.personal|Kirchheim.personal]] 
 
-### #is_/same_as :: [Kirchheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Kirchheimi.Schw/City/Kirchheim.secret|Kirchheim.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Auernheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim|Auernheim]] 
 
-### #is_/same_as :: [Auernheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.public|Auernheim.public]] 
 
-### #is_/same_as :: [Auernheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.internal|Auernheim.internal]] 
 
-### #is_/same_as :: [Auernheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.protect|Auernheim.protect]] 
 
-### #is_/same_as :: [Auernheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.private|Auernheim.private]] 
 
-### #is_/same_as :: [Auernheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.personal|Auernheim.personal]] 
 
-### #is_/same_as :: [Auernheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Treuchtlingen/Auernheim.secret|Auernheim.secret]] 
 

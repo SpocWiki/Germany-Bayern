@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kochel~See](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See|Kochel~See]] 
 
-### #is_/same_as :: [Kochel~See.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.public|Kochel~See.public]] 
 
-### #is_/same_as :: [Kochel~See.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.internal|Kochel~See.internal]] 
 
-### #is_/same_as :: [Kochel~See.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.protect|Kochel~See.protect]] 
 
-### #is_/same_as :: [Kochel~See.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.private|Kochel~See.private]] 
 
-### #is_/same_as :: [Kochel~See.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.personal|Kochel~See.personal]] 
 
-### #is_/same_as :: [Kochel~See.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Kochel~See.secret|Kochel~See.secret]] 
 

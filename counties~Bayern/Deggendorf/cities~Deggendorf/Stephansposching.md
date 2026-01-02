@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stephansposching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching|Stephansposching]] 
 
-### #is_/same_as :: [Stephansposching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.public|Stephansposching.public]] 
 
-### #is_/same_as :: [Stephansposching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.internal|Stephansposching.internal]] 
 
-### #is_/same_as :: [Stephansposching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.protect|Stephansposching.protect]] 
 
-### #is_/same_as :: [Stephansposching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.private|Stephansposching.private]] 
 
-### #is_/same_as :: [Stephansposching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.personal|Stephansposching.personal]] 
 
-### #is_/same_as :: [Stephansposching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Stephansposching.secret|Stephansposching.secret]] 
 

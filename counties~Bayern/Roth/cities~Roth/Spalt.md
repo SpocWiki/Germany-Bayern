@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spalt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt|Spalt]] 
 
-### #is_/same_as :: [Spalt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.public|Spalt.public]] 
 
-### #is_/same_as :: [Spalt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.internal|Spalt.internal]] 
 
-### #is_/same_as :: [Spalt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.protect|Spalt.protect]] 
 
-### #is_/same_as :: [Spalt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.private|Spalt.private]] 
 
-### #is_/same_as :: [Spalt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.personal|Spalt.personal]] 
 
-### #is_/same_as :: [Spalt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Spalt.secret|Spalt.secret]] 
 

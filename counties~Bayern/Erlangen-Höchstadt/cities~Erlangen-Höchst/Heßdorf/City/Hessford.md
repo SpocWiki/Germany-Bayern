@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hessford](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford|Hessford]] 
 
-### #is_/same_as :: [Hessford.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.public|Hessford.public]] 
 
-### #is_/same_as :: [Hessford.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.internal|Hessford.internal]] 
 
-### #is_/same_as :: [Hessford.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.protect|Hessford.protect]] 
 
-### #is_/same_as :: [Hessford.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.private|Hessford.private]] 
 
-### #is_/same_as :: [Hessford.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.personal|Hessford.personal]] 
 
-### #is_/same_as :: [Hessford.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Heßdorf/City/Hessford.secret|Hessford.secret]] 
 

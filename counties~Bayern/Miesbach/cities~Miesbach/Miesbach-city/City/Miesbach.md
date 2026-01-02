@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miesbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach|Miesbach]] 
 
-### #is_/same_as :: [Miesbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.public|Miesbach.public]] 
 
-### #is_/same_as :: [Miesbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.internal|Miesbach.internal]] 
 
-### #is_/same_as :: [Miesbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.protect|Miesbach.protect]] 
 
-### #is_/same_as :: [Miesbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.private|Miesbach.private]] 
 
-### #is_/same_as :: [Miesbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.personal|Miesbach.personal]] 
 
-### #is_/same_as :: [Miesbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Miesbach-city/City/Miesbach.secret|Miesbach.secret]] 
 

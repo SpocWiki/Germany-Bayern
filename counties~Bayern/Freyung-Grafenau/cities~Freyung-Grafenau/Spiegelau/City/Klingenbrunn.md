@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klingenbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn|Klingenbrunn]] 
 
-### #is_/same_as :: [Klingenbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.public|Klingenbrunn.public]] 
 
-### #is_/same_as :: [Klingenbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.internal|Klingenbrunn.internal]] 
 
-### #is_/same_as :: [Klingenbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.protect|Klingenbrunn.protect]] 
 
-### #is_/same_as :: [Klingenbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.private|Klingenbrunn.private]] 
 
-### #is_/same_as :: [Klingenbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.personal|Klingenbrunn.personal]] 
 
-### #is_/same_as :: [Klingenbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Spiegelau/City/Klingenbrunn.secret|Klingenbrunn.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eichstaett](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett|Eichstaett]] 
 
-### #is_/same_as :: [Eichstaett.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.public|Eichstaett.public]] 
 
-### #is_/same_as :: [Eichstaett.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.internal|Eichstaett.internal]] 
 
-### #is_/same_as :: [Eichstaett.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.protect|Eichstaett.protect]] 
 
-### #is_/same_as :: [Eichstaett.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.private|Eichstaett.private]] 
 
-### #is_/same_as :: [Eichstaett.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.personal|Eichstaett.personal]] 
 
-### #is_/same_as :: [Eichstaett.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Eichstätt-city/City/Eichstaett.secret|Eichstaett.secret]] 
 

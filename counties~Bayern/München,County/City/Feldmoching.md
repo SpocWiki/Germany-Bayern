@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feldmoching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching|Feldmoching]] 
 
-### #is_/same_as :: [Feldmoching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.public|Feldmoching.public]] 
 
-### #is_/same_as :: [Feldmoching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.internal|Feldmoching.internal]] 
 
-### #is_/same_as :: [Feldmoching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.protect|Feldmoching.protect]] 
 
-### #is_/same_as :: [Feldmoching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.private|Feldmoching.private]] 
 
-### #is_/same_as :: [Feldmoching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.personal|Feldmoching.personal]] 
 
-### #is_/same_as :: [Feldmoching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München,County/City/Feldmoching.secret|Feldmoching.secret]] 
 

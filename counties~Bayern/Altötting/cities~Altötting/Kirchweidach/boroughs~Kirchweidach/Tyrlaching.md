@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tyrlaching](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching|Tyrlaching]] 
 
-### #is_/same_as :: [Tyrlaching.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.public|Tyrlaching.public]] 
 
-### #is_/same_as :: [Tyrlaching.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.internal|Tyrlaching.internal]] 
 
-### #is_/same_as :: [Tyrlaching.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.protect|Tyrlaching.protect]] 
 
-### #is_/same_as :: [Tyrlaching.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.private|Tyrlaching.private]] 
 
-### #is_/same_as :: [Tyrlaching.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.personal|Tyrlaching.personal]] 
 
-### #is_/same_as :: [Tyrlaching.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Kirchweidach/boroughs~Kirchweidach/Tyrlaching.secret|Tyrlaching.secret]] 
 

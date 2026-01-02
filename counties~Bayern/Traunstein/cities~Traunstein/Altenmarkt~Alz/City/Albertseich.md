@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Albertseich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich|Albertseich]] 
 
-### #is_/same_as :: [Albertseich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.public|Albertseich.public]] 
 
-### #is_/same_as :: [Albertseich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.internal|Albertseich.internal]] 
 
-### #is_/same_as :: [Albertseich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.protect|Albertseich.protect]] 
 
-### #is_/same_as :: [Albertseich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.private|Albertseich.private]] 
 
-### #is_/same_as :: [Albertseich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.personal|Albertseich.personal]] 
 
-### #is_/same_as :: [Albertseich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Altenmarkt~Alz/City/Albertseich.secret|Albertseich.secret]] 
 

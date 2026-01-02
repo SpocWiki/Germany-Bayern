@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neubaeu](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu|Neubaeu]] 
 
-### #is_/same_as :: [Neubaeu.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.public|Neubaeu.public]] 
 
-### #is_/same_as :: [Neubaeu.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.internal|Neubaeu.internal]] 
 
-### #is_/same_as :: [Neubaeu.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.protect|Neubaeu.protect]] 
 
-### #is_/same_as :: [Neubaeu.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.private|Neubaeu.private]] 
 
-### #is_/same_as :: [Neubaeu.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.personal|Neubaeu.personal]] 
 
-### #is_/same_as :: [Neubaeu.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Roding/City/Neubaeu.secret|Neubaeu.secret]] 
 

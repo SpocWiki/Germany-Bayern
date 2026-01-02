@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solnhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen|Solnhofen]] 
 
-### #is_/same_as :: [Solnhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.public|Solnhofen.public]] 
 
-### #is_/same_as :: [Solnhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.internal|Solnhofen.internal]] 
 
-### #is_/same_as :: [Solnhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.protect|Solnhofen.protect]] 
 
-### #is_/same_as :: [Solnhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.private|Solnhofen.private]] 
 
-### #is_/same_as :: [Solnhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.personal|Solnhofen.personal]] 
 
-### #is_/same_as :: [Solnhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Mörnsheim/City/Solnhofen.secret|Solnhofen.secret]] 
 

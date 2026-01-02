@@ -46,17 +46,17 @@ Der Siebersturm aus der Zeit um 1385 und das Kobolzeller Tor um 1360 zusammen mi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw|Rothenburg~Tauber~Verw]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.public|Rothenburg~Tauber~Verw.public]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.internal|Rothenburg~Tauber~Verw.internal]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.protect|Rothenburg~Tauber~Verw.protect]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.private|Rothenburg~Tauber~Verw.private]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.personal|Rothenburg~Tauber~Verw.personal]] 
 
-### #is_/same_as :: [Rothenburg~Tauber~Verw.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Rothenburg~Tauber~Verw.secret|Rothenburg~Tauber~Verw.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guenzach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach|Guenzach]] 
 
-### #is_/same_as :: [Guenzach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.public|Guenzach.public]] 
 
-### #is_/same_as :: [Guenzach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.internal|Guenzach.internal]] 
 
-### #is_/same_as :: [Guenzach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.protect|Guenzach.protect]] 
 
-### #is_/same_as :: [Guenzach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.private|Guenzach.private]] 
 
-### #is_/same_as :: [Guenzach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.personal|Guenzach.personal]] 
 
-### #is_/same_as :: [Guenzach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Obergünzburg/City/Guenzach.secret|Guenzach.secret]] 
 

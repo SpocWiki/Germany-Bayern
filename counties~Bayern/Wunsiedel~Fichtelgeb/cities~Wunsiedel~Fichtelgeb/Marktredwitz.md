@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marktredwitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz|Marktredwitz]] 
 
-### #is_/same_as :: [Marktredwitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.public|Marktredwitz.public]] 
 
-### #is_/same_as :: [Marktredwitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.internal|Marktredwitz.internal]] 
 
-### #is_/same_as :: [Marktredwitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.protect|Marktredwitz.protect]] 
 
-### #is_/same_as :: [Marktredwitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.private|Marktredwitz.private]] 
 
-### #is_/same_as :: [Marktredwitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.personal|Marktredwitz.personal]] 
 
-### #is_/same_as :: [Marktredwitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Marktredwitz.secret|Marktredwitz.secret]] 
 

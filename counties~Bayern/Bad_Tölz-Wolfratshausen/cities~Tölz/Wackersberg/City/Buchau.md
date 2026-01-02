@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buchau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau|Buchau]] 
 
-### #is_/same_as :: [Buchau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.public|Buchau.public]] 
 
-### #is_/same_as :: [Buchau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.internal|Buchau.internal]] 
 
-### #is_/same_as :: [Buchau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.protect|Buchau.protect]] 
 
-### #is_/same_as :: [Buchau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.private|Buchau.private]] 
 
-### #is_/same_as :: [Buchau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.personal|Buchau.personal]] 
 
-### #is_/same_as :: [Buchau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Wackersberg/City/Buchau.secret|Buchau.secret]] 
 

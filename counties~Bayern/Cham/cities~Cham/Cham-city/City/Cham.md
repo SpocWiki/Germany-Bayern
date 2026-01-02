@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cham](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham|Cham]] 
 
-### #is_/same_as :: [Cham.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.public|Cham.public]] 
 
-### #is_/same_as :: [Cham.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.internal|Cham.internal]] 
 
-### #is_/same_as :: [Cham.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.protect|Cham.protect]] 
 
-### #is_/same_as :: [Cham.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.private|Cham.private]] 
 
-### #is_/same_as :: [Cham.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.personal|Cham.personal]] 
 
-### #is_/same_as :: [Cham.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Cham-city/City/Cham.secret|Cham.secret]] 
 

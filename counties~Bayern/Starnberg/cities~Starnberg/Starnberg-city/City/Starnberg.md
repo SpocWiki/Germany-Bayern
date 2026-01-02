@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starnberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg|Starnberg]] 
 
-### #is_/same_as :: [Starnberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.public|Starnberg.public]] 
 
-### #is_/same_as :: [Starnberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.internal|Starnberg.internal]] 
 
-### #is_/same_as :: [Starnberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.protect|Starnberg.protect]] 
 
-### #is_/same_as :: [Starnberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.private|Starnberg.private]] 
 
-### #is_/same_as :: [Starnberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.personal|Starnberg.personal]] 
 
-### #is_/same_as :: [Starnberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Starnberg-city/City/Starnberg.secret|Starnberg.secret]] 
 

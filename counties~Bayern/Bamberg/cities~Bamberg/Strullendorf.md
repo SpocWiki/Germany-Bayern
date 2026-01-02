@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strullendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf|Strullendorf]] 
 
-### #is_/same_as :: [Strullendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.public|Strullendorf.public]] 
 
-### #is_/same_as :: [Strullendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.internal|Strullendorf.internal]] 
 
-### #is_/same_as :: [Strullendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.protect|Strullendorf.protect]] 
 
-### #is_/same_as :: [Strullendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.private|Strullendorf.private]] 
 
-### #is_/same_as :: [Strullendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.personal|Strullendorf.personal]] 
 
-### #is_/same_as :: [Strullendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg/cities~Bamberg/Strullendorf.secret|Strullendorf.secret]] 
 

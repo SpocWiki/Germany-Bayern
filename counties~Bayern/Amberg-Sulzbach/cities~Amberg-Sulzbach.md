@@ -28,17 +28,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach|cities~Amberg-Sulzbach]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.public|cities~Amberg-Sulzbach.public]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.internal|cities~Amberg-Sulzbach.internal]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.protect|cities~Amberg-Sulzbach.protect]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.private|cities~Amberg-Sulzbach.private]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.personal|cities~Amberg-Sulzbach.personal]] 
 
-### #is_/same_as :: [cities~Amberg-Sulzbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach.secret|cities~Amberg-Sulzbach.secret]] 
 

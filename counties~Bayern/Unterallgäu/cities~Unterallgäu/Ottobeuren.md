@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ottobeuren](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren|Ottobeuren]] 
 
-### #is_/same_as :: [Ottobeuren.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.public|Ottobeuren.public]] 
 
-### #is_/same_as :: [Ottobeuren.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.internal|Ottobeuren.internal]] 
 
-### #is_/same_as :: [Ottobeuren.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.protect|Ottobeuren.protect]] 
 
-### #is_/same_as :: [Ottobeuren.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.private|Ottobeuren.private]] 
 
-### #is_/same_as :: [Ottobeuren.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.personal|Ottobeuren.personal]] 
 
-### #is_/same_as :: [Ottobeuren.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Ottobeuren.secret|Ottobeuren.secret]] 
 

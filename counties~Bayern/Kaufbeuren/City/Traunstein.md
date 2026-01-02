@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traunstein](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein|Traunstein]] 
 
-### #is_/same_as :: [Traunstein.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.public|Traunstein.public]] 
 
-### #is_/same_as :: [Traunstein.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.internal|Traunstein.internal]] 
 
-### #is_/same_as :: [Traunstein.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.protect|Traunstein.protect]] 
 
-### #is_/same_as :: [Traunstein.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.private|Traunstein.private]] 
 
-### #is_/same_as :: [Traunstein.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.personal|Traunstein.personal]] 
 
-### #is_/same_as :: [Traunstein.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kaufbeuren/City/Traunstein.secret|Traunstein.secret]] 
 

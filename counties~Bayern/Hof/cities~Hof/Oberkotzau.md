@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberkotzau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau|Oberkotzau]] 
 
-### #is_/same_as :: [Oberkotzau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.public|Oberkotzau.public]] 
 
-### #is_/same_as :: [Oberkotzau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.internal|Oberkotzau.internal]] 
 
-### #is_/same_as :: [Oberkotzau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.protect|Oberkotzau.protect]] 
 
-### #is_/same_as :: [Oberkotzau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.private|Oberkotzau.private]] 
 
-### #is_/same_as :: [Oberkotzau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.personal|Oberkotzau.personal]] 
 
-### #is_/same_as :: [Oberkotzau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Oberkotzau.secret|Oberkotzau.secret]] 
 

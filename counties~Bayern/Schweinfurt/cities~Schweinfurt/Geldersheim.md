@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geldersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim|Geldersheim]] 
 
-### #is_/same_as :: [Geldersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.public|Geldersheim.public]] 
 
-### #is_/same_as :: [Geldersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.internal|Geldersheim.internal]] 
 
-### #is_/same_as :: [Geldersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.protect|Geldersheim.protect]] 
 
-### #is_/same_as :: [Geldersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.private|Geldersheim.private]] 
 
-### #is_/same_as :: [Geldersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.personal|Geldersheim.personal]] 
 
-### #is_/same_as :: [Geldersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schweinfurt/cities~Schweinfurt/Geldersheim.secret|Geldersheim.secret]] 
 

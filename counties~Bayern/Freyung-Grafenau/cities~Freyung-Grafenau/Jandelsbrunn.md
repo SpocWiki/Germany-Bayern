@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jandelsbrunn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn|Jandelsbrunn]] 
 
-### #is_/same_as :: [Jandelsbrunn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.public|Jandelsbrunn.public]] 
 
-### #is_/same_as :: [Jandelsbrunn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.internal|Jandelsbrunn.internal]] 
 
-### #is_/same_as :: [Jandelsbrunn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.protect|Jandelsbrunn.protect]] 
 
-### #is_/same_as :: [Jandelsbrunn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.private|Jandelsbrunn.private]] 
 
-### #is_/same_as :: [Jandelsbrunn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.personal|Jandelsbrunn.personal]] 
 
-### #is_/same_as :: [Jandelsbrunn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Jandelsbrunn.secret|Jandelsbrunn.secret]] 
 

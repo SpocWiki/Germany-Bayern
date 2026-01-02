@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neuburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg|Neuburg]] 
 
-### #is_/same_as :: [Neuburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.public|Neuburg.public]] 
 
-### #is_/same_as :: [Neuburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.internal|Neuburg.internal]] 
 
-### #is_/same_as :: [Neuburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.protect|Neuburg.protect]] 
 
-### #is_/same_as :: [Neuburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.private|Neuburg.private]] 
 
-### #is_/same_as :: [Neuburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.personal|Neuburg.personal]] 
 
-### #is_/same_as :: [Neuburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Neuburg~Donau/City/Neuburg.secret|Neuburg.secret]] 
 

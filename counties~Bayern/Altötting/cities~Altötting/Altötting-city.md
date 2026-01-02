@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Altötting-city](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city|Altötting-city]] 
 
-### #is_/same_as :: [Altötting-city.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.public|Altötting-city.public]] 
 
-### #is_/same_as :: [Altötting-city.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.internal|Altötting-city.internal]] 
 
-### #is_/same_as :: [Altötting-city.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.protect|Altötting-city.protect]] 
 
-### #is_/same_as :: [Altötting-city.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.private|Altötting-city.private]] 
 
-### #is_/same_as :: [Altötting-city.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.personal|Altötting-city.personal]] 
 
-### #is_/same_as :: [Altötting-city.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Altötting-city.secret|Altötting-city.secret]] 
 

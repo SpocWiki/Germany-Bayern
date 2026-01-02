@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bissingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen|Bissingen]] 
 
-### #is_/same_as :: [Bissingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.public|Bissingen.public]] 
 
-### #is_/same_as :: [Bissingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.internal|Bissingen.internal]] 
 
-### #is_/same_as :: [Bissingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.protect|Bissingen.protect]] 
 
-### #is_/same_as :: [Bissingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.private|Bissingen.private]] 
 
-### #is_/same_as :: [Bissingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.personal|Bissingen.personal]] 
 
-### #is_/same_as :: [Bissingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Bissingen.secret|Bissingen.secret]] 
 

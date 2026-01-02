@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penzberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg|Penzberg]] 
 
-### #is_/same_as :: [Penzberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.public|Penzberg.public]] 
 
-### #is_/same_as :: [Penzberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.internal|Penzberg.internal]] 
 
-### #is_/same_as :: [Penzberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.protect|Penzberg.protect]] 
 
-### #is_/same_as :: [Penzberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.private|Penzberg.private]] 
 
-### #is_/same_as :: [Penzberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.personal|Penzberg.personal]] 
 
-### #is_/same_as :: [Penzberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Penzberg.secret|Penzberg.secret]] 
 

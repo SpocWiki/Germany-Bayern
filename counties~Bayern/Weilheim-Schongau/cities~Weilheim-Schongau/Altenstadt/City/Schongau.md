@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schongau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau|Schongau]] 
 
-### #is_/same_as :: [Schongau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.public|Schongau.public]] 
 
-### #is_/same_as :: [Schongau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.internal|Schongau.internal]] 
 
-### #is_/same_as :: [Schongau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.protect|Schongau.protect]] 
 
-### #is_/same_as :: [Schongau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.private|Schongau.private]] 
 
-### #is_/same_as :: [Schongau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.personal|Schongau.personal]] 
 
-### #is_/same_as :: [Schongau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Altenstadt/City/Schongau.secret|Schongau.secret]] 
 

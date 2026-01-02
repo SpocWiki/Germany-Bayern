@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaustadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt|Gaustadt]] 
 
-### #is_/same_as :: [Gaustadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.public|Gaustadt.public]] 
 
-### #is_/same_as :: [Gaustadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.internal|Gaustadt.internal]] 
 
-### #is_/same_as :: [Gaustadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.protect|Gaustadt.protect]] 
 
-### #is_/same_as :: [Gaustadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.private|Gaustadt.private]] 
 
-### #is_/same_as :: [Gaustadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.personal|Gaustadt.personal]] 
 
-### #is_/same_as :: [Gaustadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bamberg-City/City/Gaustadt.secret|Gaustadt.secret]] 
 

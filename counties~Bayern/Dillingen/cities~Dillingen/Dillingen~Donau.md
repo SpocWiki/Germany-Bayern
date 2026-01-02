@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dillingen~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau|Dillingen~Donau]] 
 
-### #is_/same_as :: [Dillingen~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.public|Dillingen~Donau.public]] 
 
-### #is_/same_as :: [Dillingen~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.internal|Dillingen~Donau.internal]] 
 
-### #is_/same_as :: [Dillingen~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.protect|Dillingen~Donau.protect]] 
 
-### #is_/same_as :: [Dillingen~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.private|Dillingen~Donau.private]] 
 
-### #is_/same_as :: [Dillingen~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.personal|Dillingen~Donau.personal]] 
 
-### #is_/same_as :: [Dillingen~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau.secret|Dillingen~Donau.secret]] 
 

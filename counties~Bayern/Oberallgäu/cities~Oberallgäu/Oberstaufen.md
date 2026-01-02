@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberstaufen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen|Oberstaufen]] 
 
-### #is_/same_as :: [Oberstaufen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.public|Oberstaufen.public]] 
 
-### #is_/same_as :: [Oberstaufen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.internal|Oberstaufen.internal]] 
 
-### #is_/same_as :: [Oberstaufen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.protect|Oberstaufen.protect]] 
 
-### #is_/same_as :: [Oberstaufen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.private|Oberstaufen.private]] 
 
-### #is_/same_as :: [Oberstaufen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.personal|Oberstaufen.personal]] 
 
-### #is_/same_as :: [Oberstaufen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstaufen.secret|Oberstaufen.secret]] 
 

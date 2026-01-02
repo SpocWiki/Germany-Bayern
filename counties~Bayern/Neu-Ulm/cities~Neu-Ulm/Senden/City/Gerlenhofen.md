@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gerlenhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen|Gerlenhofen]] 
 
-### #is_/same_as :: [Gerlenhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.public|Gerlenhofen.public]] 
 
-### #is_/same_as :: [Gerlenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.internal|Gerlenhofen.internal]] 
 
-### #is_/same_as :: [Gerlenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.protect|Gerlenhofen.protect]] 
 
-### #is_/same_as :: [Gerlenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.private|Gerlenhofen.private]] 
 
-### #is_/same_as :: [Gerlenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.personal|Gerlenhofen.personal]] 
 
-### #is_/same_as :: [Gerlenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Senden/City/Gerlenhofen.secret|Gerlenhofen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deggendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf|Deggendorf]] 
 
-### #is_/same_as :: [Deggendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.public|Deggendorf.public]] 
 
-### #is_/same_as :: [Deggendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.internal|Deggendorf.internal]] 
 
-### #is_/same_as :: [Deggendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.protect|Deggendorf.protect]] 
 
-### #is_/same_as :: [Deggendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.private|Deggendorf.private]] 
 
-### #is_/same_as :: [Deggendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.personal|Deggendorf.personal]] 
 
-### #is_/same_as :: [Deggendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Deggendorf/cities~Deggendorf/Deggendorf-city/City/Deggendorf.secret|Deggendorf.secret]] 
 

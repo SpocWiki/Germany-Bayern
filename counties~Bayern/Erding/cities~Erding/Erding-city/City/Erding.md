@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erding](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding|Erding]] 
 
-### #is_/same_as :: [Erding.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.public|Erding.public]] 
 
-### #is_/same_as :: [Erding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.internal|Erding.internal]] 
 
-### #is_/same_as :: [Erding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.protect|Erding.protect]] 
 
-### #is_/same_as :: [Erding.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.private|Erding.private]] 
 
-### #is_/same_as :: [Erding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.personal|Erding.personal]] 
 
-### #is_/same_as :: [Erding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erding/cities~Erding/Erding-city/City/Erding.secret|Erding.secret]] 
 

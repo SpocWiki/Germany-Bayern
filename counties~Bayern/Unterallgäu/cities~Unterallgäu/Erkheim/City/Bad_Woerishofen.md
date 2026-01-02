@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Woerishofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen|Bad_Woerishofen]] 
 
-### #is_/same_as :: [Bad_Woerishofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.public|Bad_Woerishofen.public]] 
 
-### #is_/same_as :: [Bad_Woerishofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.internal|Bad_Woerishofen.internal]] 
 
-### #is_/same_as :: [Bad_Woerishofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.protect|Bad_Woerishofen.protect]] 
 
-### #is_/same_as :: [Bad_Woerishofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.private|Bad_Woerishofen.private]] 
 
-### #is_/same_as :: [Bad_Woerishofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.personal|Bad_Woerishofen.personal]] 
 
-### #is_/same_as :: [Bad_Woerishofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim/City/Bad_Woerishofen.secret|Bad_Woerishofen.secret]] 
 

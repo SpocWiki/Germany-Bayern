@@ -41,17 +41,17 @@ markerFolder: ./Pappenheim///
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pappenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim|Pappenheim]] 
 
-### #is_/same_as :: [Pappenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.public|Pappenheim.public]] 
 
-### #is_/same_as :: [Pappenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.internal|Pappenheim.internal]] 
 
-### #is_/same_as :: [Pappenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.protect|Pappenheim.protect]] 
 
-### #is_/same_as :: [Pappenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.private|Pappenheim.private]] 
 
-### #is_/same_as :: [Pappenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.personal|Pappenheim.personal]] 
 
-### #is_/same_as :: [Pappenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Pappenheim.secret|Pappenheim.secret]] 
 

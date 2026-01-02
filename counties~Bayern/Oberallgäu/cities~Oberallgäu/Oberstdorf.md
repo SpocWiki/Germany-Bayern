@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberstdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf|Oberstdorf]] 
 
-### #is_/same_as :: [Oberstdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.public|Oberstdorf.public]] 
 
-### #is_/same_as :: [Oberstdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.internal|Oberstdorf.internal]] 
 
-### #is_/same_as :: [Oberstdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.protect|Oberstdorf.protect]] 
 
-### #is_/same_as :: [Oberstdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.private|Oberstdorf.private]] 
 
-### #is_/same_as :: [Oberstdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.personal|Oberstdorf.personal]] 
 
-### #is_/same_as :: [Oberstdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oberstdorf.secret|Oberstdorf.secret]] 
 

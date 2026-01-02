@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietenheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim|Dietenheim]] 
 
-### #is_/same_as :: [Dietenheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.public|Dietenheim.public]] 
 
-### #is_/same_as :: [Dietenheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.internal|Dietenheim.internal]] 
 
-### #is_/same_as :: [Dietenheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.protect|Dietenheim.protect]] 
 
-### #is_/same_as :: [Dietenheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.private|Dietenheim.private]] 
 
-### #is_/same_as :: [Dietenheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.personal|Dietenheim.personal]] 
 
-### #is_/same_as :: [Dietenheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen/City/Dietenheim.secret|Dietenheim.secret]] 
 

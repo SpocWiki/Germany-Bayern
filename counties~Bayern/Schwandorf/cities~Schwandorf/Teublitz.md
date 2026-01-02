@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Teublitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz|Teublitz]] 
 
-### #is_/same_as :: [Teublitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.public|Teublitz.public]] 
 
-### #is_/same_as :: [Teublitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.internal|Teublitz.internal]] 
 
-### #is_/same_as :: [Teublitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.protect|Teublitz.protect]] 
 
-### #is_/same_as :: [Teublitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.private|Teublitz.private]] 
 
-### #is_/same_as :: [Teublitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.personal|Teublitz.personal]] 
 
-### #is_/same_as :: [Teublitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Schwandorf/cities~Schwandorf/Teublitz.secret|Teublitz.secret]] 
 

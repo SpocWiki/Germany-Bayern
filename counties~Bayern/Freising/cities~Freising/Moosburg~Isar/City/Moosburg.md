@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moosburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg|Moosburg]] 
 
-### #is_/same_as :: [Moosburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.public|Moosburg.public]] 
 
-### #is_/same_as :: [Moosburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.internal|Moosburg.internal]] 
 
-### #is_/same_as :: [Moosburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.protect|Moosburg.protect]] 
 
-### #is_/same_as :: [Moosburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.private|Moosburg.private]] 
 
-### #is_/same_as :: [Moosburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.personal|Moosburg.personal]] 
 
-### #is_/same_as :: [Moosburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Moosburg~Isar/City/Moosburg.secret|Moosburg.secret]] 
 

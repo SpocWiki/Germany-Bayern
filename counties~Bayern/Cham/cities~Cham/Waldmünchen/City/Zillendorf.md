@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zillendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf|Zillendorf]] 
 
-### #is_/same_as :: [Zillendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.public|Zillendorf.public]] 
 
-### #is_/same_as :: [Zillendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.internal|Zillendorf.internal]] 
 
-### #is_/same_as :: [Zillendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.protect|Zillendorf.protect]] 
 
-### #is_/same_as :: [Zillendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.private|Zillendorf.private]] 
 
-### #is_/same_as :: [Zillendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.personal|Zillendorf.personal]] 
 
-### #is_/same_as :: [Zillendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Cham/cities~Cham/Waldmünchen/City/Zillendorf.secret|Zillendorf.secret]] 
 

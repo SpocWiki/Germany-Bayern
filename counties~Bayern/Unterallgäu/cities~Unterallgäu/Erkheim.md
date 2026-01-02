@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erkheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim|Erkheim]] 
 
-### #is_/same_as :: [Erkheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.public|Erkheim.public]] 
 
-### #is_/same_as :: [Erkheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.internal|Erkheim.internal]] 
 
-### #is_/same_as :: [Erkheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.protect|Erkheim.protect]] 
 
-### #is_/same_as :: [Erkheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.private|Erkheim.private]] 
 
-### #is_/same_as :: [Erkheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.personal|Erkheim.personal]] 
 
-### #is_/same_as :: [Erkheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Unterallgäu/cities~Unterallgäu/Erkheim.secret|Erkheim.secret]] 
 

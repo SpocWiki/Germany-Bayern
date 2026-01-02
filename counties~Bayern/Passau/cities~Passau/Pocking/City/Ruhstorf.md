@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruhstorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf|Ruhstorf]] 
 
-### #is_/same_as :: [Ruhstorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.public|Ruhstorf.public]] 
 
-### #is_/same_as :: [Ruhstorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.internal|Ruhstorf.internal]] 
 
-### #is_/same_as :: [Ruhstorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.protect|Ruhstorf.protect]] 
 
-### #is_/same_as :: [Ruhstorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.private|Ruhstorf.private]] 
 
-### #is_/same_as :: [Ruhstorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.personal|Ruhstorf.personal]] 
 
-### #is_/same_as :: [Ruhstorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Pocking/City/Ruhstorf.secret|Ruhstorf.secret]] 
 

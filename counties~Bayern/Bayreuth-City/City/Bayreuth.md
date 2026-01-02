@@ -42,17 +42,17 @@ Markgräfliches Opernhaus Bayreuth (2012)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bayreuth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth|Bayreuth]] 
 
-### #is_/same_as :: [Bayreuth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.public|Bayreuth.public]] 
 
-### #is_/same_as :: [Bayreuth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.internal|Bayreuth.internal]] 
 
-### #is_/same_as :: [Bayreuth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.protect|Bayreuth.protect]] 
 
-### #is_/same_as :: [Bayreuth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.private|Bayreuth.private]] 
 
-### #is_/same_as :: [Bayreuth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.personal|Bayreuth.personal]] 
 
-### #is_/same_as :: [Bayreuth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth.secret|Bayreuth.secret]] 
 

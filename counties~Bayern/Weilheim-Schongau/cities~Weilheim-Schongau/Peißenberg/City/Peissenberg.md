@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peissenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg|Peissenberg]] 
 
-### #is_/same_as :: [Peissenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.public|Peissenberg.public]] 
 
-### #is_/same_as :: [Peissenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.internal|Peissenberg.internal]] 
 
-### #is_/same_as :: [Peissenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.protect|Peissenberg.protect]] 
 
-### #is_/same_as :: [Peissenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.private|Peissenberg.private]] 
 
-### #is_/same_as :: [Peissenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.personal|Peissenberg.personal]] 
 
-### #is_/same_as :: [Peissenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Peißenberg/City/Peissenberg.secret|Peissenberg.secret]] 
 

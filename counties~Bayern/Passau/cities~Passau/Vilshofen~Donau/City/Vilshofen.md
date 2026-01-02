@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vilshofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen|Vilshofen]] 
 
-### #is_/same_as :: [Vilshofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.public|Vilshofen.public]] 
 
-### #is_/same_as :: [Vilshofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.internal|Vilshofen.internal]] 
 
-### #is_/same_as :: [Vilshofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.protect|Vilshofen.protect]] 
 
-### #is_/same_as :: [Vilshofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.private|Vilshofen.private]] 
 
-### #is_/same_as :: [Vilshofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.personal|Vilshofen.personal]] 
 
-### #is_/same_as :: [Vilshofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Vilshofen~Donau/City/Vilshofen.secret|Vilshofen.secret]] 
 

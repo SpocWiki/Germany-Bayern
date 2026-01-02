@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Immenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt|Immenstadt]] 
 
-### #is_/same_as :: [Immenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.public|Immenstadt.public]] 
 
-### #is_/same_as :: [Immenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.internal|Immenstadt.internal]] 
 
-### #is_/same_as :: [Immenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.protect|Immenstadt.protect]] 
 
-### #is_/same_as :: [Immenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.private|Immenstadt.private]] 
 
-### #is_/same_as :: [Immenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.personal|Immenstadt.personal]] 
 
-### #is_/same_as :: [Immenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Immenstadti.Allgäu/City/Immenstadt.secret|Immenstadt.secret]] 
 

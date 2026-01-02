@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pirach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach|Pirach]] 
 
-### #is_/same_as :: [Pirach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.public|Pirach.public]] 
 
-### #is_/same_as :: [Pirach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.internal|Pirach.internal]] 
 
-### #is_/same_as :: [Pirach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.protect|Pirach.protect]] 
 
-### #is_/same_as :: [Pirach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.private|Pirach.private]] 
 
-### #is_/same_as :: [Pirach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.personal|Pirach.personal]] 
 
-### #is_/same_as :: [Pirach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Burgkirchen~Alz/Pirach.secret|Pirach.secret]] 
 

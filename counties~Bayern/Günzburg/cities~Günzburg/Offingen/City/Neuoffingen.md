@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neuoffingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen|Neuoffingen]] 
 
-### #is_/same_as :: [Neuoffingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.public|Neuoffingen.public]] 
 
-### #is_/same_as :: [Neuoffingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.internal|Neuoffingen.internal]] 
 
-### #is_/same_as :: [Neuoffingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.protect|Neuoffingen.protect]] 
 
-### #is_/same_as :: [Neuoffingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.private|Neuoffingen.private]] 
 
-### #is_/same_as :: [Neuoffingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.personal|Neuoffingen.personal]] 
 
-### #is_/same_as :: [Neuoffingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen/City/Neuoffingen.secret|Neuoffingen.secret]] 
 

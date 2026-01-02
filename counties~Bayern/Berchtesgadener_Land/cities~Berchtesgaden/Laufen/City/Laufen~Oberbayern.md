@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laufen~Oberbayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern|Laufen~Oberbayern]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.public|Laufen~Oberbayern.public]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.internal|Laufen~Oberbayern.internal]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.protect|Laufen~Oberbayern.protect]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.private|Laufen~Oberbayern.private]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.personal|Laufen~Oberbayern.personal]] 
 
-### #is_/same_as :: [Laufen~Oberbayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Laufen/City/Laufen~Oberbayern.secret|Laufen~Oberbayern.secret]] 
 

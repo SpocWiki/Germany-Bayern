@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eggenfelden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden|Eggenfelden]] 
 
-### #is_/same_as :: [Eggenfelden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.public|Eggenfelden.public]] 
 
-### #is_/same_as :: [Eggenfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.internal|Eggenfelden.internal]] 
 
-### #is_/same_as :: [Eggenfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.protect|Eggenfelden.protect]] 
 
-### #is_/same_as :: [Eggenfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.private|Eggenfelden.private]] 
 
-### #is_/same_as :: [Eggenfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.personal|Eggenfelden.personal]] 
 
-### #is_/same_as :: [Eggenfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Eggenfelden.secret|Eggenfelden.secret]] 
 

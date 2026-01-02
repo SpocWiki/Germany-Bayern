@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Donaustauf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf|Donaustauf]] 
 
-### #is_/same_as :: [Donaustauf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.public|Donaustauf.public]] 
 
-### #is_/same_as :: [Donaustauf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.internal|Donaustauf.internal]] 
 
-### #is_/same_as :: [Donaustauf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.protect|Donaustauf.protect]] 
 
-### #is_/same_as :: [Donaustauf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.private|Donaustauf.private]] 
 
-### #is_/same_as :: [Donaustauf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.personal|Donaustauf.personal]] 
 
-### #is_/same_as :: [Donaustauf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Donaustauf.secret|Donaustauf.secret]] 
 

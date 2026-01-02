@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach|Windsbach]] 
 
-### #is_/same_as :: [Windsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.public|Windsbach.public]] 
 
-### #is_/same_as :: [Windsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.internal|Windsbach.internal]] 
 
-### #is_/same_as :: [Windsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.protect|Windsbach.protect]] 
 
-### #is_/same_as :: [Windsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.private|Windsbach.private]] 
 
-### #is_/same_as :: [Windsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.personal|Windsbach.personal]] 
 
-### #is_/same_as :: [Windsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Windsbach.secret|Windsbach.secret]] 
 

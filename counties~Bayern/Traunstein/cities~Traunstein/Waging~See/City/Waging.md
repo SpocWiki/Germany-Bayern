@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waging](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging|Waging]] 
 
-### #is_/same_as :: [Waging.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.public|Waging.public]] 
 
-### #is_/same_as :: [Waging.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.internal|Waging.internal]] 
 
-### #is_/same_as :: [Waging.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.protect|Waging.protect]] 
 
-### #is_/same_as :: [Waging.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.private|Waging.private]] 
 
-### #is_/same_as :: [Waging.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.personal|Waging.personal]] 
 
-### #is_/same_as :: [Waging.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Waging~See/City/Waging.secret|Waging.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mitterteich](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich|Mitterteich]] 
 
-### #is_/same_as :: [Mitterteich.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.public|Mitterteich.public]] 
 
-### #is_/same_as :: [Mitterteich.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.internal|Mitterteich.internal]] 
 
-### #is_/same_as :: [Mitterteich.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.protect|Mitterteich.protect]] 
 
-### #is_/same_as :: [Mitterteich.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.private|Mitterteich.private]] 
 
-### #is_/same_as :: [Mitterteich.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.personal|Mitterteich.personal]] 
 
-### #is_/same_as :: [Mitterteich.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich.secret|Mitterteich.secret]] 
 

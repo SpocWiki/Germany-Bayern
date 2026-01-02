@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hassfurt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt|Hassfurt]] 
 
-### #is_/same_as :: [Hassfurt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.public|Hassfurt.public]] 
 
-### #is_/same_as :: [Hassfurt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.internal|Hassfurt.internal]] 
 
-### #is_/same_as :: [Hassfurt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.protect|Hassfurt.protect]] 
 
-### #is_/same_as :: [Hassfurt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.private|Hassfurt.private]] 
 
-### #is_/same_as :: [Hassfurt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.personal|Hassfurt.personal]] 
 
-### #is_/same_as :: [Hassfurt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Haßfurt/City/Hassfurt.secret|Hassfurt.secret]] 
 

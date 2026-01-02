@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wunsiedel](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel|Wunsiedel]] 
 
-### #is_/same_as :: [Wunsiedel.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.public|Wunsiedel.public]] 
 
-### #is_/same_as :: [Wunsiedel.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.internal|Wunsiedel.internal]] 
 
-### #is_/same_as :: [Wunsiedel.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.protect|Wunsiedel.protect]] 
 
-### #is_/same_as :: [Wunsiedel.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.private|Wunsiedel.private]] 
 
-### #is_/same_as :: [Wunsiedel.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.personal|Wunsiedel.personal]] 
 
-### #is_/same_as :: [Wunsiedel.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Wunsiedel.secret|Wunsiedel.secret]] 
 

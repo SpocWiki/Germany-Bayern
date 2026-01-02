@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koefering](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering|Koefering]] 
 
-### #is_/same_as :: [Koefering.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.public|Koefering.public]] 
 
-### #is_/same_as :: [Koefering.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.internal|Koefering.internal]] 
 
-### #is_/same_as :: [Koefering.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.protect|Koefering.protect]] 
 
-### #is_/same_as :: [Koefering.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.private|Koefering.private]] 
 
-### #is_/same_as :: [Koefering.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.personal|Koefering.personal]] 
 
-### #is_/same_as :: [Koefering.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg/cities~Regensburg/Alteglofsheim/City/Koefering.secret|Koefering.secret]] 
 

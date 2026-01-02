@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thuengersheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim|Thuengersheim]] 
 
-### #is_/same_as :: [Thuengersheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.public|Thuengersheim.public]] 
 
-### #is_/same_as :: [Thuengersheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.internal|Thuengersheim.internal]] 
 
-### #is_/same_as :: [Thuengersheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.protect|Thuengersheim.protect]] 
 
-### #is_/same_as :: [Thuengersheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.private|Thuengersheim.private]] 
 
-### #is_/same_as :: [Thuengersheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.personal|Thuengersheim.personal]] 
 
-### #is_/same_as :: [Thuengersheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Thüngersheim/City/Thuengersheim.secret|Thuengersheim.secret]] 
 

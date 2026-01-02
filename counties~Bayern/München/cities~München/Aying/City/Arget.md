@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arget](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget|Arget]] 
 
-### #is_/same_as :: [Arget.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.public|Arget.public]] 
 
-### #is_/same_as :: [Arget.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.internal|Arget.internal]] 
 
-### #is_/same_as :: [Arget.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.protect|Arget.protect]] 
 
-### #is_/same_as :: [Arget.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.private|Arget.private]] 
 
-### #is_/same_as :: [Arget.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.personal|Arget.personal]] 
 
-### #is_/same_as :: [Arget.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Aying/City/Arget.secret|Arget.secret]] 
 

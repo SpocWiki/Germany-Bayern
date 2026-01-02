@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abensberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg|Abensberg]] 
 
-### #is_/same_as :: [Abensberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.public|Abensberg.public]] 
 
-### #is_/same_as :: [Abensberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.internal|Abensberg.internal]] 
 
-### #is_/same_as :: [Abensberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.protect|Abensberg.protect]] 
 
-### #is_/same_as :: [Abensberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.private|Abensberg.private]] 
 
-### #is_/same_as :: [Abensberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.personal|Abensberg.personal]] 
 
-### #is_/same_as :: [Abensberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Siegenburg/City/Abensberg.secret|Abensberg.secret]] 
 

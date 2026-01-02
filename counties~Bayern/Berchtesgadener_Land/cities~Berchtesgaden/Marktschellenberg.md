@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marktschellenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg|Marktschellenberg]] 
 
-### #is_/same_as :: [Marktschellenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.public|Marktschellenberg.public]] 
 
-### #is_/same_as :: [Marktschellenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.internal|Marktschellenberg.internal]] 
 
-### #is_/same_as :: [Marktschellenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.protect|Marktschellenberg.protect]] 
 
-### #is_/same_as :: [Marktschellenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.private|Marktschellenberg.private]] 
 
-### #is_/same_as :: [Marktschellenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.personal|Marktschellenberg.personal]] 
 
-### #is_/same_as :: [Marktschellenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Berchtesgadener_Land/cities~Berchtesgaden/Marktschellenberg.secret|Marktschellenberg.secret]] 
 

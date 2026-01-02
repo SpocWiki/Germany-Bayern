@@ -55,17 +55,17 @@ sowie die Alte Kapelle und das spätgotische Rathaus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Regensburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg|Regensburg]] 
 
-### #is_/same_as :: [Regensburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.public|Regensburg.public]] 
 
-### #is_/same_as :: [Regensburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.internal|Regensburg.internal]] 
 
-### #is_/same_as :: [Regensburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.protect|Regensburg.protect]] 
 
-### #is_/same_as :: [Regensburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.private|Regensburg.private]] 
 
-### #is_/same_as :: [Regensburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.personal|Regensburg.personal]] 
 
-### #is_/same_as :: [Regensburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regensburg-City/City/Regensburg.secret|Regensburg.secret]] 
 

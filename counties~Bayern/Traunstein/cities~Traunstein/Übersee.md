@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Übersee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee|Übersee]] 
 
-### #is_/same_as :: [Übersee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.public|Übersee.public]] 
 
-### #is_/same_as :: [Übersee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.internal|Übersee.internal]] 
 
-### #is_/same_as :: [Übersee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.protect|Übersee.protect]] 
 
-### #is_/same_as :: [Übersee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.private|Übersee.private]] 
 
-### #is_/same_as :: [Übersee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.personal|Übersee.personal]] 
 
-### #is_/same_as :: [Übersee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Übersee.secret|Übersee.secret]] 
 

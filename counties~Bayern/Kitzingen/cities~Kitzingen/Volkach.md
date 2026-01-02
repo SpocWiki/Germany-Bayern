@@ -43,17 +43,17 @@ das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volkach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach|Volkach]] 
 
-### #is_/same_as :: [Volkach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.public|Volkach.public]] 
 
-### #is_/same_as :: [Volkach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.internal|Volkach.internal]] 
 
-### #is_/same_as :: [Volkach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.protect|Volkach.protect]] 
 
-### #is_/same_as :: [Volkach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.private|Volkach.private]] 
 
-### #is_/same_as :: [Volkach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.personal|Volkach.personal]] 
 
-### #is_/same_as :: [Volkach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Volkach.secret|Volkach.secret]] 
 

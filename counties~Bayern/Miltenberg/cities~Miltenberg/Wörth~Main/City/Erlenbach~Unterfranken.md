@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Erlenbach~Unterfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken|Erlenbach~Unterfranken]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.public|Erlenbach~Unterfranken.public]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.internal|Erlenbach~Unterfranken.internal]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.protect|Erlenbach~Unterfranken.protect]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.private|Erlenbach~Unterfranken.private]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.personal|Erlenbach~Unterfranken.personal]] 
 
-### #is_/same_as :: [Erlenbach~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Wörth~Main/City/Erlenbach~Unterfranken.secret|Erlenbach~Unterfranken.secret]] 
 

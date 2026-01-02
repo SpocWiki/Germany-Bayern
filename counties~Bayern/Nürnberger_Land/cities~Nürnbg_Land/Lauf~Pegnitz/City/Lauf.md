@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lauf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf|Lauf]] 
 
-### #is_/same_as :: [Lauf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.public|Lauf.public]] 
 
-### #is_/same_as :: [Lauf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.internal|Lauf.internal]] 
 
-### #is_/same_as :: [Lauf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.protect|Lauf.protect]] 
 
-### #is_/same_as :: [Lauf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.private|Lauf.private]] 
 
-### #is_/same_as :: [Lauf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.personal|Lauf.personal]] 
 
-### #is_/same_as :: [Lauf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Lauf~Pegnitz/City/Lauf.secret|Lauf.secret]] 
 

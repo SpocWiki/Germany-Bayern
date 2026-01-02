@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amerting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting|Amerting]] 
 
-### #is_/same_as :: [Amerting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.public|Amerting.public]] 
 
-### #is_/same_as :: [Amerting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.internal|Amerting.internal]] 
 
-### #is_/same_as :: [Amerting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.protect|Amerting.protect]] 
 
-### #is_/same_as :: [Amerting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.private|Amerting.private]] 
 
-### #is_/same_as :: [Amerting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.personal|Amerting.personal]] 
 
-### #is_/same_as :: [Amerting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Dillingen~Donau/City/Amerting.secret|Amerting.secret]] 
 

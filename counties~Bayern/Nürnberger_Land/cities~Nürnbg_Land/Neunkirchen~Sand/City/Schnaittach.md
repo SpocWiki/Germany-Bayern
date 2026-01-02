@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schnaittach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach|Schnaittach]] 
 
-### #is_/same_as :: [Schnaittach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.public|Schnaittach.public]] 
 
-### #is_/same_as :: [Schnaittach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.internal|Schnaittach.internal]] 
 
-### #is_/same_as :: [Schnaittach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.protect|Schnaittach.protect]] 
 
-### #is_/same_as :: [Schnaittach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.private|Schnaittach.private]] 
 
-### #is_/same_as :: [Schnaittach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.personal|Schnaittach.personal]] 
 
-### #is_/same_as :: [Schnaittach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Neunkirchen~Sand/City/Schnaittach.secret|Schnaittach.secret]] 
 

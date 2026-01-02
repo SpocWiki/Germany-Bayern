@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Langenprozelten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten|Langenprozelten]] 
 
-### #is_/same_as :: [Langenprozelten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.public|Langenprozelten.public]] 
 
-### #is_/same_as :: [Langenprozelten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.internal|Langenprozelten.internal]] 
 
-### #is_/same_as :: [Langenprozelten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.protect|Langenprozelten.protect]] 
 
-### #is_/same_as :: [Langenprozelten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.private|Langenprozelten.private]] 
 
-### #is_/same_as :: [Langenprozelten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.personal|Langenprozelten.personal]] 
 
-### #is_/same_as :: [Langenprozelten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Langenprozelten.secret|Langenprozelten.secret]] 
 

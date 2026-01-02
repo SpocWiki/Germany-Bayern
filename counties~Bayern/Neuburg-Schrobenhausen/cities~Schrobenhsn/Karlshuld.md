@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karlshuld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld|Karlshuld]] 
 
-### #is_/same_as :: [Karlshuld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.public|Karlshuld.public]] 
 
-### #is_/same_as :: [Karlshuld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.internal|Karlshuld.internal]] 
 
-### #is_/same_as :: [Karlshuld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.protect|Karlshuld.protect]] 
 
-### #is_/same_as :: [Karlshuld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.private|Karlshuld.private]] 
 
-### #is_/same_as :: [Karlshuld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.personal|Karlshuld.personal]] 
 
-### #is_/same_as :: [Karlshuld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Karlshuld.secret|Karlshuld.secret]] 
 

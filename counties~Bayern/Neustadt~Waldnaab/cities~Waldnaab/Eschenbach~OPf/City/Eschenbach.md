@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eschenbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach|Eschenbach]] 
 
-### #is_/same_as :: [Eschenbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.public|Eschenbach.public]] 
 
-### #is_/same_as :: [Eschenbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.internal|Eschenbach.internal]] 
 
-### #is_/same_as :: [Eschenbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.protect|Eschenbach.protect]] 
 
-### #is_/same_as :: [Eschenbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.private|Eschenbach.private]] 
 
-### #is_/same_as :: [Eschenbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.personal|Eschenbach.personal]] 
 
-### #is_/same_as :: [Eschenbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eschenbach~OPf/City/Eschenbach.secret|Eschenbach.secret]] 
 

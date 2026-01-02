@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hohenpeissenberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg|Hohenpeissenberg]] 
 
-### #is_/same_as :: [Hohenpeissenberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.public|Hohenpeissenberg.public]] 
 
-### #is_/same_as :: [Hohenpeissenberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.internal|Hohenpeissenberg.internal]] 
 
-### #is_/same_as :: [Hohenpeissenberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.protect|Hohenpeissenberg.protect]] 
 
-### #is_/same_as :: [Hohenpeissenberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.private|Hohenpeissenberg.private]] 
 
-### #is_/same_as :: [Hohenpeissenberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.personal|Hohenpeissenberg.personal]] 
 
-### #is_/same_as :: [Hohenpeissenberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weilheim-Schongau/cities~Weilheim-Schongau/Hohenpeißenberg/City/Hohenpeissenberg.secret|Hohenpeissenberg.secret]] 
 

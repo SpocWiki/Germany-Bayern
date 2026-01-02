@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schaerding](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding|Schaerding]] 
 
-### #is_/same_as :: [Schaerding.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.public|Schaerding.public]] 
 
-### #is_/same_as :: [Schaerding.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.internal|Schaerding.internal]] 
 
-### #is_/same_as :: [Schaerding.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.protect|Schaerding.protect]] 
 
-### #is_/same_as :: [Schaerding.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.private|Schaerding.private]] 
 
-### #is_/same_as :: [Schaerding.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.personal|Schaerding.personal]] 
 
-### #is_/same_as :: [Schaerding.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Passau/cities~Passau/Neuhaus~Inn/City/Schaerding.secret|Schaerding.secret]] 
 

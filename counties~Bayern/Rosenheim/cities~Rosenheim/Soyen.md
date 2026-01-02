@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soyen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen|Soyen]] 
 
-### #is_/same_as :: [Soyen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.public|Soyen.public]] 
 
-### #is_/same_as :: [Soyen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.internal|Soyen.internal]] 
 
-### #is_/same_as :: [Soyen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.protect|Soyen.protect]] 
 
-### #is_/same_as :: [Soyen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.private|Soyen.private]] 
 
-### #is_/same_as :: [Soyen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.personal|Soyen.personal]] 
 
-### #is_/same_as :: [Soyen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Soyen.secret|Soyen.secret]] 
 

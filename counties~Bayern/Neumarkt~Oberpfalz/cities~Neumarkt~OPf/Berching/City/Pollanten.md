@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pollanten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten|Pollanten]] 
 
-### #is_/same_as :: [Pollanten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.public|Pollanten.public]] 
 
-### #is_/same_as :: [Pollanten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.internal|Pollanten.internal]] 
 
-### #is_/same_as :: [Pollanten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.protect|Pollanten.protect]] 
 
-### #is_/same_as :: [Pollanten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.private|Pollanten.private]] 
 
-### #is_/same_as :: [Pollanten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.personal|Pollanten.personal]] 
 
-### #is_/same_as :: [Pollanten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Berching/City/Pollanten.secret|Pollanten.secret]] 
 

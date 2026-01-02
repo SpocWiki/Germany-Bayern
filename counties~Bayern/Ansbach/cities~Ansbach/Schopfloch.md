@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schopfloch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch|Schopfloch]] 
 
-### #is_/same_as :: [Schopfloch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.public|Schopfloch.public]] 
 
-### #is_/same_as :: [Schopfloch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.internal|Schopfloch.internal]] 
 
-### #is_/same_as :: [Schopfloch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.protect|Schopfloch.protect]] 
 
-### #is_/same_as :: [Schopfloch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.private|Schopfloch.private]] 
 
-### #is_/same_as :: [Schopfloch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.personal|Schopfloch.personal]] 
 
-### #is_/same_as :: [Schopfloch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Schopfloch.secret|Schopfloch.secret]] 
 

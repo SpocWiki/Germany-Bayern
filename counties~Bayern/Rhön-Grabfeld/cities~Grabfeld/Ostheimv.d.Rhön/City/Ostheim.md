@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ostheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim|Ostheim]] 
 
-### #is_/same_as :: [Ostheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.public|Ostheim.public]] 
 
-### #is_/same_as :: [Ostheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.internal|Ostheim.internal]] 
 
-### #is_/same_as :: [Ostheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.protect|Ostheim.protect]] 
 
-### #is_/same_as :: [Ostheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.private|Ostheim.private]] 
 
-### #is_/same_as :: [Ostheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.personal|Ostheim.personal]] 
 
-### #is_/same_as :: [Ostheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Ostheimv.d.Rhön/City/Ostheim.secret|Ostheim.secret]] 
 

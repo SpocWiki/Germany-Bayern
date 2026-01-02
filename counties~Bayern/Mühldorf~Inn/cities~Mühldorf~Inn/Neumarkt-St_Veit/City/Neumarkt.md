@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neumarkt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt|Neumarkt]] 
 
-### #is_/same_as :: [Neumarkt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.public|Neumarkt.public]] 
 
-### #is_/same_as :: [Neumarkt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.internal|Neumarkt.internal]] 
 
-### #is_/same_as :: [Neumarkt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.protect|Neumarkt.protect]] 
 
-### #is_/same_as :: [Neumarkt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.private|Neumarkt.private]] 
 
-### #is_/same_as :: [Neumarkt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.personal|Neumarkt.personal]] 
 
-### #is_/same_as :: [Neumarkt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Neumarkt-St_Veit/City/Neumarkt.secret|Neumarkt.secret]] 
 

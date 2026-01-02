@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weissenstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt|Weissenstadt]] 
 
-### #is_/same_as :: [Weissenstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.public|Weissenstadt.public]] 
 
-### #is_/same_as :: [Weissenstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.internal|Weissenstadt.internal]] 
 
-### #is_/same_as :: [Weissenstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.protect|Weissenstadt.protect]] 
 
-### #is_/same_as :: [Weissenstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.private|Weissenstadt.private]] 
 
-### #is_/same_as :: [Weissenstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.personal|Weissenstadt.personal]] 
 
-### #is_/same_as :: [Weissenstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Wunsiedel~Fichtelgeb/cities~Wunsiedel~Fichtelgeb/Weißenstadt/City/Weissenstadt.secret|Weissenstadt.secret]] 
 

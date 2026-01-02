@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obernburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg|Obernburg]] 
 
-### #is_/same_as :: [Obernburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.public|Obernburg.public]] 
 
-### #is_/same_as :: [Obernburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.internal|Obernburg.internal]] 
 
-### #is_/same_as :: [Obernburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.protect|Obernburg.protect]] 
 
-### #is_/same_as :: [Obernburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.private|Obernburg.private]] 
 
-### #is_/same_as :: [Obernburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.personal|Obernburg.personal]] 
 
-### #is_/same_as :: [Obernburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Obernburg~Main/City/Obernburg.secret|Obernburg.secret]] 
 

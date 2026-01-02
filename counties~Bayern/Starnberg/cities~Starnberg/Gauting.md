@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting|Gauting]] 
 
-### #is_/same_as :: [Gauting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.public|Gauting.public]] 
 
-### #is_/same_as :: [Gauting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.internal|Gauting.internal]] 
 
-### #is_/same_as :: [Gauting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.protect|Gauting.protect]] 
 
-### #is_/same_as :: [Gauting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.private|Gauting.private]] 
 
-### #is_/same_as :: [Gauting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.personal|Gauting.personal]] 
 
-### #is_/same_as :: [Gauting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Gauting.secret|Gauting.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beilngries](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries|Beilngries]] 
 
-### #is_/same_as :: [Beilngries.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.public|Beilngries.public]] 
 
-### #is_/same_as :: [Beilngries.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.internal|Beilngries.internal]] 
 
-### #is_/same_as :: [Beilngries.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.protect|Beilngries.protect]] 
 
-### #is_/same_as :: [Beilngries.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.private|Beilngries.private]] 
 
-### #is_/same_as :: [Beilngries.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.personal|Beilngries.personal]] 
 
-### #is_/same_as :: [Beilngries.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Titting/City/Beilngries.secret|Beilngries.secret]] 
 

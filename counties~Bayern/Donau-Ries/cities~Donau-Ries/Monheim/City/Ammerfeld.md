@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammerfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld|Ammerfeld]] 
 
-### #is_/same_as :: [Ammerfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.public|Ammerfeld.public]] 
 
-### #is_/same_as :: [Ammerfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.internal|Ammerfeld.internal]] 
 
-### #is_/same_as :: [Ammerfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.protect|Ammerfeld.protect]] 
 
-### #is_/same_as :: [Ammerfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.private|Ammerfeld.private]] 
 
-### #is_/same_as :: [Ammerfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.personal|Ammerfeld.personal]] 
 
-### #is_/same_as :: [Ammerfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Monheim/City/Ammerfeld.secret|Ammerfeld.secret]] 
 

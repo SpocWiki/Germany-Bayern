@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tüßling](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling|Tüßling]] 
 
-### #is_/same_as :: [Tüßling.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.public|Tüßling.public]] 
 
-### #is_/same_as :: [Tüßling.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.internal|Tüßling.internal]] 
 
-### #is_/same_as :: [Tüßling.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.protect|Tüßling.protect]] 
 
-### #is_/same_as :: [Tüßling.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.private|Tüßling.private]] 
 
-### #is_/same_as :: [Tüßling.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.personal|Tüßling.personal]] 
 
-### #is_/same_as :: [Tüßling.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Tüßling.secret|Tüßling.secret]] 
 

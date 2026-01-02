@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth|Roth]] 
 
-### #is_/same_as :: [Roth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.public|Roth.public]] 
 
-### #is_/same_as :: [Roth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.internal|Roth.internal]] 
 
-### #is_/same_as :: [Roth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.protect|Roth.protect]] 
 
-### #is_/same_as :: [Roth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.private|Roth.private]] 
 
-### #is_/same_as :: [Roth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.personal|Roth.personal]] 
 
-### #is_/same_as :: [Roth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Roth-city/City/Roth.secret|Roth.secret]] 
 

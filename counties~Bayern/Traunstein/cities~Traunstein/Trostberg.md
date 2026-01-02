@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trostberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg|Trostberg]] 
 
-### #is_/same_as :: [Trostberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.public|Trostberg.public]] 
 
-### #is_/same_as :: [Trostberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.internal|Trostberg.internal]] 
 
-### #is_/same_as :: [Trostberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.protect|Trostberg.protect]] 
 
-### #is_/same_as :: [Trostberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.private|Trostberg.private]] 
 
-### #is_/same_as :: [Trostberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.personal|Trostberg.personal]] 
 
-### #is_/same_as :: [Trostberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Traunstein/cities~Traunstein/Trostberg.secret|Trostberg.secret]] 
 

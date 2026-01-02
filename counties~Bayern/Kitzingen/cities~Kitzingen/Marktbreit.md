@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marktbreit](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit|Marktbreit]] 
 
-### #is_/same_as :: [Marktbreit.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.public|Marktbreit.public]] 
 
-### #is_/same_as :: [Marktbreit.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.internal|Marktbreit.internal]] 
 
-### #is_/same_as :: [Marktbreit.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.protect|Marktbreit.protect]] 
 
-### #is_/same_as :: [Marktbreit.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.private|Marktbreit.private]] 
 
-### #is_/same_as :: [Marktbreit.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.personal|Marktbreit.personal]] 
 
-### #is_/same_as :: [Marktbreit.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kitzingen/cities~Kitzingen/Marktbreit.secret|Marktbreit.secret]] 
 

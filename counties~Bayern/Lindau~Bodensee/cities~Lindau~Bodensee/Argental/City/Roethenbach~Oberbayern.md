@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roethenbach~Oberbayern](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern|Roethenbach~Oberbayern]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.public|Roethenbach~Oberbayern.public]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.internal|Roethenbach~Oberbayern.internal]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.protect|Roethenbach~Oberbayern.protect]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.private|Roethenbach~Oberbayern.private]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.personal|Roethenbach~Oberbayern.personal]] 
 
-### #is_/same_as :: [Roethenbach~Oberbayern.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Roethenbach~Oberbayern.secret|Roethenbach~Oberbayern.secret]] 
 

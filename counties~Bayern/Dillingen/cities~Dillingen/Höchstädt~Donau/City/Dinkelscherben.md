@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dinkelscherben](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben|Dinkelscherben]] 
 
-### #is_/same_as :: [Dinkelscherben.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.public|Dinkelscherben.public]] 
 
-### #is_/same_as :: [Dinkelscherben.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.internal|Dinkelscherben.internal]] 
 
-### #is_/same_as :: [Dinkelscherben.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.protect|Dinkelscherben.protect]] 
 
-### #is_/same_as :: [Dinkelscherben.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.private|Dinkelscherben.private]] 
 
-### #is_/same_as :: [Dinkelscherben.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.personal|Dinkelscherben.personal]] 
 
-### #is_/same_as :: [Dinkelscherben.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Dinkelscherben.secret|Dinkelscherben.secret]] 
 

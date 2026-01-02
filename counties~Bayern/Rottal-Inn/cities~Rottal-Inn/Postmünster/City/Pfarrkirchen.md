@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pfarrkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen|Pfarrkirchen]] 
 
-### #is_/same_as :: [Pfarrkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.public|Pfarrkirchen.public]] 
 
-### #is_/same_as :: [Pfarrkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.internal|Pfarrkirchen.internal]] 
 
-### #is_/same_as :: [Pfarrkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.protect|Pfarrkirchen.protect]] 
 
-### #is_/same_as :: [Pfarrkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.private|Pfarrkirchen.private]] 
 
-### #is_/same_as :: [Pfarrkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.personal|Pfarrkirchen.personal]] 
 
-### #is_/same_as :: [Pfarrkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Postmünster/City/Pfarrkirchen.secret|Pfarrkirchen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tauberfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld|Tauberfeld]] 
 
-### #is_/same_as :: [Tauberfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.public|Tauberfeld.public]] 
 
-### #is_/same_as :: [Tauberfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.internal|Tauberfeld.internal]] 
 
-### #is_/same_as :: [Tauberfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.protect|Tauberfeld.protect]] 
 
-### #is_/same_as :: [Tauberfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.private|Tauberfeld.private]] 
 
-### #is_/same_as :: [Tauberfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.personal|Tauberfeld.personal]] 
 
-### #is_/same_as :: [Tauberfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Eichstätt/cities~Eichstätt/Buxheim/City/Tauberfeld.secret|Tauberfeld.secret]] 
 

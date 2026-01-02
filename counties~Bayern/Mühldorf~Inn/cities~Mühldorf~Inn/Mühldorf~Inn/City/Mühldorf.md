@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mühldorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf|Mühldorf]] 
 
-### #is_/same_as :: [Mühldorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.public|Mühldorf.public]] 
 
-### #is_/same_as :: [Mühldorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.internal|Mühldorf.internal]] 
 
-### #is_/same_as :: [Mühldorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.protect|Mühldorf.protect]] 
 
-### #is_/same_as :: [Mühldorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.private|Mühldorf.private]] 
 
-### #is_/same_as :: [Mühldorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.personal|Mühldorf.personal]] 
 
-### #is_/same_as :: [Mühldorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Mühldorf.secret|Mühldorf.secret]] 
 

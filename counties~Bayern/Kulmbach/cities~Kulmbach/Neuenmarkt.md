@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neuenmarkt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt|Neuenmarkt]] 
 
-### #is_/same_as :: [Neuenmarkt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.public|Neuenmarkt.public]] 
 
-### #is_/same_as :: [Neuenmarkt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.internal|Neuenmarkt.internal]] 
 
-### #is_/same_as :: [Neuenmarkt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.protect|Neuenmarkt.protect]] 
 
-### #is_/same_as :: [Neuenmarkt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.private|Neuenmarkt.private]] 
 
-### #is_/same_as :: [Neuenmarkt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.personal|Neuenmarkt.personal]] 
 
-### #is_/same_as :: [Neuenmarkt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Neuenmarkt.secret|Neuenmarkt.secret]] 
 

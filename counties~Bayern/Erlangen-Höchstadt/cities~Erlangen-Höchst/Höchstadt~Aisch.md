@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Höchstadt~Aisch](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch|Höchstadt~Aisch]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.public|Höchstadt~Aisch.public]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.internal|Höchstadt~Aisch.internal]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.protect|Höchstadt~Aisch.protect]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.private|Höchstadt~Aisch.private]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.personal|Höchstadt~Aisch.personal]] 
 
-### #is_/same_as :: [Höchstadt~Aisch.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Höchstadt~Aisch.secret|Höchstadt~Aisch.secret]] 
 

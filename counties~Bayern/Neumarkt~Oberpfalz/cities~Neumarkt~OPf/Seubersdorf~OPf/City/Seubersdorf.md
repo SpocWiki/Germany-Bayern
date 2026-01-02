@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seubersdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf|Seubersdorf]] 
 
-### #is_/same_as :: [Seubersdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.public|Seubersdorf.public]] 
 
-### #is_/same_as :: [Seubersdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.internal|Seubersdorf.internal]] 
 
-### #is_/same_as :: [Seubersdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.protect|Seubersdorf.protect]] 
 
-### #is_/same_as :: [Seubersdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.private|Seubersdorf.private]] 
 
-### #is_/same_as :: [Seubersdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.personal|Seubersdorf.personal]] 
 
-### #is_/same_as :: [Seubersdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Seubersdorf~OPf/City/Seubersdorf.secret|Seubersdorf.secret]] 
 

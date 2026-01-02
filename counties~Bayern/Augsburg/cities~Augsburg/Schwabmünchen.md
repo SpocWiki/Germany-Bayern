@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwabmünchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen|Schwabmünchen]] 
 
-### #is_/same_as :: [Schwabmünchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.public|Schwabmünchen.public]] 
 
-### #is_/same_as :: [Schwabmünchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.internal|Schwabmünchen.internal]] 
 
-### #is_/same_as :: [Schwabmünchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.protect|Schwabmünchen.protect]] 
 
-### #is_/same_as :: [Schwabmünchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.private|Schwabmünchen.private]] 
 
-### #is_/same_as :: [Schwabmünchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.personal|Schwabmünchen.personal]] 
 
-### #is_/same_as :: [Schwabmünchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Schwabmünchen.secret|Schwabmünchen.secret]] 
 

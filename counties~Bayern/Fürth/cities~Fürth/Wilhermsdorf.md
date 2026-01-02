@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilhermsdorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf|Wilhermsdorf]] 
 
-### #is_/same_as :: [Wilhermsdorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.public|Wilhermsdorf.public]] 
 
-### #is_/same_as :: [Wilhermsdorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.internal|Wilhermsdorf.internal]] 
 
-### #is_/same_as :: [Wilhermsdorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.protect|Wilhermsdorf.protect]] 
 
-### #is_/same_as :: [Wilhermsdorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.private|Wilhermsdorf.private]] 
 
-### #is_/same_as :: [Wilhermsdorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.personal|Wilhermsdorf.personal]] 
 
-### #is_/same_as :: [Wilhermsdorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth/cities~Fürth/Wilhermsdorf.secret|Wilhermsdorf.secret]] 
 

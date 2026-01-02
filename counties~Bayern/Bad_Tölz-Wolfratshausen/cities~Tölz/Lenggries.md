@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lenggries](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries|Lenggries]] 
 
-### #is_/same_as :: [Lenggries.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.public|Lenggries.public]] 
 
-### #is_/same_as :: [Lenggries.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.internal|Lenggries.internal]] 
 
-### #is_/same_as :: [Lenggries.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.protect|Lenggries.protect]] 
 
-### #is_/same_as :: [Lenggries.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.private|Lenggries.private]] 
 
-### #is_/same_as :: [Lenggries.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.personal|Lenggries.personal]] 
 
-### #is_/same_as :: [Lenggries.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Tölz-Wolfratshausen/cities~Tölz/Lenggries.secret|Lenggries.secret]] 
 

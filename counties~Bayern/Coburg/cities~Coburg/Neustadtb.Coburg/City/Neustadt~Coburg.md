@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neustadt~Coburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg|Neustadt~Coburg]] 
 
-### #is_/same_as :: [Neustadt~Coburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.public|Neustadt~Coburg.public]] 
 
-### #is_/same_as :: [Neustadt~Coburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.internal|Neustadt~Coburg.internal]] 
 
-### #is_/same_as :: [Neustadt~Coburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.protect|Neustadt~Coburg.protect]] 
 
-### #is_/same_as :: [Neustadt~Coburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.private|Neustadt~Coburg.private]] 
 
-### #is_/same_as :: [Neustadt~Coburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.personal|Neustadt~Coburg.personal]] 
 
-### #is_/same_as :: [Neustadt~Coburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Coburg/cities~Coburg/Neustadtb.Coburg/City/Neustadt~Coburg.secret|Neustadt~Coburg.secret]] 
 

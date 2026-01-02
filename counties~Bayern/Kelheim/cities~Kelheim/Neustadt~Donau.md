@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neustadt~Donau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau|Neustadt~Donau]] 
 
-### #is_/same_as :: [Neustadt~Donau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.public|Neustadt~Donau.public]] 
 
-### #is_/same_as :: [Neustadt~Donau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.internal|Neustadt~Donau.internal]] 
 
-### #is_/same_as :: [Neustadt~Donau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.protect|Neustadt~Donau.protect]] 
 
-### #is_/same_as :: [Neustadt~Donau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.private|Neustadt~Donau.private]] 
 
-### #is_/same_as :: [Neustadt~Donau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.personal|Neustadt~Donau.personal]] 
 
-### #is_/same_as :: [Neustadt~Donau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Neustadt~Donau.secret|Neustadt~Donau.secret]] 
 

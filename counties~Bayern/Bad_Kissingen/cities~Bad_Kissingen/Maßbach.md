@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maßbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach|Maßbach]] 
 
-### #is_/same_as :: [Maßbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.public|Maßbach.public]] 
 
-### #is_/same_as :: [Maßbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.internal|Maßbach.internal]] 
 
-### #is_/same_as :: [Maßbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.protect|Maßbach.protect]] 
 
-### #is_/same_as :: [Maßbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.private|Maßbach.private]] 
 
-### #is_/same_as :: [Maßbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.personal|Maßbach.personal]] 
 
-### #is_/same_as :: [Maßbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Maßbach.secret|Maßbach.secret]] 
 

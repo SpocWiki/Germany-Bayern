@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waldsassen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen|Waldsassen]] 
 
-### #is_/same_as :: [Waldsassen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.public|Waldsassen.public]] 
 
-### #is_/same_as :: [Waldsassen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.internal|Waldsassen.internal]] 
 
-### #is_/same_as :: [Waldsassen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.protect|Waldsassen.protect]] 
 
-### #is_/same_as :: [Waldsassen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.private|Waldsassen.private]] 
 
-### #is_/same_as :: [Waldsassen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.personal|Waldsassen.personal]] 
 
-### #is_/same_as :: [Waldsassen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Waldsassen.secret|Waldsassen.secret]] 
 

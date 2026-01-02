@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goeggingen,Augsburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg|Goeggingen,Augsburg]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.public|Goeggingen,Augsburg.public]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.internal|Goeggingen,Augsburg.internal]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.protect|Goeggingen,Augsburg.protect]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.private|Goeggingen,Augsburg.private]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.personal|Goeggingen,Augsburg.personal]] 
 
-### #is_/same_as :: [Goeggingen,Augsburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Goeggingen,Augsburg.secret|Goeggingen,Augsburg.secret]] 
 

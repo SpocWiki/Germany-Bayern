@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scheidegg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg|Scheidegg]] 
 
-### #is_/same_as :: [Scheidegg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.public|Scheidegg.public]] 
 
-### #is_/same_as :: [Scheidegg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.internal|Scheidegg.internal]] 
 
-### #is_/same_as :: [Scheidegg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.protect|Scheidegg.protect]] 
 
-### #is_/same_as :: [Scheidegg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.private|Scheidegg.private]] 
 
-### #is_/same_as :: [Scheidegg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.personal|Scheidegg.personal]] 
 
-### #is_/same_as :: [Scheidegg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Scheidegg.secret|Scheidegg.secret]] 
 

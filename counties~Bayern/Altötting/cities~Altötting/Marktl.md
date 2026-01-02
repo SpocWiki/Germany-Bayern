@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marktl](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl|Marktl]] 
 
-### #is_/same_as :: [Marktl.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.public|Marktl.public]] 
 
-### #is_/same_as :: [Marktl.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.internal|Marktl.internal]] 
 
-### #is_/same_as :: [Marktl.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.protect|Marktl.protect]] 
 
-### #is_/same_as :: [Marktl.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.private|Marktl.private]] 
 
-### #is_/same_as :: [Marktl.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.personal|Marktl.personal]] 
 
-### #is_/same_as :: [Marktl.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Altötting/cities~Altötting/Marktl.secret|Marktl.secret]] 
 

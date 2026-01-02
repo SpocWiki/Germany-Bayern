@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alter_Berg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg|Alter_Berg]] 
 
-### #is_/same_as :: [Alter_Berg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.public|Alter_Berg.public]] 
 
-### #is_/same_as :: [Alter_Berg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.internal|Alter_Berg.internal]] 
 
-### #is_/same_as :: [Alter_Berg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.protect|Alter_Berg.protect]] 
 
-### #is_/same_as :: [Alter_Berg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.private|Alter_Berg.private]] 
 
-### #is_/same_as :: [Alter_Berg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.personal|Alter_Berg.personal]] 
 
-### #is_/same_as :: [Alter_Berg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Heustreu/City/Alter_Berg.secret|Alter_Berg.secret]] 
 

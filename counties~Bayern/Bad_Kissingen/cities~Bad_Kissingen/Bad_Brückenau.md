@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bad_Brückenau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau|Bad_Brückenau]] 
 
-### #is_/same_as :: [Bad_Brückenau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.public|Bad_Brückenau.public]] 
 
-### #is_/same_as :: [Bad_Brückenau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.internal|Bad_Brückenau.internal]] 
 
-### #is_/same_as :: [Bad_Brückenau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.protect|Bad_Brückenau.protect]] 
 
-### #is_/same_as :: [Bad_Brückenau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.private|Bad_Brückenau.private]] 
 
-### #is_/same_as :: [Bad_Brückenau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.personal|Bad_Brückenau.personal]] 
 
-### #is_/same_as :: [Bad_Brückenau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Bad_Brückenau.secret|Bad_Brückenau.secret]] 
 

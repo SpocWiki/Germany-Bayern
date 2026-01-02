@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tutzing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing|Tutzing]] 
 
-### #is_/same_as :: [Tutzing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.public|Tutzing.public]] 
 
-### #is_/same_as :: [Tutzing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.internal|Tutzing.internal]] 
 
-### #is_/same_as :: [Tutzing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.protect|Tutzing.protect]] 
 
-### #is_/same_as :: [Tutzing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.private|Tutzing.private]] 
 
-### #is_/same_as :: [Tutzing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.personal|Tutzing.personal]] 
 
-### #is_/same_as :: [Tutzing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Starnberg/cities~Starnberg/Tutzing.secret|Tutzing.secret]] 
 

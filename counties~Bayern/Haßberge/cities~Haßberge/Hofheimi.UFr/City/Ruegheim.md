@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruegheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim|Ruegheim]] 
 
-### #is_/same_as :: [Ruegheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.public|Ruegheim.public]] 
 
-### #is_/same_as :: [Ruegheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.internal|Ruegheim.internal]] 
 
-### #is_/same_as :: [Ruegheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.protect|Ruegheim.protect]] 
 
-### #is_/same_as :: [Ruegheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.private|Ruegheim.private]] 
 
-### #is_/same_as :: [Ruegheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.personal|Ruegheim.personal]] 
 
-### #is_/same_as :: [Ruegheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Ruegheim.secret|Ruegheim.secret]] 
 

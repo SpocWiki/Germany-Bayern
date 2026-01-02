@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triefenried](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried|Triefenried]] 
 
-### #is_/same_as :: [Triefenried.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.public|Triefenried.public]] 
 
-### #is_/same_as :: [Triefenried.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.internal|Triefenried.internal]] 
 
-### #is_/same_as :: [Triefenried.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.protect|Triefenried.protect]] 
 
-### #is_/same_as :: [Triefenried.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.private|Triefenried.private]] 
 
-### #is_/same_as :: [Triefenried.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.personal|Triefenried.personal]] 
 
-### #is_/same_as :: [Triefenried.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Regen-city/City/Triefenried.secret|Triefenried.secret]] 
 

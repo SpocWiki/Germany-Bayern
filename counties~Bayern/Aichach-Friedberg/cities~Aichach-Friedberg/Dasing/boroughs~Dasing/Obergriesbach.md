@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obergriesbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach|Obergriesbach]] 
 
-### #is_/same_as :: [Obergriesbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.public|Obergriesbach.public]] 
 
-### #is_/same_as :: [Obergriesbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.internal|Obergriesbach.internal]] 
 
-### #is_/same_as :: [Obergriesbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.protect|Obergriesbach.protect]] 
 
-### #is_/same_as :: [Obergriesbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.private|Obergriesbach.private]] 
 
-### #is_/same_as :: [Obergriesbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.personal|Obergriesbach.personal]] 
 
-### #is_/same_as :: [Obergriesbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Dasing/boroughs~Dasing/Obergriesbach.secret|Obergriesbach.secret]] 
 

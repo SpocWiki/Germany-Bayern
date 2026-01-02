@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mainburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg|Mainburg]] 
 
-### #is_/same_as :: [Mainburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.public|Mainburg.public]] 
 
-### #is_/same_as :: [Mainburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.internal|Mainburg.internal]] 
 
-### #is_/same_as :: [Mainburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.protect|Mainburg.protect]] 
 
-### #is_/same_as :: [Mainburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.private|Mainburg.private]] 
 
-### #is_/same_as :: [Mainburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.personal|Mainburg.personal]] 
 
-### #is_/same_as :: [Mainburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Mainburg.secret|Mainburg.secret]] 
 

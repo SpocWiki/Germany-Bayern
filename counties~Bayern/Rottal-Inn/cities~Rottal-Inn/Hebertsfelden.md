@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hebertsfelden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden|Hebertsfelden]] 
 
-### #is_/same_as :: [Hebertsfelden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.public|Hebertsfelden.public]] 
 
-### #is_/same_as :: [Hebertsfelden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.internal|Hebertsfelden.internal]] 
 
-### #is_/same_as :: [Hebertsfelden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.protect|Hebertsfelden.protect]] 
 
-### #is_/same_as :: [Hebertsfelden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.private|Hebertsfelden.private]] 
 
-### #is_/same_as :: [Hebertsfelden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.personal|Hebertsfelden.personal]] 
 
-### #is_/same_as :: [Hebertsfelden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rottal-Inn/cities~Rottal-Inn/Hebertsfelden.secret|Hebertsfelden.secret]] 
 

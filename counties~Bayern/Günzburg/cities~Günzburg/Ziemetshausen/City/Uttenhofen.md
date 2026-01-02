@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uttenhofen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen|Uttenhofen]] 
 
-### #is_/same_as :: [Uttenhofen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.public|Uttenhofen.public]] 
 
-### #is_/same_as :: [Uttenhofen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.internal|Uttenhofen.internal]] 
 
-### #is_/same_as :: [Uttenhofen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.protect|Uttenhofen.protect]] 
 
-### #is_/same_as :: [Uttenhofen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.private|Uttenhofen.private]] 
 
-### #is_/same_as :: [Uttenhofen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.personal|Uttenhofen.personal]] 
 
-### #is_/same_as :: [Uttenhofen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Ziemetshausen/City/Uttenhofen.secret|Uttenhofen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oberaudorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf|Oberaudorf]] 
 
-### #is_/same_as :: [Oberaudorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.public|Oberaudorf.public]] 
 
-### #is_/same_as :: [Oberaudorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.internal|Oberaudorf.internal]] 
 
-### #is_/same_as :: [Oberaudorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.protect|Oberaudorf.protect]] 
 
-### #is_/same_as :: [Oberaudorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.private|Oberaudorf.private]] 
 
-### #is_/same_as :: [Oberaudorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.personal|Oberaudorf.personal]] 
 
-### #is_/same_as :: [Oberaudorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rosenheim/cities~Rosenheim/Oberaudorf.secret|Oberaudorf.secret]] 
 

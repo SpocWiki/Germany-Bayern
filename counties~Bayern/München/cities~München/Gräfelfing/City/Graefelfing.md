@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graefelfing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing|Graefelfing]] 
 
-### #is_/same_as :: [Graefelfing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.public|Graefelfing.public]] 
 
-### #is_/same_as :: [Graefelfing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.internal|Graefelfing.internal]] 
 
-### #is_/same_as :: [Graefelfing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.protect|Graefelfing.protect]] 
 
-### #is_/same_as :: [Graefelfing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.private|Graefelfing.private]] 
 
-### #is_/same_as :: [Graefelfing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.personal|Graefelfing.personal]] 
 
-### #is_/same_as :: [Graefelfing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/München/cities~München/Gräfelfing/City/Graefelfing.secret|Graefelfing.secret]] 
 

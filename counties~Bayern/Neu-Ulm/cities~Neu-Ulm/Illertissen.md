@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Illertissen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen|Illertissen]] 
 
-### #is_/same_as :: [Illertissen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.public|Illertissen.public]] 
 
-### #is_/same_as :: [Illertissen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.internal|Illertissen.internal]] 
 
-### #is_/same_as :: [Illertissen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.protect|Illertissen.protect]] 
 
-### #is_/same_as :: [Illertissen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.private|Illertissen.private]] 
 
-### #is_/same_as :: [Illertissen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.personal|Illertissen.personal]] 
 
-### #is_/same_as :: [Illertissen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Illertissen.secret|Illertissen.secret]] 
 

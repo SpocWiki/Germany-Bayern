@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baierfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld|Baierfeld]] 
 
-### #is_/same_as :: [Baierfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.public|Baierfeld.public]] 
 
-### #is_/same_as :: [Baierfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.internal|Baierfeld.internal]] 
 
-### #is_/same_as :: [Baierfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.protect|Baierfeld.protect]] 
 
-### #is_/same_as :: [Baierfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.private|Baierfeld.private]] 
 
-### #is_/same_as :: [Baierfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.personal|Baierfeld.personal]] 
 
-### #is_/same_as :: [Baierfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Donau-Ries/cities~Donau-Ries/Harburg~Schwaben/City/Baierfeld.secret|Baierfeld.secret]] 
 

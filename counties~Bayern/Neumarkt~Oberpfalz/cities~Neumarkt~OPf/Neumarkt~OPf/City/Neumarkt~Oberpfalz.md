@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz|Neumarkt~Oberpfalz]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.public|Neumarkt~Oberpfalz.public]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.internal|Neumarkt~Oberpfalz.internal]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.protect|Neumarkt~Oberpfalz.protect]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.private|Neumarkt~Oberpfalz.private]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.personal|Neumarkt~Oberpfalz.personal]] 
 
-### #is_/same_as :: [Neumarkt~Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Neumarkt~OPf/City/Neumarkt~Oberpfalz.secret|Neumarkt~Oberpfalz.secret]] 
 

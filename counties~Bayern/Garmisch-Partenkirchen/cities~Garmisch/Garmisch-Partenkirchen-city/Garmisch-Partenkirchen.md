@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garmisch-Partenkirchen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen|Garmisch-Partenkirchen]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.public|Garmisch-Partenkirchen.public]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.internal|Garmisch-Partenkirchen.internal]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.protect|Garmisch-Partenkirchen.protect]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.private|Garmisch-Partenkirchen.private]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.personal|Garmisch-Partenkirchen.personal]] 
 
-### #is_/same_as :: [Garmisch-Partenkirchen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Garmisch-Partenkirchen-city/Garmisch-Partenkirchen.secret|Garmisch-Partenkirchen.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ohlstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt|Ohlstadt]] 
 
-### #is_/same_as :: [Ohlstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.public|Ohlstadt.public]] 
 
-### #is_/same_as :: [Ohlstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.internal|Ohlstadt.internal]] 
 
-### #is_/same_as :: [Ohlstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.protect|Ohlstadt.protect]] 
 
-### #is_/same_as :: [Ohlstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.private|Ohlstadt.private]] 
 
-### #is_/same_as :: [Ohlstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.personal|Ohlstadt.personal]] 
 
-### #is_/same_as :: [Ohlstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Ohlstadt.secret|Ohlstadt.secret]] 
 

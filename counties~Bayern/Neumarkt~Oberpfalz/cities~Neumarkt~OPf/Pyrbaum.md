@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyrbaum](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum|Pyrbaum]] 
 
-### #is_/same_as :: [Pyrbaum.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.public|Pyrbaum.public]] 
 
-### #is_/same_as :: [Pyrbaum.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.internal|Pyrbaum.internal]] 
 
-### #is_/same_as :: [Pyrbaum.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.protect|Pyrbaum.protect]] 
 
-### #is_/same_as :: [Pyrbaum.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.private|Pyrbaum.private]] 
 
-### #is_/same_as :: [Pyrbaum.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.personal|Pyrbaum.personal]] 
 
-### #is_/same_as :: [Pyrbaum.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neumarkt~Oberpfalz/cities~Neumarkt~OPf/Pyrbaum.secret|Pyrbaum.secret]] 
 

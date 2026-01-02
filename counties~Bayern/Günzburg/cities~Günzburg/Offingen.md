@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen|Offingen]] 
 
-### #is_/same_as :: [Offingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.public|Offingen.public]] 
 
-### #is_/same_as :: [Offingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.internal|Offingen.internal]] 
 
-### #is_/same_as :: [Offingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.protect|Offingen.protect]] 
 
-### #is_/same_as :: [Offingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.private|Offingen.private]] 
 
-### #is_/same_as :: [Offingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.personal|Offingen.personal]] 
 
-### #is_/same_as :: [Offingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Offingen.secret|Offingen.secret]] 
 

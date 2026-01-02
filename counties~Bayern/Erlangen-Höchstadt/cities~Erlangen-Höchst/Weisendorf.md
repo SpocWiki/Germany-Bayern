@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weisendorf](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf|Weisendorf]] 
 
-### #is_/same_as :: [Weisendorf.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.public|Weisendorf.public]] 
 
-### #is_/same_as :: [Weisendorf.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.internal|Weisendorf.internal]] 
 
-### #is_/same_as :: [Weisendorf.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.protect|Weisendorf.protect]] 
 
-### #is_/same_as :: [Weisendorf.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.private|Weisendorf.private]] 
 
-### #is_/same_as :: [Weisendorf.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.personal|Weisendorf.personal]] 
 
-### #is_/same_as :: [Weisendorf.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Weisendorf.secret|Weisendorf.secret]] 
 

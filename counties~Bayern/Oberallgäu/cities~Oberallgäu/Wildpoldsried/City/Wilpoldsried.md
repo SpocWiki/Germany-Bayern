@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wilpoldsried](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried|Wilpoldsried]] 
 
-### #is_/same_as :: [Wilpoldsried.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.public|Wilpoldsried.public]] 
 
-### #is_/same_as :: [Wilpoldsried.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.internal|Wilpoldsried.internal]] 
 
-### #is_/same_as :: [Wilpoldsried.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.protect|Wilpoldsried.protect]] 
 
-### #is_/same_as :: [Wilpoldsried.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.private|Wilpoldsried.private]] 
 
-### #is_/same_as :: [Wilpoldsried.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.personal|Wilpoldsried.personal]] 
 
-### #is_/same_as :: [Wilpoldsried.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Wildpoldsried/City/Wilpoldsried.secret|Wilpoldsried.secret]] 
 

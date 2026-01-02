@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uttenreuth](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth|Uttenreuth]] 
 
-### #is_/same_as :: [Uttenreuth.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.public|Uttenreuth.public]] 
 
-### #is_/same_as :: [Uttenreuth.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.internal|Uttenreuth.internal]] 
 
-### #is_/same_as :: [Uttenreuth.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.protect|Uttenreuth.protect]] 
 
-### #is_/same_as :: [Uttenreuth.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.private|Uttenreuth.private]] 
 
-### #is_/same_as :: [Uttenreuth.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.personal|Uttenreuth.personal]] 
 
-### #is_/same_as :: [Uttenreuth.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Erlangen-Höchstadt/cities~Erlangen-Höchst/Uttenreuth.secret|Uttenreuth.secret]] 
 

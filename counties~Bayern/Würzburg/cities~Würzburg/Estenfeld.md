@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Estenfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld|Estenfeld]] 
 
-### #is_/same_as :: [Estenfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.public|Estenfeld.public]] 
 
-### #is_/same_as :: [Estenfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.internal|Estenfeld.internal]] 
 
-### #is_/same_as :: [Estenfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.protect|Estenfeld.protect]] 
 
-### #is_/same_as :: [Estenfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.private|Estenfeld.private]] 
 
-### #is_/same_as :: [Estenfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.personal|Estenfeld.personal]] 
 
-### #is_/same_as :: [Estenfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Estenfeld.secret|Estenfeld.secret]] 
 

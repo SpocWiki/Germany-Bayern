@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landsberg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg|Landsberg]] 
 
-### #is_/same_as :: [Landsberg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.public|Landsberg.public]] 
 
-### #is_/same_as :: [Landsberg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.internal|Landsberg.internal]] 
 
-### #is_/same_as :: [Landsberg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.protect|Landsberg.protect]] 
 
-### #is_/same_as :: [Landsberg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.private|Landsberg.private]] 
 
-### #is_/same_as :: [Landsberg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.personal|Landsberg.personal]] 
 
-### #is_/same_as :: [Landsberg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Landsberg~Lech-city/City/Landsberg.secret|Landsberg.secret]] 
 

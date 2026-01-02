@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Münnerstadt](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt|Münnerstadt]] 
 
-### #is_/same_as :: [Münnerstadt.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.public|Münnerstadt.public]] 
 
-### #is_/same_as :: [Münnerstadt.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.internal|Münnerstadt.internal]] 
 
-### #is_/same_as :: [Münnerstadt.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.protect|Münnerstadt.protect]] 
 
-### #is_/same_as :: [Münnerstadt.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.private|Münnerstadt.private]] 
 
-### #is_/same_as :: [Münnerstadt.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.personal|Münnerstadt.personal]] 
 
-### #is_/same_as :: [Münnerstadt.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bad_Kissingen/cities~Bad_Kissingen/Münnerstadt.secret|Münnerstadt.secret]] 
 

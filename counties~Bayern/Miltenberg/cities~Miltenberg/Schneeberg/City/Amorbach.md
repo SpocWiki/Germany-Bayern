@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amorbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach|Amorbach]] 
 
-### #is_/same_as :: [Amorbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.public|Amorbach.public]] 
 
-### #is_/same_as :: [Amorbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.internal|Amorbach.internal]] 
 
-### #is_/same_as :: [Amorbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.protect|Amorbach.protect]] 
 
-### #is_/same_as :: [Amorbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.private|Amorbach.private]] 
 
-### #is_/same_as :: [Amorbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.personal|Amorbach.personal]] 
 
-### #is_/same_as :: [Amorbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miltenberg/cities~Miltenberg/Schneeberg/City/Amorbach.secret|Amorbach.secret]] 
 

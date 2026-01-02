@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Happurg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg|Happurg]] 
 
-### #is_/same_as :: [Happurg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.public|Happurg.public]] 
 
-### #is_/same_as :: [Happurg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.internal|Happurg.internal]] 
 
-### #is_/same_as :: [Happurg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.protect|Happurg.protect]] 
 
-### #is_/same_as :: [Happurg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.private|Happurg.private]] 
 
-### #is_/same_as :: [Happurg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.personal|Happurg.personal]] 
 
-### #is_/same_as :: [Happurg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberger_Land/cities~Nürnbg_Land/Happurg.secret|Happurg.secret]] 
 

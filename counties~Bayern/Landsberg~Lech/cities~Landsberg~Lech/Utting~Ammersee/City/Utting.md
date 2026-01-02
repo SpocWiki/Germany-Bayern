@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Utting](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting|Utting]] 
 
-### #is_/same_as :: [Utting.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.public|Utting.public]] 
 
-### #is_/same_as :: [Utting.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.internal|Utting.internal]] 
 
-### #is_/same_as :: [Utting.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.protect|Utting.protect]] 
 
-### #is_/same_as :: [Utting.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.private|Utting.private]] 
 
-### #is_/same_as :: [Utting.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.personal|Utting.personal]] 
 
-### #is_/same_as :: [Utting.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Landsberg~Lech/cities~Landsberg~Lech/Utting~Ammersee/City/Utting.secret|Utting.secret]] 
 

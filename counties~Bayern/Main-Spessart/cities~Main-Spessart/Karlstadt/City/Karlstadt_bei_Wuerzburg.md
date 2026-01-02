@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg|Karlstadt_bei_Wuerzburg]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.public|Karlstadt_bei_Wuerzburg.public]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.internal|Karlstadt_bei_Wuerzburg.internal]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.protect|Karlstadt_bei_Wuerzburg.protect]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.private|Karlstadt_bei_Wuerzburg.private]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.personal|Karlstadt_bei_Wuerzburg.personal]] 
 
-### #is_/same_as :: [Karlstadt_bei_Wuerzburg.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Main-Spessart/cities~Main-Spessart/Karlstadt/City/Karlstadt_bei_Wuerzburg.secret|Karlstadt_bei_Wuerzburg.secret]] 
 

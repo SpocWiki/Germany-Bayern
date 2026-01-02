@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isny](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny|Isny]] 
 
-### #is_/same_as :: [Isny.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.public|Isny.public]] 
 
-### #is_/same_as :: [Isny.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.internal|Isny.internal]] 
 
-### #is_/same_as :: [Isny.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.protect|Isny.protect]] 
 
-### #is_/same_as :: [Isny.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.private|Isny.private]] 
 
-### #is_/same_as :: [Isny.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.personal|Isny.personal]] 
 
-### #is_/same_as :: [Isny.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lindau~Bodensee/cities~Lindau~Bodensee/Argental/City/Isny.secret|Isny.secret]] 
 

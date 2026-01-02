@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steinmuehle](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle|Steinmuehle]] 
 
-### #is_/same_as :: [Steinmuehle.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.public|Steinmuehle.public]] 
 
-### #is_/same_as :: [Steinmuehle.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.internal|Steinmuehle.internal]] 
 
-### #is_/same_as :: [Steinmuehle.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.protect|Steinmuehle.protect]] 
 
-### #is_/same_as :: [Steinmuehle.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.private|Steinmuehle.private]] 
 
-### #is_/same_as :: [Steinmuehle.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.personal|Steinmuehle.personal]] 
 
-### #is_/same_as :: [Steinmuehle.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Tirschenreuth/cities~Tirschenreuth/Mitterteich/City/Steinmuehle.secret|Steinmuehle.secret]] 
 

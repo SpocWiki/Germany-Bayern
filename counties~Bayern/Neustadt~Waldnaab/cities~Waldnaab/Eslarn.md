@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eslarn](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn|Eslarn]] 
 
-### #is_/same_as :: [Eslarn.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.public|Eslarn.public]] 
 
-### #is_/same_as :: [Eslarn.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.internal|Eslarn.internal]] 
 
-### #is_/same_as :: [Eslarn.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.protect|Eslarn.protect]] 
 
-### #is_/same_as :: [Eslarn.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.private|Eslarn.private]] 
 
-### #is_/same_as :: [Eslarn.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.personal|Eslarn.personal]] 
 
-### #is_/same_as :: [Eslarn.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neustadt~Waldnaab/cities~Waldnaab/Eslarn.secret|Eslarn.secret]] 
 

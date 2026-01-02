@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mering](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering|Mering]] 
 
-### #is_/same_as :: [Mering.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.public|Mering.public]] 
 
-### #is_/same_as :: [Mering.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.internal|Mering.internal]] 
 
-### #is_/same_as :: [Mering.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.protect|Mering.protect]] 
 
-### #is_/same_as :: [Mering.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.private|Mering.private]] 
 
-### #is_/same_as :: [Mering.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.personal|Mering.personal]] 
 
-### #is_/same_as :: [Mering.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aichach-Friedberg/cities~Aichach-Friedberg/Mering.secret|Mering.secret]] 
 

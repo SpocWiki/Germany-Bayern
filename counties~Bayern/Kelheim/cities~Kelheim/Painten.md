@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Painten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten|Painten]] 
 
-### #is_/same_as :: [Painten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.public|Painten.public]] 
 
-### #is_/same_as :: [Painten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.internal|Painten.internal]] 
 
-### #is_/same_as :: [Painten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.protect|Painten.protect]] 
 
-### #is_/same_as :: [Painten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.private|Painten.private]] 
 
-### #is_/same_as :: [Painten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.personal|Painten.personal]] 
 
-### #is_/same_as :: [Painten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kelheim/cities~Kelheim/Painten.secret|Painten.secret]] 
 

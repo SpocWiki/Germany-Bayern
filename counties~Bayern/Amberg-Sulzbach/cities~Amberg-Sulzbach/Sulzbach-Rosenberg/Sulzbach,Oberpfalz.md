@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz|Sulzbach,Oberpfalz]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.public|Sulzbach,Oberpfalz.public]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.internal|Sulzbach,Oberpfalz.internal]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.protect|Sulzbach,Oberpfalz.protect]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.private|Sulzbach,Oberpfalz.private]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.personal|Sulzbach,Oberpfalz.personal]] 
 
-### #is_/same_as :: [Sulzbach,Oberpfalz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Amberg-Sulzbach/cities~Amberg-Sulzbach/Sulzbach-Rosenberg/Sulzbach,Oberpfalz.secret|Sulzbach,Oberpfalz.secret]] 
 

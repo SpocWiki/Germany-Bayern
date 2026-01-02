@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Selbitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz|Selbitz]] 
 
-### #is_/same_as :: [Selbitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.public|Selbitz.public]] 
 
-### #is_/same_as :: [Selbitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.internal|Selbitz.internal]] 
 
-### #is_/same_as :: [Selbitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.protect|Selbitz.protect]] 
 
-### #is_/same_as :: [Selbitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.private|Selbitz.private]] 
 
-### #is_/same_as :: [Selbitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.personal|Selbitz.personal]] 
 
-### #is_/same_as :: [Selbitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Hof/cities~Hof/Selbitz.secret|Selbitz.secret]] 
 

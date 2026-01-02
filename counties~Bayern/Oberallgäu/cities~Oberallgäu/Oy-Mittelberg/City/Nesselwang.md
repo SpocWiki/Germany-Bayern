@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nesselwang](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang|Nesselwang]] 
 
-### #is_/same_as :: [Nesselwang.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.public|Nesselwang.public]] 
 
-### #is_/same_as :: [Nesselwang.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.internal|Nesselwang.internal]] 
 
-### #is_/same_as :: [Nesselwang.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.protect|Nesselwang.protect]] 
 
-### #is_/same_as :: [Nesselwang.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.private|Nesselwang.private]] 
 
-### #is_/same_as :: [Nesselwang.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.personal|Nesselwang.personal]] 
 
-### #is_/same_as :: [Nesselwang.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Oberallgäu/cities~Oberallgäu/Oy-Mittelberg/City/Nesselwang.secret|Nesselwang.secret]] 
 

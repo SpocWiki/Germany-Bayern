@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Langenbruck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck|Langenbruck]] 
 
-### #is_/same_as :: [Langenbruck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.public|Langenbruck.public]] 
 
-### #is_/same_as :: [Langenbruck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.internal|Langenbruck.internal]] 
 
-### #is_/same_as :: [Langenbruck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.protect|Langenbruck.protect]] 
 
-### #is_/same_as :: [Langenbruck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.private|Langenbruck.private]] 
 
-### #is_/same_as :: [Langenbruck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.personal|Langenbruck.personal]] 
 
-### #is_/same_as :: [Langenbruck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Pfaffenhofen/cities~Pfaffenhofen/Reichertshofen/City/Langenbruck.secret|Langenbruck.secret]] 
 

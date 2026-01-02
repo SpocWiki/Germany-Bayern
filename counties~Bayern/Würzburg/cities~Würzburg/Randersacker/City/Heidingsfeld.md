@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heidingsfeld](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld|Heidingsfeld]] 
 
-### #is_/same_as :: [Heidingsfeld.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.public|Heidingsfeld.public]] 
 
-### #is_/same_as :: [Heidingsfeld.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.internal|Heidingsfeld.internal]] 
 
-### #is_/same_as :: [Heidingsfeld.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.protect|Heidingsfeld.protect]] 
 
-### #is_/same_as :: [Heidingsfeld.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.private|Heidingsfeld.private]] 
 
-### #is_/same_as :: [Heidingsfeld.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.personal|Heidingsfeld.personal]] 
 
-### #is_/same_as :: [Heidingsfeld.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Randersacker/City/Heidingsfeld.secret|Heidingsfeld.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tegernsee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee|Tegernsee]] 
 
-### #is_/same_as :: [Tegernsee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.public|Tegernsee.public]] 
 
-### #is_/same_as :: [Tegernsee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.internal|Tegernsee.internal]] 
 
-### #is_/same_as :: [Tegernsee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.protect|Tegernsee.protect]] 
 
-### #is_/same_as :: [Tegernsee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.private|Tegernsee.private]] 
 
-### #is_/same_as :: [Tegernsee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.personal|Tegernsee.personal]] 
 
-### #is_/same_as :: [Tegernsee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Tegernsee.secret|Tegernsee.secret]] 
 

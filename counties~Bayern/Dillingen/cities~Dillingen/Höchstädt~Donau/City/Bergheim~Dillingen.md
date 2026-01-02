@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bergheim~Dillingen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen|Bergheim~Dillingen]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.public|Bergheim~Dillingen.public]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.internal|Bergheim~Dillingen.internal]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.protect|Bergheim~Dillingen.protect]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.private|Bergheim~Dillingen.private]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.personal|Bergheim~Dillingen.personal]] 
 
-### #is_/same_as :: [Bergheim~Dillingen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Dillingen/cities~Dillingen/Höchstädt~Donau/City/Bergheim~Dillingen.secret|Bergheim~Dillingen.secret]] 
 

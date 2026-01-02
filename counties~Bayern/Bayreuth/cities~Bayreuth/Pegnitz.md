@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pegnitz](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz|Pegnitz]] 
 
-### #is_/same_as :: [Pegnitz.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.public|Pegnitz.public]] 
 
-### #is_/same_as :: [Pegnitz.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.internal|Pegnitz.internal]] 
 
-### #is_/same_as :: [Pegnitz.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.protect|Pegnitz.protect]] 
 
-### #is_/same_as :: [Pegnitz.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.private|Pegnitz.private]] 
 
-### #is_/same_as :: [Pegnitz.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.personal|Pegnitz.personal]] 
 
-### #is_/same_as :: [Pegnitz.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Pegnitz.secret|Pegnitz.secret]] 
 

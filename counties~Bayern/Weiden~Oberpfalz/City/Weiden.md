@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weiden](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden|Weiden]] 
 
-### #is_/same_as :: [Weiden.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.public|Weiden.public]] 
 
-### #is_/same_as :: [Weiden.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.internal|Weiden.internal]] 
 
-### #is_/same_as :: [Weiden.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.protect|Weiden.protect]] 
 
-### #is_/same_as :: [Weiden.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.private|Weiden.private]] 
 
-### #is_/same_as :: [Weiden.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.personal|Weiden.personal]] 
 
-### #is_/same_as :: [Weiden.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weiden~Oberpfalz/City/Weiden.secret|Weiden.secret]] 
 

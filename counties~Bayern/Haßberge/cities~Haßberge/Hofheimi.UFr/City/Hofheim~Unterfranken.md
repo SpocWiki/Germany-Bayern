@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hofheim~Unterfranken](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken|Hofheim~Unterfranken]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.public|Hofheim~Unterfranken.public]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.internal|Hofheim~Unterfranken.internal]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.protect|Hofheim~Unterfranken.protect]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.private|Hofheim~Unterfranken.private]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.personal|Hofheim~Unterfranken.personal]] 
 
-### #is_/same_as :: [Hofheim~Unterfranken.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Haßberge/cities~Haßberge/Hofheimi.UFr/City/Hofheim~Unterfranken.secret|Hofheim~Unterfranken.secret]] 
 

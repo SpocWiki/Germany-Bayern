@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kulmbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach|Kulmbach]] 
 
-### #is_/same_as :: [Kulmbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.public|Kulmbach.public]] 
 
-### #is_/same_as :: [Kulmbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.internal|Kulmbach.internal]] 
 
-### #is_/same_as :: [Kulmbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.protect|Kulmbach.protect]] 
 
-### #is_/same_as :: [Kulmbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.private|Kulmbach.private]] 
 
-### #is_/same_as :: [Kulmbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.personal|Kulmbach.personal]] 
 
-### #is_/same_as :: [Kulmbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kulmbach/cities~Kulmbach/Kulmbach-city/City/Kulmbach.secret|Kulmbach.secret]] 
 

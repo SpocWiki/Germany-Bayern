@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kempten](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten|Kempten]] 
 
-### #is_/same_as :: [Kempten.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.public|Kempten.public]] 
 
-### #is_/same_as :: [Kempten.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.internal|Kempten.internal]] 
 
-### #is_/same_as :: [Kempten.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.protect|Kempten.protect]] 
 
-### #is_/same_as :: [Kempten.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.private|Kempten.private]] 
 
-### #is_/same_as :: [Kempten.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.personal|Kempten.personal]] 
 
-### #is_/same_as :: [Kempten.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten.secret|Kempten.secret]] 
 

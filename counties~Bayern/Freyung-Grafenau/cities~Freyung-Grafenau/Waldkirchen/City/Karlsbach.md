@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karlsbach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach|Karlsbach]] 
 
-### #is_/same_as :: [Karlsbach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.public|Karlsbach.public]] 
 
-### #is_/same_as :: [Karlsbach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.internal|Karlsbach.internal]] 
 
-### #is_/same_as :: [Karlsbach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.protect|Karlsbach.protect]] 
 
-### #is_/same_as :: [Karlsbach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.private|Karlsbach.private]] 
 
-### #is_/same_as :: [Karlsbach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.personal|Karlsbach.personal]] 
 
-### #is_/same_as :: [Karlsbach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freyung-Grafenau/cities~Freyung-Grafenau/Waldkirchen/City/Karlsbach.secret|Karlsbach.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Warngau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau|Warngau]] 
 
-### #is_/same_as :: [Warngau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.public|Warngau.public]] 
 
-### #is_/same_as :: [Warngau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.internal|Warngau.internal]] 
 
-### #is_/same_as :: [Warngau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.protect|Warngau.protect]] 
 
-### #is_/same_as :: [Warngau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.private|Warngau.private]] 
 
-### #is_/same_as :: [Warngau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.personal|Warngau.personal]] 
 
-### #is_/same_as :: [Warngau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Warngau.secret|Warngau.secret]] 
 

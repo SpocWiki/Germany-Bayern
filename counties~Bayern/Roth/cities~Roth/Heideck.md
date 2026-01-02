@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heideck](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck|Heideck]] 
 
-### #is_/same_as :: [Heideck.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.public|Heideck.public]] 
 
-### #is_/same_as :: [Heideck.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.internal|Heideck.internal]] 
 
-### #is_/same_as :: [Heideck.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.protect|Heideck.protect]] 
 
-### #is_/same_as :: [Heideck.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.private|Heideck.private]] 
 
-### #is_/same_as :: [Heideck.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.personal|Heideck.personal]] 
 
-### #is_/same_as :: [Heideck.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Roth/cities~Roth/Heideck.secret|Heideck.secret]] 
 

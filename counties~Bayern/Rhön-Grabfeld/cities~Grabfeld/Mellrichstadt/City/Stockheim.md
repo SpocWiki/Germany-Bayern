@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stockheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim|Stockheim]] 
 
-### #is_/same_as :: [Stockheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.public|Stockheim.public]] 
 
-### #is_/same_as :: [Stockheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.internal|Stockheim.internal]] 
 
-### #is_/same_as :: [Stockheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.protect|Stockheim.protect]] 
 
-### #is_/same_as :: [Stockheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.private|Stockheim.private]] 
 
-### #is_/same_as :: [Stockheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.personal|Stockheim.personal]] 
 
-### #is_/same_as :: [Stockheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Rhön-Grabfeld/cities~Grabfeld/Mellrichstadt/City/Stockheim.secret|Stockheim.secret]] 
 

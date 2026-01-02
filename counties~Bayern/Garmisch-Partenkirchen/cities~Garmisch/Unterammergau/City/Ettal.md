@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ettal](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal|Ettal]] 
 
-### #is_/same_as :: [Ettal.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.public|Ettal.public]] 
 
-### #is_/same_as :: [Ettal.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.internal|Ettal.internal]] 
 
-### #is_/same_as :: [Ettal.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.protect|Ettal.protect]] 
 
-### #is_/same_as :: [Ettal.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.private|Ettal.private]] 
 
-### #is_/same_as :: [Ettal.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.personal|Ettal.personal]] 
 
-### #is_/same_as :: [Ettal.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Garmisch-Partenkirchen/cities~Garmisch/Unterammergau/City/Ettal.secret|Ettal.secret]] 
 

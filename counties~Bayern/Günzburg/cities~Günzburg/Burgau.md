@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burgau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau|Burgau]] 
 
-### #is_/same_as :: [Burgau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.public|Burgau.public]] 
 
-### #is_/same_as :: [Burgau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.internal|Burgau.internal]] 
 
-### #is_/same_as :: [Burgau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.protect|Burgau.protect]] 
 
-### #is_/same_as :: [Burgau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.private|Burgau.private]] 
 
-### #is_/same_as :: [Burgau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.personal|Burgau.personal]] 
 
-### #is_/same_as :: [Burgau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Günzburg/cities~Günzburg/Burgau.secret|Burgau.secret]] 
 

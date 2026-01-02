@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tettau](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau|Tettau]] 
 
-### #is_/same_as :: [Tettau.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.public|Tettau.public]] 
 
-### #is_/same_as :: [Tettau.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.internal|Tettau.internal]] 
 
-### #is_/same_as :: [Tettau.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.protect|Tettau.protect]] 
 
-### #is_/same_as :: [Tettau.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.private|Tettau.private]] 
 
-### #is_/same_as :: [Tettau.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.personal|Tettau.personal]] 
 
-### #is_/same_as :: [Tettau.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Kronach/cities~Kronach/Tettau.secret|Tettau.secret]] 
 

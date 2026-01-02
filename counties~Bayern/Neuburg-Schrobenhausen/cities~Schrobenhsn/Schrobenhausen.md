@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schrobenhausen](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen|Schrobenhausen]] 
 
-### #is_/same_as :: [Schrobenhausen.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.public|Schrobenhausen.public]] 
 
-### #is_/same_as :: [Schrobenhausen.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.internal|Schrobenhausen.internal]] 
 
-### #is_/same_as :: [Schrobenhausen.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.protect|Schrobenhausen.protect]] 
 
-### #is_/same_as :: [Schrobenhausen.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.private|Schrobenhausen.private]] 
 
-### #is_/same_as :: [Schrobenhausen.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.personal|Schrobenhausen.personal]] 
 
-### #is_/same_as :: [Schrobenhausen.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neuburg-Schrobenhausen/cities~Schrobenhsn/Schrobenhausen.secret|Schrobenhausen.secret]] 
 

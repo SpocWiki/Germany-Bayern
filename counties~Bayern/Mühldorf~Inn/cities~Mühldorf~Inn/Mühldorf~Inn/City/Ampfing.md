@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ampfing](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing|Ampfing]] 
 
-### #is_/same_as :: [Ampfing.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.public|Ampfing.public]] 
 
-### #is_/same_as :: [Ampfing.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.internal|Ampfing.internal]] 
 
-### #is_/same_as :: [Ampfing.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.protect|Ampfing.protect]] 
 
-### #is_/same_as :: [Ampfing.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.private|Ampfing.private]] 
 
-### #is_/same_as :: [Ampfing.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.personal|Ampfing.personal]] 
 
-### #is_/same_as :: [Ampfing.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Mühldorf~Inn/cities~Mühldorf~Inn/Mühldorf~Inn/City/Ampfing.secret|Ampfing.secret]] 
 

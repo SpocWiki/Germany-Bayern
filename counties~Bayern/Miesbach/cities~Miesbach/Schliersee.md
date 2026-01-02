@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schliersee](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee|Schliersee]] 
 
-### #is_/same_as :: [Schliersee.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.public|Schliersee.public]] 
 
-### #is_/same_as :: [Schliersee.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.internal|Schliersee.internal]] 
 
-### #is_/same_as :: [Schliersee.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.protect|Schliersee.protect]] 
 
-### #is_/same_as :: [Schliersee.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.private|Schliersee.private]] 
 
-### #is_/same_as :: [Schliersee.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.personal|Schliersee.personal]] 
 
-### #is_/same_as :: [Schliersee.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Miesbach/cities~Miesbach/Schliersee.secret|Schliersee.secret]] 
 

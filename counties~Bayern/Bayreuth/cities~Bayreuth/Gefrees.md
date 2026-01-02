@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gefrees](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees|Gefrees]] 
 
-### #is_/same_as :: [Gefrees.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.public|Gefrees.public]] 
 
-### #is_/same_as :: [Gefrees.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.internal|Gefrees.internal]] 
 
-### #is_/same_as :: [Gefrees.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.protect|Gefrees.protect]] 
 
-### #is_/same_as :: [Gefrees.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.private|Gefrees.private]] 
 
-### #is_/same_as :: [Gefrees.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.personal|Gefrees.personal]] 
 
-### #is_/same_as :: [Gefrees.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Bayreuth/cities~Bayreuth/Gefrees.secret|Gefrees.secret]] 
 

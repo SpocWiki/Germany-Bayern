@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Viechtach](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach|Viechtach]] 
 
-### #is_/same_as :: [Viechtach.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.public|Viechtach.public]] 
 
-### #is_/same_as :: [Viechtach.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.internal|Viechtach.internal]] 
 
-### #is_/same_as :: [Viechtach.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.protect|Viechtach.protect]] 
 
-### #is_/same_as :: [Viechtach.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.private|Viechtach.private]] 
 
-### #is_/same_as :: [Viechtach.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.personal|Viechtach.personal]] 
 
-### #is_/same_as :: [Viechtach.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Regen/cities~Regen/Viechtach.secret|Viechtach.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freising](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising|Freising]] 
 
-### #is_/same_as :: [Freising.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.public|Freising.public]] 
 
-### #is_/same_as :: [Freising.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.internal|Freising.internal]] 
 
-### #is_/same_as :: [Freising.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.protect|Freising.protect]] 
 
-### #is_/same_as :: [Freising.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.private|Freising.private]] 
 
-### #is_/same_as :: [Freising.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.personal|Freising.personal]] 
 
-### #is_/same_as :: [Freising.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising.secret|Freising.secret]] 
 

@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Veitshoechheim](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim|Veitshoechheim]] 
 
-### #is_/same_as :: [Veitshoechheim.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.public|Veitshoechheim.public]] 
 
-### #is_/same_as :: [Veitshoechheim.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.internal|Veitshoechheim.internal]] 
 
-### #is_/same_as :: [Veitshoechheim.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.protect|Veitshoechheim.protect]] 
 
-### #is_/same_as :: [Veitshoechheim.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.private|Veitshoechheim.private]] 
 
-### #is_/same_as :: [Veitshoechheim.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.personal|Veitshoechheim.personal]] 
 
-### #is_/same_as :: [Veitshoechheim.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Würzburg/cities~Würzburg/Veitshöchheim/City/Veitshoechheim.secret|Veitshoechheim.secret]] 
 

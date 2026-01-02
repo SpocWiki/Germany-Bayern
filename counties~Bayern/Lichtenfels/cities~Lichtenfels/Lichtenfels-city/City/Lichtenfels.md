@@ -34,17 +34,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lichtenfels](/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels|Lichtenfels]] 
 
-### #is_/same_as :: [Lichtenfels.public](/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.public|Lichtenfels.public]] 
 
-### #is_/same_as :: [Lichtenfels.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.internal|Lichtenfels.internal]] 
 
-### #is_/same_as :: [Lichtenfels.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.protect|Lichtenfels.protect]] 
 
-### #is_/same_as :: [Lichtenfels.private](/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.private|Lichtenfels.private]] 
 
-### #is_/same_as :: [Lichtenfels.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.personal|Lichtenfels.personal]] 
 
-### #is_/same_as :: [Lichtenfels.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Lichtenfels/cities~Lichtenfels/Lichtenfels-city/City/Lichtenfels.secret|Lichtenfels.secret]] 
 
