@@ -255,7 +255,8 @@ Check out this Repository into this Subfolder:
 > Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, 
 > in addition to Altbayern.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria) 
+
 
 ## Maps and Flags 
 
