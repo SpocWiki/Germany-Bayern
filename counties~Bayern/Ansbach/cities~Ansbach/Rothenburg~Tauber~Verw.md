@@ -40,7 +40,7 @@ maxZoom: 18
 
 [[../../../../../../../../../../../assets/geo/Europe/Germany/Rothenburg~Tauber~Plönlein.png]]
 ![[../../../../../../../../../../../assets/geo/Europe/Germany/Rothenburg~Tauber~Plönlein.png]]
-Das _Plönlein_ mit dem _Sieberstor_ (links) und dem _Kobolzeller Tor_ (rechts), 2008
+Das _Plönlein_ mit dem _Sieberstor_ (links) und dem _Kobolzeller Tor_ (rechts), 2008
 Der Siebersturm aus der Zeit um 1385 und das Kobolzeller Tor um 1360 zusammen mit den umgebenden Fachwerkhäusern. 
 
 
