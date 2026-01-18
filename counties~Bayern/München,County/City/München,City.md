@@ -1,6 +1,8 @@
 ---
 aliases:
   - Munich
+  - München
+  - Muenchen
 has_id_wikidata: Q1726
 location:
   - 48.13

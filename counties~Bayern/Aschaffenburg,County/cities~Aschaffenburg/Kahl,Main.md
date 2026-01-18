@@ -34,7 +34,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main|Kahl,Main]] 
+### #is_/same_as :: [[Kahl,Main|Kahl,Main]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg/cities~Aschaffenburg/Kahl,Main.public|Kahl,Main.public]] 
 
