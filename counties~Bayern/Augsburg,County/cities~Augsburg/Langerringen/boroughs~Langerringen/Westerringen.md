@@ -34,7 +34,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen|Westerringen]] 
+### #is_/same_as :: [[Westerringen|Westerringen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.public|Westerringen.public]] 
 

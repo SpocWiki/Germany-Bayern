@@ -34,7 +34,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Welden|Welden]] 
+### #is_/same_as :: [[Welden|Welden]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Welden.public|Welden.public]] 
 
