@@ -15,8 +15,10 @@ confidential: public
 
 # [[Pappenheim]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.974] 
 [has_place_latitude::48.935] 
 [name::Pappenheim] 

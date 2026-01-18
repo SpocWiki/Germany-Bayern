@@ -20,8 +20,10 @@ confidential: public
 
 # [[Göggingen,Augsburg]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.87] 
 [has_place_latitude::48.35] 
 [name::Goeggingen] 

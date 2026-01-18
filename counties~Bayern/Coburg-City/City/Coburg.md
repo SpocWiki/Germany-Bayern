@@ -18,8 +18,10 @@ aliases:
 
 # [[Coburg]]
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 
 [has_place_longitude::10.97] 
 [has_place_latitude::50.27] 

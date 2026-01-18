@@ -19,8 +19,10 @@ aliases:
 
 # [[Nürnberg]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::11.07] 
 [has_place_latitude::49.45] 
 [name::Nuernberg] 

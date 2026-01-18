@@ -17,8 +17,10 @@ aliases:
 ---
 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.48] 
 [has_place_latitude::48.85] 
 [name::Nördlingen] 

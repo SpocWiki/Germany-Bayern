@@ -17,8 +17,10 @@ aliases:
 ---
 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::9.93] 
 [has_place_latitude::49.79] 
 [name::Wuerzburg] 

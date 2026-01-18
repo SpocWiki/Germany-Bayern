@@ -15,8 +15,10 @@ confidential: public
 aliases:
   - Dinkelsbuehl
 ---
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.32] 
 [has_place_latitude::49.12] 
 [name::Dinkelsbühl] 

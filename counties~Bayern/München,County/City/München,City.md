@@ -292,8 +292,10 @@ RIA_Novosti_reference: "54721131"
 
 # [[München,City]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::11.57] 
 [has_place_latitude::48.13] 
 [name::München] 

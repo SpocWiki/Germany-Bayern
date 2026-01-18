@@ -19,8 +19,10 @@ confidential: public
 
 # [[Augsburg,City]] 
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.9] 
 [has_place_latitude::48.37] 
 [name::Augsburg] 

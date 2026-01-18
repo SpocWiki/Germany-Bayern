@@ -15,8 +15,10 @@ confidential: public
 
 # [[Heidenheim,MFranken]]
 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::10.75] 
 [has_place_latitude::49.02] 
 [name::Heidenheim in Mittelfranken] 

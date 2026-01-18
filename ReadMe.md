@@ -282,8 +282,10 @@ markerFolder: ./
 
 has_place_country:: [[Germany]]  
 Capital ::[[counties~Bayern/München,County/City/München,City]]]] 
-#is_a_/Place  
-#is_a_ :: [[Place]] 
+
+
+
+#is_a :: [[City]]
 [has_place_longitude::11.3382] 
 [has_place_latitude::48.8642] 
 [Population::] 
