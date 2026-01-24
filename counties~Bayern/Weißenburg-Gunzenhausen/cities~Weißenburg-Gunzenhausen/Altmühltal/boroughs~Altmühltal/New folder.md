@@ -1,17 +1,17 @@
 
 ## Confidential Links & Embeds: 
 
-### [New folder](../../../../../../../../../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.md) 
+### [New folder](../../../../../../../../../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder) 
 
-### [New folder.internal](../../../../../../../../../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.internal.md) 
+### [New folder.internal](../../../../../../../../../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.internal) 
 
-### [New folder.protect](../../../../../../../../../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.protect.md) 
+### [New folder.protect](../../../../../../../../../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.protect) 
 
-### [New folder.private](../../../../../../../../../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.private.md) 
+### [New folder.private](../../../../../../../../../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.private) 
 
-### [New folder.personal](../../../../../../../../../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.personal.md) 
+### [New folder.personal](../../../../../../../../../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.personal) 
 
-### [New folder.secret](../../../../../../../../../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.secret.md) 
+### [New folder.secret](../../../../../../../../../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Weißenburg-Gunzenhausen/cities~Weißenburg-Gunzenhausen/Altmühltal/boroughs~Altmühltal/New folder.secret) 
 
 
 ## Confidential Links & Embeds: 
