@@ -1,185 +1,267 @@
 ---
 aliases:
-  - Munich
-  - München
-  - Muenchen
+- ma tomo Minsen
+- Menix
+- Minca
+- Minche
+- Minga
+- Minhen
+- Minhene
+- Mionchens
+- Miunchenas
+- Mnichov
+- Mnichow
+- Mníchov
+- Monachium
+- Monaco 'e Baviera
+- Monaco de Baviera
+- Monaco di Baviera
+- Monacu di Baviera
+- Monacum
+- Monegh de Baviera
+- Monego de Bavèa
+- Muenchen
+- Munhen
+- Munic
+- Munich
+- Munike
+- Munique
+- Munix
+- Munkeno
+- Munîh
+- Mynecen
+- Mynihu
+- Myunix
+- Myunxen
+- Myunxén
+- Mònacu
+- Mònag 'd Bavéra
+- Mùnich ëd Baviera
+- Múnic
+- Múnich
+- Münche
+- München
+- Münhen
+- Münih
+- Münxen
+- Mýunhen
+- Μόναχο
+- Минхен
+- Мнихів
+- Муьнхен
+- Мюнхен
+- Мюнхен ош
+- Мюнхэн
+- Мүнхен
+- Мүнхэн
+- Мӱнхен
+- Միւնիխ
+- Մյունխեն
+- מינכן
+- مونیخ
+- ميونخ
+- ميونيخ
+- میونخ
+- میونشن
+- म्युनिख
+- म्युन्शेन
+- म्यूनिख
+- মিউনিখ
+- ਮਿਊਨਿਖ
+- મ્યૂનિખ
+- மியூனிக்
+- మ్యూనిక్
+- ಮ್ಯೂನಿಕ್
+- മ്യൂണിച്ച്
+- මියුනික්
+- มิวนิก
+- မြူးနစ်ချ်မြို့
+- მიუნხენი
+- ሙኒክ
+- ミュンヘン
+- 慕尼黑
+- 穆尼黑
+- ꯃꯨꯅꯤꯛ
+- 뮌헨
+- 뮨헨
+- "\U0001033C\U0001033F\U0001033D\U00010339\U00010337\U00010334\U00010339\U0001033D"
 has_id_wikidata: Q1726
 location:
-  - 48.13
-  - 11.57
+- 48.13
+- 11.57
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId:
-  - 32706
-  - 32672
+- 32706
+- 32672
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Q81033,81033]]"
-  - "[[_Standards/WikiData/WD~Bordeaux,1479]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Verona,2028]]"
-  - "[[_Standards/WikiData/WD~Harare,3921]]"
-  - "[[_Standards/WikiData/WD~Edinburgh,23436]]"
-  - "[[_Standards/WikiData/WD~Sapporo,37951]]"
-  - "[[_Standards/WikiData/WD~Cincinnati,43196]]"
+- '[[_Standards/WikiData/WD~Q81033,81033]]'
+- '[[_Standards/WikiData/WD~Bordeaux,1479]]'
+- '[[_Standards/WikiData/WD~Kyiv,1899]]'
+- '[[_Standards/WikiData/WD~Verona,2028]]'
+- '[[_Standards/WikiData/WD~Harare,3921]]'
+- '[[_Standards/WikiData/WD~Edinburgh,23436]]'
+- '[[_Standards/WikiData/WD~Sapporo,37951]]'
+- '[[_Standards/WikiData/WD~Cincinnati,43196]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Isar,106588]]"
-  - "[[_Standards/WikiData/WD~Schwabinger_Bach,202655]]"
-  - "[[_Standards/WikiData/WD~Würm,258243]]"
-  - "[[_Standards/WikiData/WD~Auer_Mühlbach,277974]]"
-  - "[[_Standards/WikiData/WD~Eisbach,527132]]"
-  - "[[_Standards/WikiData/WD~Dreiseenplatte,1258092]]"
-  - "[[_Standards/WikiData/WD~Isar_Werkkanal,1673718]]"
-  - "[[_Standards/WikiData/WD~Kleine_Isar,1746458]]"
-  - "[[_Standards/WikiData/WD~Kleinhesseloher_See,1746836]]"
-  - "[[_Standards/WikiData/WD~Nymphenburg_Canal,19250109]]"
+- '[[_Standards/WikiData/WD~Isar,106588]]'
+- '[[_Standards/WikiData/WD~Schwabinger_Bach,202655]]'
+- '[[_Standards/WikiData/WD~Würm,258243]]'
+- '[[_Standards/WikiData/WD~Auer_Mühlbach,277974]]'
+- '[[_Standards/WikiData/WD~Eisbach,527132]]'
+- '[[_Standards/WikiData/WD~Dreiseenplatte,1258092]]'
+- '[[_Standards/WikiData/WD~Isar_Werkkanal,1673718]]'
+- '[[_Standards/WikiData/WD~Kleine_Isar,1746458]]'
+- '[[_Standards/WikiData/WD~Kleinhesseloher_See,1746836]]'
+- '[[_Standards/WikiData/WD~Nymphenburg_Canal,19250109]]'
 owner_of:
-  - "[[_Standards/WikiData/WD~Munich_Olympic_Stadium,131610]]"
-  - "[[_Standards/WikiData/WD~Forst_Kasten,994306]]"
-  - "[[_Standards/WikiData/WD~Sumpflegende,2365608]]"
-  - "[[_Standards/WikiData/WD~Saint_Christopher,57758914]]"
+- '[[_Standards/WikiData/WD~Munich_Olympic_Stadium,131610]]'
+- '[[_Standards/WikiData/WD~Forst_Kasten,994306]]'
+- '[[_Standards/WikiData/WD~Sumpflegende,2365608]]'
+- '[[_Standards/WikiData/WD~Saint_Christopher,57758914]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~district_capital,134626]]"
-  - "[[_Standards/WikiData/WD~metropolis,200250]]"
-  - "[[_Standards/WikiData/WD~financial_center,1066984]]"
-  - "[[_Standards/WikiData/WD~residenz,1180262]]"
-  - "[[_Standards/WikiData/WD~college_town,1187811]]"
-  - "[[_Standards/WikiData/WD~local_government_in_Germany,1418640]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]"
-  - "[[_Standards/WikiData/WD~urban_district_of_Bavaria,85631896]]"
+- '[[_Standards/WikiData/WD~district_capital,134626]]'
+- '[[_Standards/WikiData/WD~metropolis,200250]]'
+- '[[_Standards/WikiData/WD~financial_center,1066984]]'
+- '[[_Standards/WikiData/WD~residenz,1180262]]'
+- '[[_Standards/WikiData/WD~college_town,1187811]]'
+- '[[_Standards/WikiData/WD~local_government_in_Germany,1418640]]'
+- '[[_Standards/WikiData/WD~big_city,1549591]]'
+- '[[_Standards/WikiData/WD~urban_municipality_in_Germany,42744322]]'
+- '[[_Standards/WikiData/WD~urban_district_of_Bavaria,85631896]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Schwanthalerhöhe,166011]]"
-  - "[[_Standards/WikiData/WD~Sendling_Westpark,224635]]"
-  - "[[_Standards/WikiData/WD~Milbertshofen_Am_Hart,251311]]"
-  - "[[_Standards/WikiData/WD~Au_Haidhausen,252058]]"
-  - "[[_Standards/WikiData/WD~Feldmoching_Hasenbergl,252173]]"
-  - "[[_Standards/WikiData/WD~Allach_Untermenzing,252295]]"
-  - "[[_Standards/WikiData/WD~Schwabing_Freimann,252679]]"
-  - "[[_Standards/WikiData/WD~Schwabing_West,252910]]"
-  - "[[_Standards/WikiData/WD~Obergiesing_Fasangarten,254178]]"
-  - "[[_Standards/WikiData/WD~Ramersdorf_Perlach,255291]]"
-  - "[[_Standards/WikiData/WD~Pasing_Obermenzing,255702]]"
-  - "[[_Standards/WikiData/WD~Maxvorstadt,256012]]"
-  - "[[_Standards/WikiData/WD~Laim,259879]]"
-  - "[[_Standards/WikiData/WD~Sendling,262879]]"
-  - "[[_Standards/WikiData/WD~Moosach,263163]]"
-  - "[[_Standards/WikiData/WD~Untergiesing_Harlaching,265068]]"
-  - "[[_Standards/WikiData/WD~Neuhausen_Nymphenburg,266932]]"
-  - "[[_Standards/WikiData/WD~Hadern,267364]]"
-  - "[[_Standards/WikiData/WD~Bogenhausen,329707]]"
-  - "[[_Standards/WikiData/WD~Thalkirchen_Obersendling_Forstenried_Fürstenried_Solln,458136]]"
-  - "[[_Standards/WikiData/WD~Berg_am_Laim,533054]]"
-  - "[[_Standards/WikiData/WD~Aubing_Lochhausen_Langwied,533095]]"
-  - "[[_Standards/WikiData/WD~Ludwigsvorstadt_Isarvorstadt,537044]]"
-  - "[[_Standards/WikiData/WD~Trudering_Riem,538037]]"
-  - "[[_Standards/WikiData/WD~Altstadt_Lehel,971198]]"
+- '[[_Standards/WikiData/WD~Schwanthalerhöhe,166011]]'
+- '[[_Standards/WikiData/WD~Sendling_Westpark,224635]]'
+- '[[_Standards/WikiData/WD~Milbertshofen_Am_Hart,251311]]'
+- '[[_Standards/WikiData/WD~Au_Haidhausen,252058]]'
+- '[[_Standards/WikiData/WD~Feldmoching_Hasenbergl,252173]]'
+- '[[_Standards/WikiData/WD~Allach_Untermenzing,252295]]'
+- '[[_Standards/WikiData/WD~Schwabing_Freimann,252679]]'
+- '[[_Standards/WikiData/WD~Schwabing_West,252910]]'
+- '[[_Standards/WikiData/WD~Obergiesing_Fasangarten,254178]]'
+- '[[_Standards/WikiData/WD~Ramersdorf_Perlach,255291]]'
+- '[[_Standards/WikiData/WD~Pasing_Obermenzing,255702]]'
+- '[[_Standards/WikiData/WD~Maxvorstadt,256012]]'
+- '[[_Standards/WikiData/WD~Laim,259879]]'
+- '[[_Standards/WikiData/WD~Sendling,262879]]'
+- '[[_Standards/WikiData/WD~Moosach,263163]]'
+- '[[_Standards/WikiData/WD~Untergiesing_Harlaching,265068]]'
+- '[[_Standards/WikiData/WD~Neuhausen_Nymphenburg,266932]]'
+- '[[_Standards/WikiData/WD~Hadern,267364]]'
+- '[[_Standards/WikiData/WD~Bogenhausen,329707]]'
+- '[[_Standards/WikiData/WD~Thalkirchen_Obersendling_Forstenried_Fürstenried_Solln,458136]]'
+- '[[_Standards/WikiData/WD~Berg_am_Laim,533054]]'
+- '[[_Standards/WikiData/WD~Aubing_Lochhausen_Langwied,533095]]'
+- '[[_Standards/WikiData/WD~Ludwigsvorstadt_Isarvorstadt,537044]]'
+- '[[_Standards/WikiData/WD~Trudering_Riem,538037]]'
+- '[[_Standards/WikiData/WD~Altstadt_Lehel,971198]]'
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Pullach,202116]]"
-  - "[[_Standards/WikiData/WD~Grünwald,220090]]"
-  - "[[_Standards/WikiData/WD~Oberschleißheim,253881]]"
-  - "[[_Standards/WikiData/WD~Ismaning,254897]]"
-  - "[[_Standards/WikiData/WD~Planegg,255796]]"
-  - "[[_Standards/WikiData/WD~Neubiberg,258208]]"
-  - "[[_Standards/WikiData/WD~Neuried,259597]]"
-  - "[[_Standards/WikiData/WD~Putzbrunn,261630]]"
-  - "[[_Standards/WikiData/WD~Feldkirchen,264501]]"
-  - "[[_Standards/WikiData/WD~Garching_bei_München,264620]]"
-  - "[[_Standards/WikiData/WD~Unterhaching,264899]]"
-  - "[[_Standards/WikiData/WD~Unterföhring,267408]]"
-  - "[[_Standards/WikiData/WD~Aschheim,503747]]"
-  - "[[_Standards/WikiData/WD~Haar,504820]]"
-  - "[[_Standards/WikiData/WD~Gräfelfing,504854]]"
-  - "[[_Standards/WikiData/WD~Q55278376,55278376]]"
-  - "[[_Standards/WikiData/WD~Q55278629,55278629]]"
-  - "[[_Standards/WikiData/WD~Fürstenfeldbruck,10502]]"
-  - "[[_Standards/WikiData/WD~Dachau,10500]]"
-  - "[[_Standards/WikiData/WD~Munich,10544]]"
+- '[[_Standards/WikiData/WD~Pullach,202116]]'
+- '[[_Standards/WikiData/WD~Grünwald,220090]]'
+- '[[_Standards/WikiData/WD~Oberschleißheim,253881]]'
+- '[[_Standards/WikiData/WD~Ismaning,254897]]'
+- '[[_Standards/WikiData/WD~Planegg,255796]]'
+- '[[_Standards/WikiData/WD~Neubiberg,258208]]'
+- '[[_Standards/WikiData/WD~Neuried,259597]]'
+- '[[_Standards/WikiData/WD~Putzbrunn,261630]]'
+- '[[_Standards/WikiData/WD~Feldkirchen,264501]]'
+- '[[_Standards/WikiData/WD~Garching_bei_München,264620]]'
+- '[[_Standards/WikiData/WD~Unterhaching,264899]]'
+- '[[_Standards/WikiData/WD~Unterföhring,267408]]'
+- '[[_Standards/WikiData/WD~Aschheim,503747]]'
+- '[[_Standards/WikiData/WD~Haar,504820]]'
+- '[[_Standards/WikiData/WD~Gräfelfing,504854]]'
+- '[[_Standards/WikiData/WD~Q55278376,55278376]]'
+- '[[_Standards/WikiData/WD~Q55278629,55278629]]'
+- '[[_Standards/WikiData/WD~Fürstenfeldbruck,10502]]'
+- '[[_Standards/WikiData/WD~Dachau,10500]]'
+- '[[_Standards/WikiData/WD~Munich,10544]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Regesta_Imperii,316838]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
-  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Topographia_Bavariæ,19230660]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+- '[[_Standards/WikiData/WD~Regesta_Imperii,316838]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Topographia_Bavariæ,19230660]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dritter_Band,127953085]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~history_of_Munich,529600]]"
-  - "[[_Standards/WikiData/WD~timeline_of_Munich_history,1087931]]"
-named_after: "[[_Standards/WikiData/WD~monk,733786]]"
+- '[[_Standards/WikiData/WD~history_of_Munich,529600]]'
+- '[[_Standards/WikiData/WD~timeline_of_Munich_history,1087931]]'
+named_after: '[[_Standards/WikiData/WD~monk,733786]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]"
-  - "[[_Standards/WikiData/WD~Bayerischer_Städtetag,812378]]"
-  - "[[_Standards/WikiData/WD~Climate_Alliance,1768108]]"
-  - "[[_Standards/WikiData/WD~Working_Group_of_Bicycle_Friendly_Municipalities_in_Bavaria,23788180]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Munich,885111]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Planungsregion_München,1117899]]"
-head_of_government: "[[_Standards/WikiData/WD~Dieter_Reiter,1222671]]"
+- '[[_Standards/WikiData/WD~Mayors_for_Peace,747279]]'
+- '[[_Standards/WikiData/WD~Bayerischer_Städtetag,812378]]'
+- '[[_Standards/WikiData/WD~Climate_Alliance,1768108]]'
+- '[[_Standards/WikiData/WD~Working_Group_of_Bicycle_Friendly_Municipalities_in_Bavaria,23788180]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Munich,885111]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Planungsregion_München,1117899]]'
+head_of_government: '[[_Standards/WikiData/WD~Dieter_Reiter,1222671]]'
 award_received:
-  - "[[_Standards/WikiData/WD~Führerstadt,1480914]]"
-  - "[[_Standards/WikiData/WD~Hauptstadt_der_Bewegung,1589624]]"
-anthem: "[[_Standards/WikiData/WD~Solang_der_alte_Peter,1494592]]"
+- '[[_Standards/WikiData/WD~Führerstadt,1480914]]'
+- '[[_Standards/WikiData/WD~Hauptstadt_der_Bewegung,1589624]]'
+anthem: '[[_Standards/WikiData/WD~Solang_der_alte_Peter,1494592]]'
 different_from:
-  - "[[_Standards/WikiData/WD~München,1573070]]"
-  - "[[_Standards/WikiData/WD~Munich,14457335]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Lord_Mayor_of_Munich,1958954]]"
-parent_organization_or_unit: "[[_Standards/WikiData/WD~Regierung_von_Oberbayern,2137657]]"
-archives_at: "[[_Standards/WikiData/WD~Munich_City_Archive,2326571]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Munich,11028213]]"
-legal_form: "[[_Standards/WikiData/WD~Körperschaft_des_öffentlichen_Rechts,15734684]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Munich,48843254]]"
-open_data_portal: "[[_Standards/WikiData/WD~Open_Data_Portal_München,63433887]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Munich,100864567]]"
+- '[[_Standards/WikiData/WD~München,1573070]]'
+- '[[_Standards/WikiData/WD~Munich,14457335]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Lord_Mayor_of_Munich,1958954]]'
+parent_organization_or_unit: '[[_Standards/WikiData/WD~Regierung_von_Oberbayern,2137657]]'
+archives_at: '[[_Standards/WikiData/WD~Munich_City_Archive,2326571]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Munich,11028213]]'
+legal_form: '[[_Standards/WikiData/WD~Körperschaft_des_öffentlichen_Rechts,15734684]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Munich,48843254]]'
+open_data_portal: '[[_Standards/WikiData/WD~Open_Data_Portal_München,63433887]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Munich,100864567]]'
 capital_cost: 9537567400
 budget: 9616482400
 time_of_earliest_written_record: 1158-06-21T00:00:00Z
 inception: 1158-01-01T00:00:00Z
 capital_of:
-  - "[[_Standards/WikiData/WD~Bavaria,980]]"
-  - "[[_Standards/WikiData/WD~Munich,10544]]"
-  - "[[_Standards/WikiData/WD~Upper_Bavaria,10562]]"
+- '[[_Standards/WikiData/WD~Bavaria,980]]'
+- '[[_Standards/WikiData/WD~Munich,10544]]'
+- '[[_Standards/WikiData/WD~Upper_Bavaria,10562]]'
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~UTC+01_00,6655]]"
-  - "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Upper_Bavaria,10562]]"
+- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Upper_Bavaria,10562]]'
 language_used:
-  - "[[_Standards/WikiData/WD~Bavarian,29540]]"
-  - "[[_Standards/WikiData/WD~German,188]]"
-continent: "[[_Standards/WikiData/WD~Europe,46]]"
-country: "[[_Standards/WikiData/WD~Germany,183]]"
+- '[[_Standards/WikiData/WD~Bavarian,29540]]'
+- '[[_Standards/WikiData/WD~German,188]]'
+continent: '[[_Standards/WikiData/WD~Europe,46]]'
+country: '[[_Standards/WikiData/WD~Germany,183]]'
 elevation_above_sea_level: 519
 social_media_followers:
-  - 7240
-  - 127671
-  - 268686
-patron_saint: "[[_Standards/WikiData/WD~Benno,61625]]"
+- 7240
+- 127671
+- 268686
+patron_saint: '[[_Standards/WikiData/WD~Benno,61625]]'
 postal_code:
-  - "85540"
-  - 80331–81929
+- 85540
+- 80331–81929
 area: 310.71
-OmegaWiki_Defined_Meaning: "7137"
+OmegaWiki_Defined_Meaning: 7137
 licence_plate_code:
-  - M
-  - MUC
+- M
+- MUC
 BHCL_UUID:
-  - 12d6d33b-e6ee-49f2-9513-e1f3aa25899e
-  - 0fb7e2a3-bae0-4633-b0e7-26dd33ede1e4
-  - e28d8b7a-b96d-4366-8a9f-590537627d3a
+- 12d6d33b-e6ee-49f2-9513-e1f3aa25899e
+- 0fb7e2a3-bae0-4633-b0e7-26dd33ede1e4
+- e28d8b7a-b96d-4366-8a9f-590537627d3a
 male_population: 725905
 female_population: 762297
 GitHub_topic: munich
@@ -187,26 +269,26 @@ official_website: https://stadt.muenchen.de/rathaus.html
 Image_Archive_Herder_Institute: Q1726
 population: 1510378
 described_at_URL:
-  - https://www.muenchenwiki.de/wiki/Hauptseite
-  - https://www.muenchen.de/
+- https://www.muenchenwiki.de/wiki/Hauptseite
+- https://www.muenchen.de/
 demonym:
-  - Münchner
-  - monacensi
-  - мюнхенец
-  - мюнхенцы
-  - Münchnerin
-  - Münchnerinnen
-  - Munkenano
-  - Munichois
-  - Munichoise
-  - münchenez
-  - мюнхенець
-  - мюнхенка
-  - мюнхенці
+- Münchner
+- monacensi
+- мюнхенец
+- мюнхенцы
+- Münchnerin
+- Münchnerinnen
+- Munkenano
+- Munichois
+- Munichoise
+- münchenez
+- мюнхенець
+- мюнхенка
+- мюнхенці
 hashtag:
-  - Muenchen
-  - München
-  - Munich
+- Muenchen
+- München
+- Munich
 official_name: München
 name: München
 native_label: München
@@ -215,29 +297,29 @@ NUTS_code: DE212
 UN_LOCODE: DEMUC
 IMDb_keyword: munich-germany
 YouTube_handle:
-  - simplyMunich
-  - muenchende
+- simplyMunich
+- muenchende
 motto_text:
-  - München mag Dich
-  - Weltstadt mit Herz
+- München mag Dich
+- Weltstadt mit Herz
 coordinate_location: Point(11.575 48.1375)
 geoshape: http://commons.wikimedia.org/data/main/Data:Deutschland/Bayern/M%C3%BCnchen.map
 official_jobs_URL:
-  - https://muenchen-unser-kindl.de/
-  - https://karriere.muenchen.de/
+- https://muenchen-unser-kindl.de/
+- https://karriere.muenchen.de/
 privacy_policy_URL: https://stadt.muenchen.de/infos/datenschutz.html
 impressum_URL: https://stadt.muenchen.de/infos/impressum.html
 place_name_sign: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnchen%2C%20Ortstafel%20Landeshauptstadt%2C%204.jpeg
-local_dialing_code: "089"
-WOEID: "676757"
+local_dialing_code: 089
+WOEID: 676757
 Commons_gallery: München
 Commons_category: Munich
 subreddit: Munich
 short_name:
-  - M
-  - MUC
-  - LHM
-German_district_key: "09162"
+- M
+- MUC
+- LHM
+German_district_key: 09162
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/DEU%20M%C3%BCnchen%20COA.svg
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Dienstsiegel%20Landeshauptstadt%20M%C3%BCnchen.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Munich%20%28striped%29.svg
@@ -253,43 +335,265 @@ Facebook_username: Stadt.Muenchen
 Instagram_username: stadtmuenchen
 X_Twitter_username: StadtMuenchen
 pronunciation_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Bar-M%C3%BCnchen.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/De-M%C3%BCnchen%202.oga
+- http://commons.wikimedia.org/wiki/Special:FilePath/Bar-M%C3%BCnchen.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-M%C3%BCnchen%202.oga
 aerial_view:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Digitales%20Orthofoto%20von%20M%C3%BCnchen%20%28Bayerische%20Vermessungsverwaltung%29.tif
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Luftbild%20M%C3%BCnchen%20Innenstadt.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Spaceborne%20radar%20image%20of%20Munich%2C%20Germany%20-%201994%20hi%20res.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Digitales%20Orthofoto%20von%20M%C3%BCnchen%20%28Bayerische%20Vermessungsverwaltung%29.tif
+- http://commons.wikimedia.org/wiki/Special:FilePath/Luftbild%20M%C3%BCnchen%20Innenstadt.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Spaceborne%20radar%20image%20of%20Munich%2C%20Germany%20-%201994%20hi%20res.jpg
 spoken_text_audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/En-Munich-wikisource-12%202014.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/No-M%C3%9CNCHEN.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/En-Munich-wikisource-12%202014.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/No-M%C3%9CNCHEN.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20M%20%28town%29%20in%20Germany.svg
 twin_town_sign: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%BCnchens%20Partnerst%C3%A4dte.jpg
 montage_image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Munchen%20collage.jpg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20montage.png
+- http://commons.wikimedia.org/wiki/Special:FilePath/Munchen%20collage.jpg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20montage.png
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20%2831568903%29.jpeg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20location%20map.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Panorama%20Alps%20Frauenkirche%20Wikivoyage%20Banner.png
 location_map:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Subdivisions.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Subdivisions%20grey.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Subdivisions.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Munich%20Subdivisions%20grey.svg
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Panorama%20olympiaturm.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stadtbild%20M%C3%BCnchen.jpg
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Vista%20de%20M%C3%BAnich%20desde%20Fr%C3%B6ttmaning%2C%20Alemania%2C%202013-02-11%2C%20DD%2001.JPG
 webcam_page_URL: http://www.foto-webcam.eu/webcam/muenchen/
 Mastodon_instance_URL: https://muenchen.social
 IPA_transcription: ˈmʏnçn̩
-ISNI: "0000000121893141"
-German_municipality_key: "09162000"
-German_regional_key: "091620000000"
-U_S_National_Archives_Identifier: "10044897"
+ISNI: 0000000121893141
+German_municipality_key: 09162000
+German_regional_key: 091620000000
+U_S_National_Archives_Identifier: 10044897
 Provenio_UUID:
-  - 1cc89c47-b91e-4853-91ec-5560ae6016b4
-  - 4addd677-781a-48e7-a13b-cfce331153c7
+- 1cc89c47-b91e-4853-91ec-5560ae6016b4
+- 4addd677-781a-48e7-a13b-cfce331153c7
 Dewey_Decimal_Classification: 2--43364
-RIA_Novosti_reference: "54721131"
+RIA_Novosti_reference: 54721131
+dv_has_:
+  name_:
+    af: München
+    am: ሙኒክ
+    an: Múnich
+    ang: Mynecen
+    ar: ميونخ
+    arz: ميونيخ
+    ast: Munich
+    ay: München
+    az: Münxen
+    azb: مونیخ
+    ba: Мюнхен
+    ban: München
+    bar: Minga
+    be: Мюнхен
+    be-tarask: Мюнхэн
+    bg: Мюнхен
+    bn: মিউনিখ
+    br: München
+    bs: München
+    bxr: Мюнхен
+    ca: Múnic
+    cbk-zam: Múnich
+    cdo: München
+    ce: Муьнхен
+    ceb: Munich
+    ckb: میونشن
+    co: Monacu di Baviera
+    crh: Münhen
+    crh-latn: Münhen
+    cs: Mnichov
+    csb: München
+    cv: Мюнхен
+    cy: München
+    da: München
+    dag: Munich
+    de: München
+    diq: Munix
+    dsb: München
+    dty: म्युनिख
+    el: Μόναχο
+    eml: Mònag 'd Bavéra
+    en: Munich
+    en-ca: Munich
+    en-gb: Munich
+    eo: Munkeno
+    es: Múnich
+    et: München
+    eu: Munich
+    ext: Múnich
+    fa: مونیخ
+    ff: Munich
+    fi: München
+    fj: Munich
+    fo: München
+    fr: Munich
+    frr: München
+    fy: München
+    ga: München
+    gd: München
+    gl: Múnic
+    gn: Múnich
+    got: "\U0001033C\U0001033F\U0001033D\U00010339\U00010337\U00010334\U00010339\U0001033D"
+    gsw: Münche
+    gu: મ્યૂનિખ
+    gv: München
+    ha: München
+    hak: München
+    haw: Munike
+    he: מינכן
+    hi: म्यूनिख
+    hr: München
+    hsb: Mnichow
+    ht: Munich
+    hu: München
+    hy: Մյունխեն
+    hyw: Միւնիխ
+    ia: München
+    id: Munich
+    ie: München
+    ilo: Munich
+    io: München
+    is: München
+    it: Monaco di Baviera
+    ja: ミュンヘン
+    jv: München
+    ka: მიუნხენი
+    kaa: Myunxen
+    kab: Myunix
+    kg: Munich
+    kge: München
+    kk: Мюнхен
+    kk-cyrl: Мюнхен
+    kn: ಮ್ಯೂನಿಕ್
+    knc: Munich
+    ko: 뮌헨
+    ko-kp: 뮨헨
+    ksh: München
+    ku: Munîh
+    kw: Munich
+    ky: Мюнхен
+    la: Monacum
+    lad: Munich
+    lb: München
+    lez: Мюнхен
+    lfn: München
+    li: München
+    lij: Monego de Bavèa
+    lld: Minca
+    lmo: Monegh de Baviera
+    lt: Miunchenas
+    ltg: Minhene
+    lv: Minhene
+    lzh: 慕尼黑
+    mdf: Мюнхэн
+    mg: München
+    mhr: Мюнхен
+    mk: Минхен
+    ml: മ്യൂണിച്ച്
+    mn: Мюнхен
+    mni: ꯃꯨꯅꯤꯛ
+    mr: म्युन्शेन
+    mrj: Мӱнхен
+    ms: Munich
+    mt: Munich
+    mul: München
+    my: မြူးနစ်ချ်မြို့
+    myv: Мюнхен ош
+    mzn: مونیخ
+    na: Munich
+    nah: Munich
+    nan: München
+    nap: Monaco 'e Baviera
+    nb: München
+    nds: München
+    nds-nl: München
+    ne: म्यूनिख
+    new: म्युनिख
+    nl: München
+    nn: München
+    nov: München
+    oc: Munic
+    os: Мюнхен
+    pa: ਮਿਊਨਿਖ
+    pam: Munich
+    pap: München
+    pcd: München
+    pdc: München
+    pfl: Minche
+    pl: Monachium
+    pms: Mùnich ëd Baviera
+    pnb: میونخ
+    pt: Munique
+    pt-br: Munique
+    qu: München
+    rm: Minca
+    rmy: Menix
+    ro: München
+    ru: Мюнхен
+    rue: Мнихів
+    rup: München
+    sah: Мүнхэн
+    sc: Monaco de Baviera
+    scn: Mònacu
+    sco: Munich
+    sd: ميونخ
+    se: München
+    sgs: Mionchens
+    sh: Minhen
+    shi: Myunix
+    si: මියුනික්
+    sk: Mníchov
+    sl: München
+    so: München
+    sq: Mynihu
+    sr: Минхен
+    sr-ec: Минхен
+    sr-el: Minhen
+    stq: München
+    su: München
+    sv: München
+    sw: München
+    szl: München
+    ta: மியூனிக்
+    te: మ్యూనిక్
+    tet: Munike
+    tg: Мюнхен
+    tg-cyrl: Мюнхен
+    th: มิวนิก
+    tk: Mýunhen
+    tl: Munich
+    tly: Munhen
+    tok: ma tomo Minsen
+    tr: Münih
+    tt: Мүнхен
+    tum: Munich
+    tw: München
+    udm: Мюнхен
+    ug: Myunxén
+    uk: Мюнхен
+    ur: میونخ
+    uz: Myunxen
+    vec: Monaco de Baviera
+    vep: Münhen
+    vi: München
+    vls: München
+    vo: München
+    war: Munich
+    wuu: 穆尼黑
+    xmf: მიუნხენი
+    yi: מינכן
+    yo: Munich
+    yue: 慕尼黑
+    zh: 慕尼黑
+    zh-cn: 慕尼黑
+    zh-hans: 慕尼黑
+    zh-hant: 慕尼黑
+    zh-hk: 慕尼黑
+    zh-mo: 慕尼黑
+    zh-my: 慕尼黑
+    zh-sg: 慕尼黑
+    zh-tw: 慕尼黑
 ---
-
 # [[München,City]] 
 
 

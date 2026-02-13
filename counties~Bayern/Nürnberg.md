@@ -1,22 +1,249 @@
 ---
 location:
-  - 49.45
-  - 11.07
+- 49.45
+- 11.07
 mapzoom:
-  - 7
-  - 12
+- 7
+- 12
 mapmarker: city
 type: City
 tags:
-  - geo/City
+- geo/City
 SpocWebEntityId: 33003
 isDeleted: false
 confidential: public
 aliases:
-  - Nürnberg
-  - Nuernberg
+- Neurenberch
+- Neurenberg
+- Niamberg
+- Nirnberga
+- Niurnbergas
+- Norimberg
+- Norimberga
+- Norimberk
+- Norimbèrga
+- Norymberga
+- Nuernberg
+- Nuremberg
+- Nuremberga
+- Nurembèrg
+- Nurenberg
+- Nurenbergo
+- Nyrëmberg
+- Nyurnberg
+- Nyurnbérg
+- Núremberg
+- Nürnbarg
+- Nürnberg
+- Nürnberq
+- Νυρεμβέργη
+- Нирнберг
+- Нуьрнберг
+- Нюрнберг
+- Нюрнберг хот
+- Нюрнбэрг
+- Нӳрнберг
+- Նիւրնպերկ
+- Նյուրնբերգ
+- נירנבערג
+- נירנברג
+- نورمبرگ
+- نورنبرج
+- نورنبرغ
+- نورنبرق
+- نورنبرگ
+- نۆریمبێرگ
+- نیورمبرگ
+- नूर्नबर्ग
+- न्युर्नबर्ग
+- নুরেমবার্গ
+- ન્યુરેમ્બર્ગ
+- நியூரம்பெர்க்
+- నురేమ్బెర్గ్
+- ನ್ಯೂರೆಂಬರ್ಗ್
+- ന്യൂറംബർഗ്
+- නුරෙම්බර්ග්
+- เนือร์นแบร์ค
+- ნიურნბერგი
+- ኑረምበርግ
+- ニュルンベルク
+- 紐倫堡
+- 纽伦堡
+- 뉘른베르크
+has_id_wikidata: Q2090
+dv_has_:
+  name_:
+    acm: نورنبرگ
+    af: Neurenberg
+    am: ኑረምበርግ
+    an: Nuremberg
+    ar: نورنبرغ
+    arz: نورنبرج
+    ast: Nürnberg
+    az: Nürnberq
+    azb: نورنبرق
+    ban: Nürnberg
+    bar: Niamberg
+    be: Нюрнберг
+    be-tarask: Нюрнбэрг
+    bg: Нюрнберг
+    bn: নুরেমবার্গ
+    br: Nürnberg
+    bs: Nürnberg
+    ca: Nuremberg
+    ce: Нуьрнберг
+    ceb: Nürnberg
+    ckb: نۆریمبێرگ
+    co: Nürnberg
+    crh: Nürnberg
+    crh-latn: Nürnberg
+    cs: Norimberk
+    cv: Нӳрнберг
+    cy: Nürnberg
+    da: Nürnberg
+    de: Nürnberg
+    de-at: Nürnberg
+    de-ch: Nürnberg
+    diq: Nürnberg
+    dsb: Nürnberg
+    el: Νυρεμβέργη
+    en: Nuremberg
+    en-ca: Nuremberg
+    en-gb: Nuremberg
+    eo: Nurenbergo
+    es: Núremberg
+    et: Nürnberg
+    eu: Nurenberg
+    ext: Nuremberg
+    fa: نورنبرگ
+    fi: Nürnberg
+    fr: Nuremberg
+    frp: Nürnberg
+    frr: Nürnberg
+    fur: Nürnberg
+    fy: Neurenberch
+    ga: Nürnberg
+    gd: Nürnberg
+    gl: Núremberg
+    gsw: Nürnberg
+    gu: ન્યુરેમ્બર્ગ
+    gv: Nürnberg
+    ha: Nuremberg
+    hak: Nürnberg
+    he: נירנברג
+    hi: नूर्नबर्ग
+    hr: Nürnberg
+    hsb: Nürnberg
+    hu: Nürnberg
+    hy: Նյուրնբերգ
+    hyw: Նիւրնպերկ
+    ia: Nürnberg
+    id: Nürnberg
+    ie: Nürnberg
+    io: Nürnberg
+    is: Nürnberg
+    it: Norimberga
+    ja: ニュルンベルク
+    ka: ნიურნბერგი
+    kaa: Nyurnberg
+    kg: Nürnberg
+    kk: Нюрнберг
+    kn: ನ್ಯೂರೆಂಬರ್ಗ್
+    ko: 뉘른베르크
+    ku: Nürnberg
+    ky: Нюрнберг
+    la: Norimberga
+    lb: Nürnberg
+    li: Nürnberg
+    lij: Nürnberg
+    lld: Nuremberg
+    lmo: Norimbèrga
+    lt: Niurnbergas
+    lv: Nirnberga
+    mdf: Нюрнбэрг
+    mg: Nürnberg
+    min: Nürnberg
+    mk: Нирнберг
+    ml: ന്യൂറംബർഗ്
+    mn: Нюрнберг хот
+    mr: न्युर्नबर्ग
+    ms: Nuremberg
+    mt: Nuremberg
+    mul: Nürnberg
+    na: Nuremberg
+    nah: Nürnberg
+    nan: Nürnberg
+    nap: Nürnberg
+    nb: Nürnberg
+    nds: Nürnbarg
+    nds-nl: Nürnberg
+    nl: Neurenberg
+    nn: Nürnberg
+    nrm: Nürnberg
+    oc: Nurembèrg
+    os: Нюрнберг
+    pam: Nuremberg
+    pcd: Nürnberg
+    pl: Norymberga
+    pms: Norimberga
+    pnb: نیورمبرگ
+    pt: Nuremberga
+    pt-br: Nuremberg
+    qu: Nürnberg
+    rm: Nürnberg
+    ro: Nürnberg
+    ru: Нюрнберг
+    sc: Norimberga
+    scn: Nürnberg
+    sco: Nuremberg
+    sd: نورمبرگ
+    sh: Nürnberg
+    si: නුරෙම්බර්ග්
+    sk: Norimberg
+    sl: Nürnberg
+    sq: Nyrëmberg
+    sr: Нирнберг
+    sr-el: Nürnberg
+    stq: Nürnberg
+    sv: Nürnberg
+    sw: Nürnberg
+    szl: Nürnberg
+    ta: நியூரம்பெர்க்
+    te: నురేమ్బెర్గ్
+    tg: Нюрнберг
+    tg-cyrl: Нюрнберг
+    th: เนือร์นแบร์ค
+    tl: Nuremberg
+    tr: Nürnberg
+    tt: Nürnberg
+    tum: Nuremberg
+    tw: Nürnberg
+    ug: Nyurnbérg
+    uk: Нюрнберг
+    ur: نورنبرگ
+    uz: Nürnberg
+    vec: Nürnberg
+    vep: Nürnberg
+    vi: Nürnberg
+    vls: Nürnberg
+    vo: Nürnberg
+    wa: Nürnberg
+    war: Nuremberg
+    wo: Nürnberg
+    wuu: 纽伦堡
+    yi: נירנבערג
+    yue: 紐倫堡
+    zh: 纽伦堡
+    zh-cn: 纽伦堡
+    zh-hans: 纽伦堡
+    zh-hant: 紐倫堡
+    zh-hk: 紐倫堡
+    zh-mo: 紐倫堡
+    zh-my: 纽伦堡
+    zh-sg: 纽伦堡
+    zh-tw: 紐倫堡
+    zu: Nürnberg
 ---
-
 # [[Nürnberg]] 
 
 
