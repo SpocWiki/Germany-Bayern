@@ -1,19 +1,23 @@
 ---
-location: [47.57,10.7] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Füssen
+  - Fuessen
+location:
+  - 47.57
+  - 10.7
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30328
 isDeleted: false
 confidential: public
-
 ---
 
-
+# [[Füssen]] 
 
 #is_a :: [[City]]
 [has_place_longitude::10.7] 
@@ -24,6 +28,7 @@ has_place_province:: [[Bayern]]
 [Population::] 
 [Unknown::] 
 
+## #has_/map  
 
 ```leaflet
 id: Fuessen
@@ -36,7 +41,7 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen|Fuessen]] 
+### #is_/same_as :: [[Füssen|Füssen]] 
 
 ### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ostallgäu/cities~Ostallgäu/Füssen/City/Fuessen.public|Fuessen.public]] 
 
