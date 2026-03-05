@@ -37,8 +37,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Bayreuth~Opernhaus.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Bayreuth~Opernhaus.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Bayreuth~Opernhaus.webp|Bayreuth~Opernhaus.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Bayreuth~Opernhaus.webp|Bayreuth~Opernhaus.webp]] 
 Markgräfliches Opernhaus Bayreuth (2012) 
 
 

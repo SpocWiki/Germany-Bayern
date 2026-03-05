@@ -239,8 +239,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../assets/geo/Europe/Germany/Augsburger_Wassermanagement.webp]] 
-![[../../../../../../../../../assets/geo/Europe/Germany/Augsburger_Wassermanagement.webp]] 
+[[../../../../../../../../../assets/geo/Europe/Germany/Augsburger_Wassermanagement.webp|Augsburger_Wassermanagement.webp]] 
+![[../../../../../../../../../assets/geo/Europe/Germany/Augsburger_Wassermanagement.webp|Augsburger_Wassermanagement.webp]] 
 Augsburger Wassermanagement-System (2019) 
 
 ## #has_/text_of_/abstract 

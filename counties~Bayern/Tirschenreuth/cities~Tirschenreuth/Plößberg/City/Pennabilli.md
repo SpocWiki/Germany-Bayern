@@ -20,7 +20,7 @@ confidential: public
 [has_place_latitude::49.82] 
 [name::Pennabilli] 
 has_place_province::  
-has_place_country:: [[../../../../../Europe~South/Italy]] 
+has_place_country:: [[../../../../../Europe~South/Italy|Italy]] 
 [StateId::] 
 [Population::] 
 [Unknown::] 

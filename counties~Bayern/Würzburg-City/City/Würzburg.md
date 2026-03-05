@@ -39,8 +39,8 @@ maxZoom: 18
 ```
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Würzburger-Residenz.webp]] 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Würzburger-Residenz.webp]] 
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Würzburger-Residenz.webp|Würzburger-Residenz.webp]] 
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Würzburger-Residenz.webp|Würzburger-Residenz.webp]] 
 Residenz Würzburg mit Hofgarten und Residenzplatz (1981 [[Unesco]] Welterbe)
 
 

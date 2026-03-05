@@ -15,82 +15,82 @@ confidential: public
 tags:
 - geo/State
 language used:
-- '[[_Standards/db/East Franconian German]]'
-- '[[_Standards/db/Swabian]]'
-- '[[_Standards/db/Main-Franconian]]'
-- '[[_Standards/db/Bavarian]]'
-- '[[_Standards/db/German]]'
+- '[[_Standards/db/East Franconian German|East Franconian German]]'
+- '[[_Standards/db/Swabian|Swabian]]'
+- '[[_Standards/db/Main-Franconian|Main-Franconian]]'
+- '[[_Standards/db/Bavarian|Bavarian]]'
+- '[[_Standards/db/German|German]]'
 twinned administrative body:
-- '[[_Standards/db/Western Cape]]'
-- '[[_Standards/db/Gauteng]]'
-- '[[_Standards/db/Karnataka]]'
-- '[[_Standards/db/Georgia]]'
-- '[[_Standards/db/Guangdong]]'
-- '[[_Standards/db/São Paulo]]'
-- '[[_Standards/db/Quebec]]'
-- '[[_Standards/db/Shandong]]'
+- '[[_Standards/db/Western Cape|Western Cape]]'
+- '[[_Standards/db/Gauteng|Gauteng]]'
+- '[[_Standards/db/Karnataka|Karnataka]]'
+- '[[_Standards/db/Georgia|Georgia]]'
+- '[[_Standards/db/Guangdong|Guangdong]]'
+- '[[_Standards/db/São Paulo|São Paulo]]'
+- '[[_Standards/db/Quebec|Quebec]]'
+- '[[_Standards/db/Shandong|Shandong]]'
 public holiday:
-- '[[_Standards/db/Epiphany]]'
-- '[[_Standards/db/Feast of Corpus Christi]]'
-- '[[_Standards/db/Reformation Day]]'
-- '[[_Standards/db/Assumption of Mary]]'
-- '[[_Standards/db/Easter Monday]]'
-- '[[_Standards/db/Whit Monday]]'
-- '[[_Standards/db/Second Day of Christmas]]'
-- "[[_Standards/db/All Saints' Day]]"
-- '[[_Standards/db/Christmas]]'
-- '[[_Standards/db/New Year]]'
-- '[[_Standards/db/Good Friday]]'
-- "[[_Standards/db/International Workers' Day]]"
-- '[[_Standards/db/Feast of the Ascension]]'
-follows: '[[_Standards/db/Kingdom of Bavaria]]'
-named after: '[[_Standards/db/Bajuwari]]'
-lowest point: '[[_Standards/db/Kahl am Main]]'
+- '[[_Standards/db/Epiphany|Epiphany]]'
+- '[[_Standards/db/Feast of Corpus Christi|Feast of Corpus Christi]]'
+- '[[_Standards/db/Reformation Day|Reformation Day]]'
+- '[[_Standards/db/Assumption of Mary|Assumption of Mary]]'
+- '[[_Standards/db/Easter Monday|Easter Monday]]'
+- '[[_Standards/db/Whit Monday|Whit Monday]]'
+- '[[_Standards/db/Second Day of Christmas|Second Day of Christmas]]'
+- "[[_Standards/db/All Saints' Day|All Saints' Day]]"
+- '[[_Standards/db/Christmas|Christmas]]'
+- '[[_Standards/db/New Year|New Year]]'
+- '[[_Standards/db/Good Friday|Good Friday]]'
+- "[[_Standards/db/International Workers' Day|International Workers' Day]]"
+- '[[_Standards/db/Feast of the Ascension|Feast of the Ascension]]'
+follows: '[[_Standards/db/Kingdom of Bavaria|Kingdom of Bavaria]]'
+named after: '[[_Standards/db/Bajuwari|Bajuwari]]'
+lowest point: '[[_Standards/db/Kahl am Main|Kahl am Main]]'
 shares border with:
-- '[[_Standards/db/South Bohemian Region]]'
-- '[[_Standards/db/Karlovy Vary Region]]'
-- '[[_Standards/db/Baden-Württemberg]]'
-- '[[_Standards/db/Hesse]]'
-- '[[_Standards/db/Saxony]]'
-- '[[_Standards/db/Thuringia]]'
-- '[[_Standards/db/canton St. Gallen]]'
-- '[[_Standards/db/Vorarlberg]]'
-- '[[_Standards/db/Upper Austria]]'
-- '[[_Standards/db/Tyrol]]'
-- '[[_Standards/db/Salzburg]]'
-- '[[_Standards/db/Plzeň Region]]'
-anthem: '[[_Standards/db/Bayernhymne]]'
-history of topic: '[[_Standards/db/history of Bavaria]]'
+- '[[_Standards/db/South Bohemian Region|South Bohemian Region]]'
+- '[[_Standards/db/Karlovy Vary Region|Karlovy Vary Region]]'
+- '[[_Standards/db/Baden-Württemberg|Baden-Württemberg]]'
+- '[[_Standards/db/Hesse|Hesse]]'
+- '[[_Standards/db/Saxony|Saxony]]'
+- '[[_Standards/db/Thuringia|Thuringia]]'
+- '[[_Standards/db/canton St. Gallen|canton St. Gallen]]'
+- '[[_Standards/db/Vorarlberg|Vorarlberg]]'
+- '[[_Standards/db/Upper Austria|Upper Austria]]'
+- '[[_Standards/db/Tyrol|Tyrol]]'
+- '[[_Standards/db/Salzburg|Salzburg]]'
+- '[[_Standards/db/Plzeň Region|Plzeň Region]]'
+anthem: '[[_Standards/db/Bayernhymne|Bayernhymne]]'
+history of topic: '[[_Standards/db/history of Bavaria|history of Bavaria]]'
 official language:
-- '[[_Standards/db/Standard High German]]'
-- '[[_Standards/db/Bavarian]]'
+- '[[_Standards/db/Standard High German|Standard High German]]'
+- '[[_Standards/db/Bavarian|Bavarian]]'
 described by source:
-- '[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary]]'
-- '[[_Standards/db/Encyclopædia Britannica 11th edition]]'
-- '[[_Standards/db/The Nuttall Encyclopædia]]'
-- '[[_Standards/db/Sytin Military Encyclopedia]]'
-- '[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron]]'
-- '[[_Standards/db/Granat Encyclopedic Dictionary]]'
-- '[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary]]'
-- '[[_Standards/db/Orthodox Theological Encyclopedia]]'
-- '[[_Standards/db/Vlastenský slovník historický]]'
-legislative body: '[[_Standards/db/Landtag of Bavaria]]'
-coat of arms: '[[_Standards/db/coat of arms of Bavaria]]'
-flag: '[[_Standards/db/flag of Bavaria]]'
-executive body: '[[_Standards/db/Government of Bavaria]]'
-highest judicial authority: '[[_Standards/db/Bavarian Constitutional Court]]'
-archives at: '[[_Standards/db/Bavarian Hauptstaatsarchiv]]'
-instance of: '[[_Standards/db/federated state of Germany]]'
-basic form of government: '[[_Standards/db/parliamentary republic]]'
-topic's main Wikimedia portal: '[[_Standards/db/Portal:Bavaria]]'
-office held by head of government: '[[_Standards/db/Minister-President of Bavaria]]'
+- '[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary|Brockhaus and Efron Encyclopedic Dictionary]]'
+- '[[_Standards/db/Encyclopædia Britannica 11th edition|Encyclopædia Britannica 11th edition]]'
+- '[[_Standards/db/The Nuttall Encyclopædia|The Nuttall Encyclopædia]]'
+- '[[_Standards/db/Sytin Military Encyclopedia|Sytin Military Encyclopedia]]'
+- '[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron|Jewish Encyclopedia of Brockhaus and Efron]]'
+- '[[_Standards/db/Granat Encyclopedic Dictionary|Granat Encyclopedic Dictionary]]'
+- '[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary|Small Brockhaus and Efron Encyclopedic Dictionary]]'
+- '[[_Standards/db/Orthodox Theological Encyclopedia|Orthodox Theological Encyclopedia]]'
+- '[[_Standards/db/Vlastenský slovník historický|Vlastenský slovník historický]]'
+legislative body: '[[_Standards/db/Landtag of Bavaria|Landtag of Bavaria]]'
+coat of arms: '[[_Standards/db/coat of arms of Bavaria|coat of arms of Bavaria]]'
+flag: '[[_Standards/db/flag of Bavaria|flag of Bavaria]]'
+executive body: '[[_Standards/db/Government of Bavaria|Government of Bavaria]]'
+highest judicial authority: '[[_Standards/db/Bavarian Constitutional Court|Bavarian Constitutional Court]]'
+archives at: '[[_Standards/db/Bavarian Hauptstaatsarchiv|Bavarian Hauptstaatsarchiv]]'
+instance of: '[[_Standards/db/federated state of Germany|federated state of Germany]]'
+basic form of government: '[[_Standards/db/parliamentary republic|parliamentary republic]]'
+topic's main Wikimedia portal: '[[_Standards/db/Portal:Bavaria|Portal:Bavaria]]'
+office held by head of government: '[[_Standards/db/Minister-President of Bavaria|Minister-President of Bavaria]]'
 coordinates of southernmost point: Point(10.17833 47.2701)
-top-level Internet domain: '[[_Standards/db/.bayern]]'
+top-level Internet domain: '[[_Standards/db/.bayern|.bayern]]'
 Image Archive, Herder Institute: Q980
-open data portal: '[[_Standards/db/open bydata]]'
-economy of topic: '[[_Standards/db/economy of Bavaria]]'
-different from: '[[_Standards/db/Q108285653]]'
-award received: '[[_Standards/db/BigBrotherAwards]]'
+open data portal: '[[_Standards/db/open bydata|open bydata]]'
+economy of topic: '[[_Standards/db/economy of Bavaria|economy of Bavaria]]'
+different from: '[[_Standards/db/Q108285653|Q108285653]]'
+award received: '[[_Standards/db/BigBrotherAwards|BigBrotherAwards]]'
 U.S. National Archives Identifier: 10044973
 geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
 page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg
@@ -154,29 +154,29 @@ web feed URL:
 - https://www.bayern.de/rss/newsletter.php
 - https://www.bayern.de/rss/pm_alle.php
 coordinates of westernmost point: Point(8.97627 50.05033)
-patron saint: '[[_Standards/db/Virgin Mary]]'
-capital: '[[_Standards/db/Munich]]'
-highest point: '[[_Standards/db/Zugspitze]]'
+patron saint: '[[_Standards/db/Virgin Mary|Virgin Mary]]'
+capital: '[[_Standards/db/Munich|Munich]]'
+highest point: '[[_Standards/db/Zugspitze|Zugspitze]]'
 contains the administrative territorial entity:
-- '[[_Standards/db/Lower Franconia]]'
-- '[[_Standards/db/Middle Franconia]]'
-- '[[_Standards/db/Upper Franconia]]'
-- '[[_Standards/db/Upper Palatinate]]'
-- '[[_Standards/db/Lower Bavaria]]'
-- '[[_Standards/db/Swabia]]'
-- '[[_Standards/db/Upper Bavaria]]'
-located in time zone: '[[_Standards/db/Central European Time]]'
-continent: '[[_Standards/db/Europe]]'
-located in the administrative territorial entity: '[[_Standards/db/Germany]]'
-country: '[[_Standards/db/Germany]]'
+- '[[_Standards/db/Lower Franconia|Lower Franconia]]'
+- '[[_Standards/db/Middle Franconia|Middle Franconia]]'
+- '[[_Standards/db/Upper Franconia|Upper Franconia]]'
+- '[[_Standards/db/Upper Palatinate|Upper Palatinate]]'
+- '[[_Standards/db/Lower Bavaria|Lower Bavaria]]'
+- '[[_Standards/db/Swabia|Swabia]]'
+- '[[_Standards/db/Upper Bavaria|Upper Bavaria]]'
+located in time zone: '[[_Standards/db/Central European Time|Central European Time]]'
+continent: '[[_Standards/db/Europe|Europe]]'
+located in the administrative territorial entity: '[[_Standards/db/Germany|Germany]]'
+country: '[[_Standards/db/Germany|Germany]]'
 water as percent of area: 2
 unemployment rate: 3
 compulsory education (minimum age): 6
 compulsory education (maximum age): 18
 social media followers: 24100
-part of: '[[_Standards/db/Southern Germany]]'
+part of: '[[_Standards/db/Southern Germany|Southern Germany]]'
 elevation above sea level: 503
-head of government: '[[_Standards/db/Markus Söder]]'
+head of government: '[[_Standards/db/Markus Söder|Markus Söder]]'
 German regional key: 09
 OmegaWiki Defined Meaning: 7138
 area: 70551
@@ -570,7 +570,7 @@ markerFolder: ./
  
 
 has_place_country:: [[Germany]]  
-Capital ::[[counties~Bayern/München,County/City/München,City]]]] 
+Capital ::[[counties~Bayern/München,County/City/München,City|München,City]]]] 
 
 
 

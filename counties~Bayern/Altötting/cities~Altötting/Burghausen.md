@@ -35,8 +35,8 @@ maxZoom: 18
 
 
 
-[[../../../../../../../../../../../assets/geo/Europe/Germany/Bayern~Burghausen.webp]]
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Bayern~Burghausen.webp]]
+[[../../../../../../../../../../../assets/geo/Europe/Germany/Bayern~Burghausen.webp|Bayern~Burghausen.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Bayern~Burghausen.webp|Bayern~Burghausen.webp]]
 Bemerkenswert in Burghausen an der Salzach sind die für das Inn-Salzach-Gebiet typischen Bürgerhäuser 
 mit ihren über die Dachhöhe gezogenen Giebelmauern und reicher Fassadenzier. 
 Zusammen mit einer Besichtigung der weltlängsten Burg über der denkmalgeschützten Altstadt 

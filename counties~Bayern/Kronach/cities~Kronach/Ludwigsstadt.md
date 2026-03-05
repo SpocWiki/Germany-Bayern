@@ -20,7 +20,7 @@ confidential: public
 [has_place_latitude::50.48] 
 [name::Ludwigsstadt] 
 has_place_country:: [[Germany]]  
-has_place_province:: [[../../Thüringen]] ] 
+has_place_province:: [[../../Thüringen|Thüringen]] ] 
 [Population::] 
 [Unknown::] 
 
