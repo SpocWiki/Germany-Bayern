@@ -260,7 +260,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[WD~Aschaffenburg,3942]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Aschaffenburg,3942]] 
 
 
 ## #has_/map  
