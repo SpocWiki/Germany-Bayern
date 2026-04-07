@@ -226,7 +226,7 @@ has_place_country:: [[Germany]]
 has_place_province:: [[Bayern]]  
 [Population::] 
 [Unknown::] 
-#is_/same_as :: [[_Standards/WikiData/WD~Augsburg,2749]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Augsburg,2749|WD~Augsburg,2749]] 
 
 ## #has_/map 
 

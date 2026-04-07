@@ -294,7 +294,7 @@ dv_has_:
 
 # [[Ludwig_Maximilian_University_of_Munich]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Ludwig_Maximilian_University_of_Munich,55044]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Ludwig_Maximilian_University_of_Munich,55044|WD~Ludwig_Maximilian_University_of_Munich,55044]] 
 
 ## #has_/text_of_/abstract 
 

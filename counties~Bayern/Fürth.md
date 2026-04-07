@@ -408,7 +408,7 @@ dv_has_:
 
 # [[Fürth]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fürth,3075]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Fürth,3075|WD~Fürth,3075]] 
 
 
 ## #has_/text_of_/abstract 

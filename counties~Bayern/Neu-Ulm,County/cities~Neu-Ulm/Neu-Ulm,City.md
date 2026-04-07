@@ -229,7 +229,7 @@ dv_has_:
 
 # [[Neu-Ulm,City]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Neu-Ulm,4120]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Neu-Ulm,4120|WD~Neu-Ulm,4120]]  
 
 ## #has_/text_of_/abstract 
 
