@@ -40,7 +40,7 @@ maxZoom: 18
 Die Volkacher Altstadt ist fränkische Geschichte auf engstem Raum. 
 Über 1100 Jahre reicht die Geschichte Volkachs zurück in die Vergangenheit. 
 Der Besucher stößt auf die mittelalterliche Stadtmauer, eine gotische Pfarrkirche, 
-das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock.
+das prächtige Renaissance-Rathaus und das Schelfenhaus aus dem Barock. 
 
 
 ## Confidential Links & Embeds: 

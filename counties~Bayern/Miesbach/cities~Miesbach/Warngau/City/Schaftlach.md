@@ -31,7 +31,7 @@ coordinates: [[Schaftlach]]
 markerFile: [[Schaftlach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

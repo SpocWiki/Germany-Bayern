@@ -31,7 +31,7 @@ coordinates: [[Gauting]]
 markerFile: [[Gauting]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

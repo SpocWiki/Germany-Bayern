@@ -31,7 +31,7 @@ coordinates: [[Thuengersheim]]
 markerFile: [[Thuengersheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

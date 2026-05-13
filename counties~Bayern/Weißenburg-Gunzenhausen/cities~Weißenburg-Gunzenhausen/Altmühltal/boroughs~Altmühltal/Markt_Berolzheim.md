@@ -31,7 +31,7 @@ coordinates: [[Berolsheim]]
 markerFile: [[Berolsheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

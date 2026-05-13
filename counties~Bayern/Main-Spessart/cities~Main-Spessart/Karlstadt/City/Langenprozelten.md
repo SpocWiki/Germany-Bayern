@@ -31,7 +31,7 @@ coordinates: [[Langenprozelten]]
 markerFile: [[Langenprozelten]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Wunsiedel]]
 markerFile: [[Wunsiedel]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

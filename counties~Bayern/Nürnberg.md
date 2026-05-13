@@ -287,22 +287,22 @@ maxZoom: 18
 > 
 > Nuremberg Castle, its medieval old town and the city's walls, with their many towers, are notable attractions. Staatstheater Nürnberg is one of the five Bavarian state theatres, showing operas, operettas, musicals, and ballets (main venue: Nuremberg Opera House), plays (main venue: Schauspielhaus Nürnberg), as well as concerts (main venue: Meistersingerhalle). Its orchestra, the Staatsphilharmonie Nürnberg, is Bavaria's second-largest opera orchestra after the Bavarian State Opera's Bavarian State Orchestra in Munich. Nuremberg is the birthplace of Albrecht Dürer and Johann Pachelbel. 1. FC Nürnberg is the most famous football club of the city and one of the most successful football clubs in Germany. Nuremberg was one of the host cities of the 2006 FIFA World Cup.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Nuremberg)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Nuremberg) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Nürnberg|Nuernberg]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg|Nürnberg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.public|Nuernberg.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.public|Nürnberg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.internal|Nuernberg.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.internal|Nürnberg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.protect|Nuernberg.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.protect|Nürnberg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.private|Nuernberg.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.private|Nürnberg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.personal|Nuernberg.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.personal|Nürnberg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg/City/Nuernberg.secret|Nuernberg.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Nürnberg.secret|Nürnberg.secret]] 
 

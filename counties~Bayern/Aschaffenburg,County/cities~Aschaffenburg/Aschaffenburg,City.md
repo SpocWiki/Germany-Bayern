@@ -285,19 +285,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aschaffenburg) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Aschaffenburg,City|Aschaffenburg-City]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City|Aschaffenburg,City]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.public|Aschaffenburg-City.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.public|Aschaffenburg,City.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.internal|Aschaffenburg-City.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.internal|Aschaffenburg,City.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.protect|Aschaffenburg-City.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.protect|Aschaffenburg,City.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.private|Aschaffenburg-City.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.private|Aschaffenburg,City.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.personal|Aschaffenburg-City.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.personal|Aschaffenburg,City.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg-City.secret|Aschaffenburg-City.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City.secret|Aschaffenburg,City.secret]] 
 

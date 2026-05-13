@@ -31,22 +31,22 @@ coordinates: [[Westerringen]]
 markerFile: [[Westerringen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Westerringen|Westerringen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen|Westerringen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.public|Westerringen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.public|Westerringen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.internal|Westerringen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.internal|Westerringen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.protect|Westerringen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.protect|Westerringen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.private|Westerringen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.private|Westerringen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.personal|Westerringen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.personal|Westerringen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.secret|Westerringen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Langerringen/boroughs~Langerringen/Westerringen.secret|Westerringen.secret]] 
 

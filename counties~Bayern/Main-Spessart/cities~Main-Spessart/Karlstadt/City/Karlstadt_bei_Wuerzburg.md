@@ -31,7 +31,7 @@ coordinates: [[Karlstadt_bei_Wuerzburg]]
 markerFile: [[Karlstadt_bei_Wuerzburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

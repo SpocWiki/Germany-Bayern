@@ -23,8 +23,7 @@ markerFolder: ./cities~Weißenburg-Gunzenhausen////
 
 ```ccard
 type: folder_brief_live
-```
- 
+``` 
 
 
 ## Confidential Links & Embeds: 

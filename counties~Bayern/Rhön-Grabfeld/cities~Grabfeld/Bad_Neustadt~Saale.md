@@ -31,7 +31,7 @@ coordinates: [[Neustadt~Saale]]
 markerFile: [[Neustadt~Saale]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

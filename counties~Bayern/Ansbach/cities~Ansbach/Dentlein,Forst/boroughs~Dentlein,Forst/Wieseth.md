@@ -1,17 +1,5 @@
 
-## Confidential Links & Embeds: 
-
-### [Wieseth](../../../../../../../../../../../../../_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth) 
-
-### [Wieseth.internal](../../../../../../../../../../../../../_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth.internal) 
-
-### [Wieseth.protect](../../../../../../../../../../../../../_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth.protect) 
-
-### [Wieseth.private](../../../../../../../../../../../../../_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth.private) 
-
-### [Wieseth.personal](../../../../../../../../../../../../../_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth.personal) 
-
-### [Wieseth.secret](../../../../../../../../../../../../../_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Ansbach/cities~Ansbach/Dentlein,Forst/boroughs~Dentlein,Forst/Wieseth.secret) 
+ 
 
 
 ## Confidential Links & Embeds: 

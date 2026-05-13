@@ -31,7 +31,7 @@ coordinates: [[Fridolfing]]
 markerFile: [[Fridolfing]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

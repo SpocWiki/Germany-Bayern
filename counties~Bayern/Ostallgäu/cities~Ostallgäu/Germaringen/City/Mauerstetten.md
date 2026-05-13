@@ -31,7 +31,7 @@ coordinates: [[Mauerstetten]]
 markerFile: [[Mauerstetten]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

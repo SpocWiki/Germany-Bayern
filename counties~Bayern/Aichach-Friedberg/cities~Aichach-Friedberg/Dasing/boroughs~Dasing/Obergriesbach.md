@@ -31,7 +31,7 @@ coordinates: [[Obergriesbach]]
 markerFile: [[Obergriesbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

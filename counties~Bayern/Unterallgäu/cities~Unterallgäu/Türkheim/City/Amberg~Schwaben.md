@@ -31,7 +31,7 @@ coordinates: [[Amberg~Schwaben]]
 markerFile: [[Amberg~Schwaben]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Albertseich]]
 markerFile: [[Albertseich]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

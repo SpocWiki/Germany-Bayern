@@ -31,7 +31,7 @@ coordinates: [[Bad_Woerishofen]]
 markerFile: [[Bad_Woerishofen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

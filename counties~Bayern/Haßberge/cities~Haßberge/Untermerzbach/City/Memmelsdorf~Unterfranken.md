@@ -31,7 +31,7 @@ coordinates: [[Memmelsdorf~Unterfranken]]
 markerFile: [[Memmelsdorf~Unterfranken]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

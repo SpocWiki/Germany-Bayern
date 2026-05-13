@@ -31,7 +31,7 @@ coordinates: [[Altenmarkt]]
 markerFile: [[Altenmarkt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -426,5 +426,22 @@ dv_has_:
 > Fürth celebrated its thousand-year anniversary in 2007, 
 > its first mention being on 1 November 1007.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/F%C3%BCrth)  
+> [Wikipedia](https://en.wikipedia.org/wiki/F%C3%BCrth) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth|Fürth]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.public|Fürth.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.internal|Fürth.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.protect|Fürth.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.private|Fürth.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.personal|Fürth.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Fürth.secret|Fürth.secret]] 
 

@@ -31,7 +31,7 @@ coordinates: [[Benediktbeuren]]
 markerFile: [[Benediktbeuren]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

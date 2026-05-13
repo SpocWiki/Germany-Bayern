@@ -31,7 +31,7 @@ coordinates: [[Kronach]]
 markerFile: [[Kronach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

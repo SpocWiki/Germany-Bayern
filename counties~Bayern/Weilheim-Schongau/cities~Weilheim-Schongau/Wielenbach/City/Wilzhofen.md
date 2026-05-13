@@ -31,7 +31,7 @@ coordinates: [[Wilzhofen]]
 markerFile: [[Wilzhofen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

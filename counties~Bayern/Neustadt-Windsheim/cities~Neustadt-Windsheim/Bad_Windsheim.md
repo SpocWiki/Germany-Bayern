@@ -31,7 +31,7 @@ coordinates: [[Bad_Windsheim]]
 markerFile: [[Bad_Windsheim]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

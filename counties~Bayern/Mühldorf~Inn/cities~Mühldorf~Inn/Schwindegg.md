@@ -31,7 +31,7 @@ coordinates: [[Schwindegg]]
 markerFile: [[Schwindegg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Mühlhausen~Oberfranken]]
 markerFile: [[Mühlhausen~Oberfranken]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

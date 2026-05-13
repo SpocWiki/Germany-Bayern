@@ -31,7 +31,7 @@ coordinates: [[Oberammergau]]
 markerFile: [[Oberammergau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

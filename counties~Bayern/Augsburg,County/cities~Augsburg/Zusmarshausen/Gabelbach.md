@@ -31,22 +31,22 @@ coordinates: [[Gabelbach]]
 markerFile: [[Gabelbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Gabelbach|Gabelbach]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach|Gabelbach]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.public|Gabelbach.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.public|Gabelbach.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.internal|Gabelbach.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.internal|Gabelbach.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.protect|Gabelbach.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.protect|Gabelbach.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.private|Gabelbach.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.private|Gabelbach.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.personal|Gabelbach.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.personal|Gabelbach.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg/cities~Augsburg/Zusmarshausen/Gabelbach.secret|Gabelbach.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Zusmarshausen/Gabelbach.secret|Gabelbach.secret]] 
 

@@ -31,7 +31,7 @@ coordinates: [[Wasserburg~Inn]]
 markerFile: [[Wasserburg~Inn]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

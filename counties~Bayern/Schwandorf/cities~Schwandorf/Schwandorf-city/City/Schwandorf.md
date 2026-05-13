@@ -31,7 +31,7 @@ coordinates: [[Schwandorf]]
 markerFile: [[Schwandorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

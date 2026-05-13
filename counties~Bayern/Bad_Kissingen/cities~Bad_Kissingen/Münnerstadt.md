@@ -31,7 +31,7 @@ coordinates: [[Münnerstadt]]
 markerFile: [[Münnerstadt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

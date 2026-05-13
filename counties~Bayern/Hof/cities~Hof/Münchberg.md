@@ -31,7 +31,7 @@ coordinates: [[Münchberg]]
 markerFile: [[Münchberg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

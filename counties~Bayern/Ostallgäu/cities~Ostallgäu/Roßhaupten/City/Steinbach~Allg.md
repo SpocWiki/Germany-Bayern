@@ -31,7 +31,7 @@ coordinates: [[Steinbach~Allg]]
 markerFile: [[Steinbach~Allg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

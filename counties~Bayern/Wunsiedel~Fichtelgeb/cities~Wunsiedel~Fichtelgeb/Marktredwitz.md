@@ -31,7 +31,7 @@ coordinates: [[Marktredwitz]]
 markerFile: [[Marktredwitz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

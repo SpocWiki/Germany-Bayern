@@ -31,7 +31,7 @@ coordinates: [[Alter_Berg]]
 markerFile: [[Alter_Berg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

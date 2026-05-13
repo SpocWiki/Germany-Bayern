@@ -31,7 +31,7 @@ coordinates: [[Bad_Aibling]]
 markerFile: [[Bad_Aibling]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

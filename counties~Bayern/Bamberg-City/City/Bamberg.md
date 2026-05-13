@@ -40,7 +40,7 @@ Sehenswert ist das Alte Rathaus von Bamberg (Bayern). Das Wahrzeichen der Stadt 
 Im Zweiten Weltkrieg wurde die Stadt kaum zerstört und hat deshalb eine der größten und besterhaltenen Altstädte. 
 Bereits 1993 wurde sie von der Unesco als Weltkulturerbe ausgezeichnet.
 
-![[../../../../../../../../../../../assets/geo/Europe/Germany/Bamberg.webp|Bamberg.webp]]
+![[../../../../../../../../../../../assets/geo/Europe/Germany/Bamberg.webp|Bamberg.webp]] 
 
 
 ## Confidential Links & Embeds: 

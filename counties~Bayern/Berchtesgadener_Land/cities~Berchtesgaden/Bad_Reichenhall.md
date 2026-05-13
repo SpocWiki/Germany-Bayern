@@ -31,7 +31,7 @@ coordinates: [[Bad_Reichenhall]]
 markerFile: [[Bad_Reichenhall]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

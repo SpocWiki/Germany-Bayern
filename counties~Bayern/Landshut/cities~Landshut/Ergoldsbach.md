@@ -31,7 +31,7 @@ coordinates: [[Ergoldsbach]]
 markerFile: [[Ergoldsbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

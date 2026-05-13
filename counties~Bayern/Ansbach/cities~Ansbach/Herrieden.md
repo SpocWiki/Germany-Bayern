@@ -31,7 +31,7 @@ coordinates: [[Herrieden]]
 markerFile: [[Herrieden]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

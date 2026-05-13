@@ -31,7 +31,7 @@ coordinates: [[Penting]]
 markerFile: [[Penting]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,22 +31,22 @@ coordinates: [[Voehringen]]
 markerFile: [[Voehringen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Voehringen|Voehringen]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen|Voehringen]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.public|Voehringen.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.public|Voehringen.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.internal|Voehringen.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.internal|Voehringen.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.protect|Voehringen.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.protect|Voehringen.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.private|Voehringen.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.private|Voehringen.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.personal|Voehringen.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.personal|Voehringen.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Vöhringen/City/Voehringen.secret|Voehringen.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Vöhringen/City/Voehringen.secret|Voehringen.secret]] 
 

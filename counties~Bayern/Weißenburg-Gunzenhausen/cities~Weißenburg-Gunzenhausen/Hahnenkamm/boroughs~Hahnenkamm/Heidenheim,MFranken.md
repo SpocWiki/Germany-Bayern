@@ -36,7 +36,7 @@ defaultZoom: 11
 maxZoom: 18
 geojsonFolder: ./Heidenheim,MFranken/ 
 markerFolder: ./Heidenheim,MFranken/ 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

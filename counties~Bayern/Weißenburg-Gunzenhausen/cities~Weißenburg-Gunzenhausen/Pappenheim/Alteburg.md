@@ -31,7 +31,7 @@ coordinates: [[Alteburg]]
 markerFile: [[Alteburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

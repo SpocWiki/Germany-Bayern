@@ -43,7 +43,7 @@ maxZoom: 18
 ![[../../../../../../../../../../../assets/geo/Europe/Germany/Nördlingen-Altstadt.webp|Nördlingen-Altstadt.webp]] 
 Die bayerische Stadt Nördlingen liegt an der "Romantischen Straße" und besitzt Hunderte historische Bauwerke. 
 Der mittelalterliche Stadtkern wird von einer komplett erhaltenen und rundum begehbaren Stadtmauer umschlossen. 
-Überall finden sich prachtvolle Patrizier- und Bürgerhäuser, Kirchen, Türme und Tore.
+Überall finden sich prachtvolle Patrizier- und Bürgerhäuser, Kirchen, Türme und Tore. 
 
 
 ## Confidential Links & Embeds: 

@@ -52,7 +52,7 @@ Altstadt von Regensburg mit Stadtamhof (2006)
 
 Viele Bauwerke zeugen von der Geschichte der Stadt als eines der Zentren des Heiligen Römischen Reiches, 
 darunter die Geschlechtertürme, die großen romanischen und gotischen Kirchenbauten 
-sowie die Alte Kapelle und das spätgotische Rathaus.
+sowie die Alte Kapelle und das spätgotische Rathaus. 
 
 
 ## Confidential Links & Embeds: 

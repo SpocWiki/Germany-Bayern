@@ -42,7 +42,7 @@ maxZoom: 18
 Zu den schönsten Sehenswürdigkeiten in Dinkelsbühl (Bayern) gehört der Weinmarkt 
 im Herzen der historischen Altstadt mit den zahlreichen Fachwerkhäusern. 
 In der Stadt an der Grenze zu Baden-Württemberg 
-vermischen sich mittelfränkische, schwäbische und altbairische Mundarten.
+vermischen sich mittelfränkische, schwäbische und altbairische Mundarten. 
 
 
 ## Confidential Links & Embeds: 

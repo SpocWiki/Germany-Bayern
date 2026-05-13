@@ -31,7 +31,7 @@ coordinates: [[Metten~Niederbayern]]
 markerFile: [[Metten~Niederbayern]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

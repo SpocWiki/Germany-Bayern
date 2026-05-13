@@ -31,7 +31,7 @@ coordinates: [[Passau]]
 markerFile: [[Passau]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

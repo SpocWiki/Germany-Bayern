@@ -31,7 +31,7 @@ coordinates: [[Jandelsbrunn]]
 markerFile: [[Jandelsbrunn]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

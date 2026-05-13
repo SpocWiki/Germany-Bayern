@@ -31,7 +31,7 @@ coordinates: [[Pirach]]
 markerFile: [[Pirach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

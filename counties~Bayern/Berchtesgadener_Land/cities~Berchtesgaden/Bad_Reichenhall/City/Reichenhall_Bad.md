@@ -32,7 +32,7 @@ coordinates: [[Reichenhall_Bad]]
 markerFile: [[Reichenhall_Bad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

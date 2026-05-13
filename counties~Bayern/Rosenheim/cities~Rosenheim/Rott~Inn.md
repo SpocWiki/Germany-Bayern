@@ -31,7 +31,7 @@ coordinates: [[Rott~Inn]]
 markerFile: [[Rott~Inn]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,22 +31,22 @@ coordinates: [[Weissenhorn]]
 markerFile: [[Weissenhorn]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Weissenhorn|Weissenhorn]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn|Weissenhorn]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.public|Weissenhorn.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.public|Weissenhorn.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.internal|Weissenhorn.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.internal|Weissenhorn.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.protect|Weissenhorn.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.protect|Weissenhorn.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.private|Weissenhorn.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.private|Weissenhorn.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.personal|Weissenhorn.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.personal|Weissenhorn.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.secret|Weissenhorn.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Weißenhorn/City/Weissenhorn.secret|Weissenhorn.secret]] 
 

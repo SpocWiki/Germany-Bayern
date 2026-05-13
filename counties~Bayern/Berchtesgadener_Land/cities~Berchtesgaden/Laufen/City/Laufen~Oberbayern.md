@@ -31,7 +31,7 @@ coordinates: [[Laufen~Oberbayern]]
 markerFile: [[Laufen~Oberbayern]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

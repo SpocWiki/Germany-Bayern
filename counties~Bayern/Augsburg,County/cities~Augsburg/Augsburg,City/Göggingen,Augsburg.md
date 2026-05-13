@@ -39,22 +39,22 @@ coordinates: [[Göggingen,Augsburg]]
 markerFile: [[Göggingen,Augsburg]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Göggingen,Augsburg|Göggingen,Augsburg]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg|Göggingen,Augsburg]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.public|Göggingen,Augsburg.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.public|Göggingen,Augsburg.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.internal|Göggingen,Augsburg.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.internal|Göggingen,Augsburg.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.protect|Göggingen,Augsburg.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.protect|Göggingen,Augsburg.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.private|Göggingen,Augsburg.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.private|Göggingen,Augsburg.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.personal|Göggingen,Augsburg.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.personal|Göggingen,Augsburg.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg-City/Göggingen,Augsburg.secret|Göggingen,Augsburg.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City/Göggingen,Augsburg.secret|Göggingen,Augsburg.secret]] 
 

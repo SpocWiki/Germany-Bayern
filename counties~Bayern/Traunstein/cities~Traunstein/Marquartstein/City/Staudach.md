@@ -31,7 +31,7 @@ coordinates: [[Staudach]]
 markerFile: [[Staudach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

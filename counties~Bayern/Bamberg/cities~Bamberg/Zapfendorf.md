@@ -31,7 +31,7 @@ coordinates: [[Zapfendorf]]
 markerFile: [[Zapfendorf]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

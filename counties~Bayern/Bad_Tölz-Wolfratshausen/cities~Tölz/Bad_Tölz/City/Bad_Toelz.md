@@ -31,7 +31,7 @@ coordinates: [[Bad_Toelz]]
 markerFile: [[Bad_Toelz]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

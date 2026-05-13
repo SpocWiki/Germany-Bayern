@@ -31,7 +31,7 @@ coordinates: [[Memmingen]]
 markerFile: [[Memmingen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

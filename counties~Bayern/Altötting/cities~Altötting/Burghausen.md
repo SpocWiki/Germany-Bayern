@@ -40,7 +40,7 @@ maxZoom: 18
 Bemerkenswert in Burghausen an der Salzach sind die für das Inn-Salzach-Gebiet typischen Bürgerhäuser 
 mit ihren über die Dachhöhe gezogenen Giebelmauern und reicher Fassadenzier. 
 Zusammen mit einer Besichtigung der weltlängsten Burg über der denkmalgeschützten Altstadt 
-lohnt sich ein Rundgang durch die bayerische Kleinstadt an der Grenze zu Österreich.
+lohnt sich ein Rundgang durch die bayerische Kleinstadt an der Grenze zu Österreich. 
 
 
 ## Confidential Links & Embeds: 

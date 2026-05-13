@@ -31,7 +31,7 @@ coordinates: [[Amorbach]]
 markerFile: [[Amorbach]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -31,7 +31,7 @@ coordinates: [[Langenbruck]]
 markerFile: [[Langenbruck]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

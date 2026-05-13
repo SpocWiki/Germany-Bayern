@@ -31,7 +31,7 @@ coordinates: [[Dingolfing]]
 markerFile: [[Dingolfing]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

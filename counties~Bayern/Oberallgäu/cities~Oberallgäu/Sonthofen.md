@@ -31,7 +31,7 @@ coordinates: [[Sonthofen]]
 markerFile: [[Sonthofen]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

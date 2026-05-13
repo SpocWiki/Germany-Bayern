@@ -31,7 +31,7 @@ coordinates: [[Seeshaupt]]
 markerFile: [[Seeshaupt]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

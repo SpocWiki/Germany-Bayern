@@ -33,7 +33,7 @@ coordinates: [[Kissingen_Bad]]
 markerFile: [[Kissingen_Bad]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

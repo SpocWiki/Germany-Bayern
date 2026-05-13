@@ -241,6 +241,22 @@ dv_has_:
 > 
 > The population is 58,978 (31 December 2019).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Neu-Ulm)  
+> [Wikipedia](https://en.wikipedia.org/wiki/Neu-Ulm) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City|Neu-Ulm,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.public|Neu-Ulm,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.internal|Neu-Ulm,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.protect|Neu-Ulm,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.private|Neu-Ulm,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.personal|Neu-Ulm,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City.secret|Neu-Ulm,City.secret]] 
 
