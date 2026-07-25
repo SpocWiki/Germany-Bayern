@@ -1,408 +1,4 @@
 ---
-has_id_wikidata: Q980
-location:
-- 48.8642
-- 11.3382
-type: State
-ISO3166-2: DE-BY
-SpocWebEntityId: 36016
-license: CC BY-SA 4.0
-source: https://datahub.io/core/country-codes
-isDeleted: false
-isReadOnly: false
-draft: false
-confidential: public
-tags:
-- geo/State
-language used:
-- '[[_Standards/db/East Franconian German|East Franconian German]]'
-- '[[_Standards/db/Swabian|Swabian]]'
-- '[[_Standards/db/Main-Franconian|Main-Franconian]]'
-- '[[_Standards/db/Bavarian|Bavarian]]'
-- '[[_Standards/db/German|German]]'
-twinned administrative body:
-- '[[_Standards/db/Western Cape|Western Cape]]'
-- '[[_Standards/db/Gauteng|Gauteng]]'
-- '[[_Standards/db/Karnataka|Karnataka]]'
-- '[[_Standards/db/Georgia|Georgia]]'
-- '[[_Standards/db/Guangdong|Guangdong]]'
-- '[[_Standards/db/São Paulo|São Paulo]]'
-- '[[_Standards/db/Quebec|Quebec]]'
-- '[[_Standards/db/Shandong|Shandong]]'
-public holiday:
-- '[[_Standards/db/Epiphany|Epiphany]]'
-- '[[_Standards/db/Feast of Corpus Christi|Feast of Corpus Christi]]'
-- '[[_Standards/db/Reformation Day|Reformation Day]]'
-- '[[_Standards/db/Assumption of Mary|Assumption of Mary]]'
-- '[[_Standards/db/Easter Monday|Easter Monday]]'
-- '[[_Standards/db/Whit Monday|Whit Monday]]'
-- '[[_Standards/db/Second Day of Christmas|Second Day of Christmas]]'
-- "[[_Standards/db/All Saints' Day|All Saints' Day]]"
-- '[[_Standards/db/Christmas|Christmas]]'
-- '[[_Standards/db/New Year|New Year]]'
-- '[[_Standards/db/Good Friday|Good Friday]]'
-- "[[_Standards/db/International Workers' Day|International Workers' Day]]"
-- '[[_Standards/db/Feast of the Ascension|Feast of the Ascension]]'
-follows: '[[_Standards/db/Kingdom of Bavaria|Kingdom of Bavaria]]'
-named after: '[[_Standards/db/Bajuwari|Bajuwari]]'
-lowest point: '[[_Standards/db/Kahl am Main|Kahl am Main]]'
-shares border with:
-- '[[_Standards/db/South Bohemian Region|South Bohemian Region]]'
-- '[[_Standards/db/Karlovy Vary Region|Karlovy Vary Region]]'
-- '[[_Standards/db/Baden-Württemberg|Baden-Württemberg]]'
-- '[[_Standards/db/Hesse|Hesse]]'
-- '[[_Standards/db/Saxony|Saxony]]'
-- '[[_Standards/db/Thuringia|Thuringia]]'
-- '[[_Standards/db/canton St. Gallen|canton St. Gallen]]'
-- '[[_Standards/db/Vorarlberg|Vorarlberg]]'
-- '[[_Standards/db/Upper Austria|Upper Austria]]'
-- '[[_Standards/db/Tyrol|Tyrol]]'
-- '[[_Standards/db/Salzburg|Salzburg]]'
-- '[[_Standards/db/Plzeň Region|Plzeň Region]]'
-anthem: '[[_Standards/db/Bayernhymne|Bayernhymne]]'
-history of topic: '[[_Standards/db/history of Bavaria|history of Bavaria]]'
-official language:
-- '[[_Standards/db/Standard High German|Standard High German]]'
-- '[[_Standards/db/Bavarian|Bavarian]]'
-described by source:
-- '[[_Standards/db/Brockhaus and Efron Encyclopedic Dictionary|Brockhaus and Efron Encyclopedic Dictionary]]'
-- '[[_Standards/db/Encyclopædia Britannica 11th edition|Encyclopædia Britannica 11th edition]]'
-- '[[_Standards/db/The Nuttall Encyclopædia|The Nuttall Encyclopædia]]'
-- '[[_Standards/db/Sytin Military Encyclopedia|Sytin Military Encyclopedia]]'
-- '[[_Standards/db/Jewish Encyclopedia of Brockhaus and Efron|Jewish Encyclopedia of Brockhaus and Efron]]'
-- '[[_Standards/db/Granat Encyclopedic Dictionary|Granat Encyclopedic Dictionary]]'
-- '[[_Standards/db/Small Brockhaus and Efron Encyclopedic Dictionary|Small Brockhaus and Efron Encyclopedic Dictionary]]'
-- '[[_Standards/db/Orthodox Theological Encyclopedia|Orthodox Theological Encyclopedia]]'
-- '[[_Standards/db/Vlastenský slovník historický|Vlastenský slovník historický]]'
-legislative body: '[[_Standards/db/Landtag of Bavaria|Landtag of Bavaria]]'
-coat of arms: '[[_Standards/db/coat of arms of Bavaria|coat of arms of Bavaria]]'
-flag: '[[_Standards/db/flag of Bavaria|flag of Bavaria]]'
-executive body: '[[_Standards/db/Government of Bavaria|Government of Bavaria]]'
-highest judicial authority: '[[_Standards/db/Bavarian Constitutional Court|Bavarian Constitutional Court]]'
-archives at: '[[_Standards/db/Bavarian Hauptstaatsarchiv|Bavarian Hauptstaatsarchiv]]'
-instance of: '[[_Standards/db/federated state of Germany|federated state of Germany]]'
-basic form of government: '[[_Standards/db/parliamentary republic|parliamentary republic]]'
-topic's main Wikimedia portal: '[[_Standards/db/Portal:Bavaria|Portal:Bavaria]]'
-office held by head of government: '[[_Standards/db/Minister-President of Bavaria|Minister-President of Bavaria]]'
-coordinates of southernmost point: Point(10.17833 47.2701)
-top-level Internet domain: '[[_Standards/db/.bayern|.bayern]]'
-Image Archive, Herder Institute: Q980
-open data portal: '[[_Standards/db/open bydata|open bydata]]'
-economy of topic: '[[_Standards/db/economy of Bavaria|economy of Bavaria]]'
-different from: '[[_Standards/db/Q108285653|Q108285653]]'
-award received: '[[_Standards/db/BigBrotherAwards|BigBrotherAwards]]'
-U.S. National Archives Identifier: 10044973
-geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20location%20map.svg
-relief location map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20relief%20location%20map.jpg
-pronunciation audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/De-Bayern.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Baviera.flac
-- http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Bajororsz%C3%A1g.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28BiblioCanet66%29-Bavi%C3%A8re.wav
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bavaria%20in%20Germany.svg
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif
-official website: https://www.bayern.de/
-IPA transcription: ˈbaɪ̯ɐn
-Swedish Anbytarforum: 6076.0
-Provenio UUID: 87968234-ee61-4d94-abe4-9e70ff9da6ae
-BHCL UUID:
-- b8111df2-3516-4d30-8087-1895837e1b9a
-- 53e90ed0-ce88-499f-8668-7823f6299b54
-ISO 3166-2 code: DE-BY
-HASC: DE.BY
-NUTS code: DE2
-FIPS 10-4 (countries and regions): GM02
-short name:
-- Boarn
-- Beieren
-- Beieren
-- Bayern
-- Baviera
-- Bavaria
-- Bavière
-official name:
-- Freistoot Boarn
-- Free State of Bavaria
-- Stato Libero di Baviera
-- Freistaat Bayern
-- État libre de Bavière
-demonym:
-- Bayerin
-- Bayerinnen
-- баварец
-- баварка
-- bavarese
-- Bayern
-- баварцы
-- Bayer
-- bajor
-coordinates of easternmost point: Point(13.83741 48.70057)
-Instagram username: bayern.de
-Threads username: bayern.de
-image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS058-E-13128%20-%20View%20of%20Germany.jpg
-ISNI: 0000000123218078
-privacy policy URL: https://www.bayern.de/datenschutz/
-impressum URL: https://www.bayern.de/impressum/
-terms of service URL: https://www.bayern.de/impressum/
-contact page URL: https://www.bayern.de/buergerservice/kontakt/
-email address: mailto:direkt@bayern.de
-phone number: +49-89-21650
-web feed URL:
-- https://www.bayern.de/rss/pm.php
-- https://www.bayern.de/rss/newsletter.php
-- https://www.bayern.de/rss/pm_alle.php
-coordinates of westernmost point: Point(8.97627 50.05033)
-patron saint: '[[_Standards/db/Virgin Mary|Virgin Mary]]'
-capital: '[[_Standards/db/Munich|Munich]]'
-highest point: '[[_Standards/db/Zugspitze|Zugspitze]]'
-contains the administrative territorial entity:
-- '[[_Standards/db/Lower Franconia|Lower Franconia]]'
-- '[[_Standards/db/Middle Franconia|Middle Franconia]]'
-- '[[_Standards/db/Upper Franconia|Upper Franconia]]'
-- '[[_Standards/db/Upper Palatinate|Upper Palatinate]]'
-- '[[_Standards/db/Lower Bavaria|Lower Bavaria]]'
-- '[[_Standards/db/Swabia|Swabia]]'
-- '[[_Standards/db/Upper Bavaria|Upper Bavaria]]'
-located in time zone: '[[_Standards/db/Central European Time|Central European Time]]'
-continent: '[[_Standards/db/Europe|Europe]]'
-located in the administrative territorial entity: '[[_Standards/db/Germany|Germany]]'
-country: '[[_Standards/db/Germany|Germany]]'
-water as percent of area: 2
-unemployment rate: 3
-compulsory education (minimum age): 6
-compulsory education (maximum age): 18
-social media followers: 24100
-part of: '[[_Standards/db/Southern Germany|Southern Germany]]'
-elevation above sea level: 503
-head of government: '[[_Standards/db/Markus Söder|Markus Söder]]'
-German regional key: 09
-OmegaWiki Defined Meaning: 7138
-area: 70551
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bavaria.svg
-Dewey Decimal Classification: 2--433
-Facebook username: bayern
-population: 13124737
-small logo or icon: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
-flag image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg
-budget: 71424666800
-native label: Freistaat Bayern
-inception: 1919-01-12
-coordinate location: Point(11.385555555 49.078611111)
-coordinates of northernmost point: Point(10.19564 50.55515)
-Commons category: Bavaria
-Commons gallery: Bayern
-YouTube handle: Bayern
-cssclasses: state
-publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
-dv_has_:
-  name_:
-    acm: بافاريا
-    af: Beiere
-    am: ባቫሪያ
-    an: Bavera
-    ang: Bægwaraland
-    ar: بافاريا
-    ary: باڤاريا
-    arz: بافاريا
-    ast: Estáu Llibre de Baviera
-    ay: Bayern suyu
-    az: Bavariya
-    azb: بایرن
-    ba: Бавария
-    ban: Bayern
-    bar: Bayern
-    be: Баварыя
-    be-tarask: Баварыя
-    bg: Бавария
-    bn: বায়ার্ন
-    br: Bavaria
-    bs: Bavarska
-    bxr: Бавари
-    ca: Baviera
-    cbk-zam: Baviera
-    cdo: Bayern
-    ce: Бавари
-    ceb: Bavaria
-    ckb: باڤاریا
-    co: Baviera
-    crh: Bavariya
-    crh-latn: Bavariya
-    cs: Bavorsko
-    csb: Bajerë
-    cv: Бавари
-    cy: Bafaria
-    da: Bayern
-    dag: Bavaria
-    de: Bayern
-    diq: Bavyera
-    dsb: Bayerska
-    el: Βαυαρία
-    eml: Bavéra
-    en: Bavaria
-    en-ca: Bavaria
-    en-gb: Bavaria
-    eo: Bavario
-    es: Baviera
-    et: Baieri
-    eu: Bavaria
-    ext: Baviera
-    fa: بایرن
-    fi: Baijeri
-    fr: Bavière
-    frp: Baviére
-    frr: Bayern
-    fur: Baviere
-    fy: Beieren
-    ga: An Bhaváir
-    gd: Bayern
-    gl: Baviera
-    gn: Baviera
-    gsw: Bayern
-    gu: બાવેરિયા
-    gv: Yn Vaveyr
-    hak: Bayern
-    he: בוואריה
-    hi: बायर्न
-    hr: Bavarska
-    hsb: Bayerska
-    hu: Bajorország
-    hy: Բավարիա
-    hyw: Պաւարիա
-    ia: Bavaria
-    id: Bayern
-    ie: Bavaria
-    ilo: Bavaria
-    inh: Бавари
-    io: Bavaria
-    is: Bæjaraland
-    it: Baviera
-    ja: バイエルン
-    jv: Bayern
-    ka: ბავარია
-    kaa: Bavariya
-    kg: Bavaria
-    kge: Bavaria
-    kk: Бавария
-    kn: ಬವೇರಿಯಾ
-    ko: 바이에른주
-    ksh: Bajore
-    ku: Bavyera
-    ku-latn: Bavyera
-    kw: Bavaria
-    ky: Бавария
-    la: Bavaria
-    lad: Baviera
-    lb: Bayern
-    lfn: Bayern
-    li: Beiere
-    lij: Bavea
-    lld: Paiern
-    lmo: Baviera
-    lt: Bavarija
-    ltg: Bavāreja
-    lv: Bavārija
-    lzh: 巴伐利亞
-    mg: Bavaria
-    mk: Баварија
-    ml: ബവേറിയ
-    mn: Бавар
-    mr: बायर्न
-    ms: Bavaria
-    mt: Bavarja
-    mul: Bavaria
-    my: ဘာဗေးရီးယားပြည်နယ်
-    mzn: باوریا
-    nah: Bavaria
-    nan: Bayern
-    nb: Bayern
-    nds: Bayern
-    nds-nl: Baiern
-    ne: बाभारिया
-    new: बभेरिया
-    nl: Beieren
-    nn: Bayern
-    nov: Bavaria
-    oc: Bavièra
-    os: Бавари
-    pa: ਬਾਈਆਨ
-    pam: Babyera
-    pap: Freistaat Bayern
-    pcd: Bavière
-    pdc: Bavaari
-    pfl: Bayan
-    pl: Bawaria
-    pms: Baviera
-    pnb: باویریا
-    ps: بایرن
-    pt: Baviera
-    pt-br: Baviera
-    qu: Bayern
-    rm: Baviera
-    ro: Bavaria
-    ru: Бавария
-    rue: Баварія
-    sah: Бавария
-    sc: Baviera
-    scn: Baviera
-    sco: Bavarie
-    sd: بويريا
-    se: Bayern
-    sgs: Bavarėjė
-    sh: Bavarska
-    si: බවයිරා
-    sk: Bavorsko
-    sl: Bavarska
-    sq: Bavaria
-    sr: Баварска
-    sr-ec: Баварска
-    stq: Bayern
-    su: Bayern
-    sv: Bayern
-    sw: Bavaria
-    szl: Bajery
-    ta: பவேரியா
-    te: బవేరియా
-    tet: Baviera
-    tg: Бавария
-    th: รัฐไบเอิร์น
-    tk: Bawariýa
-    tl: Bavaria
-    tly: Bavariya
-    tr: Bavyera
-    tt: Бавария
-    uk: Баварія
-    ur: بواریا
-    uz: Bavariya
-    vec: Baviera
-    vi: Bayern
-    vls: Beyern
-    vmf: Bayan
-    vo: Bayän
-    war: Bayern
-    wuu: 巴伐利亚
-    xmf: ბავარია
-    yi: בייערן
-    yo: Bavaria
-    yue: 拜仁
-    zea: Bayern
-    zh: 巴伐利亚州
-    zh-cn: 巴伐利亚州
-    zh-hans: 巴伐利亚州
-    zh-hant: 巴伐利亞州
-    zh-hk: 巴伐利亞州
-    zh-mo: 巴伐利亞州
-    zh-my: 巴伐利亚州
-    zh-sg: 巴伐利亚州
-    zh-tw: 巴伐利亞邦
 aliases:
 - An Bhaváir
 - Babyera
@@ -494,29 +90,537 @@ aliases:
 - 巴伐利亞邦
 - 拜仁
 - 바이에른주
+has_id_wikidata: Q980
+anthem: '[[_Standards/WikiData/WD~Bayernhymne,256615|WD~Bayernhymne,256615]]'
+archives_at: '[[_Standards/WikiData/WD~Bavarian_Hauptstaatsarchiv,812403|WD~Bavarian_Hauptstaatsarchiv,812403]]'
+area: 70551
+award_received: '[[_Standards/WikiData/WD~BigBrotherAwards,110530811|WD~BigBrotherAwards,110530811]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+BHCL_UUID:
+- b8111df2-3516-4d30-8087-1895837e1b9a
+- 53e90ed0-ce88-499f-8668-7823f6299b54
+budget: 71424666800
+capital: '[[_Standards/WikiData/WD~Munich,1726|WD~Munich,1726]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Bavaria,663063|WD~coat_of_arms_of_Bavaria,663063]]'
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bavaria.svg
+Commons_category: Bavaria
+Commons_gallery: Bayern
+compulsory_education_maximum_age_: 18
+compulsory_education_minimum_age_: 6
+confidential: public
+contact_page_URL: https://www.bayern.de/buergerservice/kontakt/
+contains_the_administrative_territorial_entity:
+- '[[_Standards/WikiData/WD~Lower_Franconia,10547|WD~Lower_Franconia,10547]]'
+- '[[_Standards/WikiData/WD~Middle_Franconia,10551|WD~Middle_Franconia,10551]]'
+- '[[_Standards/WikiData/WD~Upper_Franconia,10554|WD~Upper_Franconia,10554]]'
+- '[[_Standards/WikiData/WD~Upper_Palatinate,10555|WD~Upper_Palatinate,10555]]'
+- '[[_Standards/WikiData/WD~Lower_Bavaria,10559|WD~Lower_Bavaria,10559]]'
+- '[[_Standards/WikiData/WD~Swabia,10557|WD~Swabia,10557]]'
+- '[[_Standards/WikiData/WD~Upper_Bavaria,10562|WD~Upper_Bavaria,10562]]'
+continent: '[[_Standards/WikiData/WD~Europe,46|WD~Europe,46]]'
+coordinates_of_easternmost_point: Point(13.83741 48.70057)
+coordinates_of_northernmost_point: Point(10.12061 50.56479)
+coordinates_of_southernmost_point: Point(10.17833 47.2701)
+coordinates_of_westernmost_point: Point(8.97627 50.05033)
+coordinate_location: Point(11.385555555 49.078611111)
+country: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+cssclasses:
+- state
+demonym:
+- bavarese
+- bavaresi
+- Bayern
+- Bayer
+- баварец
+- баварка
+- баварцы
+- Bayerin
+- Bayerinnen
+- بَوَارِيٌّ
+- بَوَارِيَّةٌ
+- bajor
+described_by_source:
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082|WD~Orthodox_Theological_Encyclopedia,19211082]]'
+- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713|WD~Vlastenský_slovník_historický,19538713]]'
+detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Topografische%20Karte%20Bayern.tif
+Dewey_Decimal_Classification: 2--433
+different_from: '[[_Standards/WikiData/WD~Q108285653,108285653|WD~Q108285653,108285653]]'
+draft: false
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bavaria,100783598|WD~economy_of_Bavaria,100783598]]'
+elevation_above_sea_level: 503
+email_address: mailto:direkt@bayern.de
+executive_body: '[[_Standards/WikiData/WD~Government_of_Bavaria,812290|WD~Government_of_Bavaria,812290]]'
+expiryDate: ''
+Facebook_username: bayern
+FIPS_10_4_countries_and_regions_: GM02
+flag: '[[_Standards/WikiData/WD~flag_of_Bavaria,707471|WD~flag_of_Bavaria,707471]]'
+flag_image:
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28striped%29.svg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
+follows: '[[_Standards/WikiData/WD~Kingdom of Bavaria|WD~Kingdom of Bavaria]]'
+geoshape: http://commons.wikimedia.org/data/main/Data:Bayern.map
+German_regional_key: 09
+HASC: DE.BY
+has_time_started: 1919-01-12
+head_of_government: '[[_Standards/WikiData/WD~Markus_Söder,50664|WD~Markus_Söder,50664]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Bavarian_Constitutional_Court,812389|WD~Bavarian_Constitutional_Court,812389]]'
+highest_point: '[[_Standards/WikiData/WD~Zugspitze,3375|WD~Zugspitze,3375]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Bavaria,260260|WD~history_of_Bavaria,260260]]'
+icon: Flag_of_Bavaria_(lozengy)
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS058-E-13128%20-%20View%20of%20Germany.jpg
+Image_Archive_Herder_Institute: Q980
+impressum_URL: https://www.bayern.de/impressum/
+inception: 1919-01-12T00:00:00Z
+Instagram_username: bayern.de
+instance_of: '[[_Standards/WikiData/WD~federated_state_of_Germany,1221156|WD~federated_state_of_Germany,1221156]]'
+IPA_transcription: ˈbaɪ̯ɐn
+isDeleted: false
+ISNI: 0000000123218078
+ISO3166_2: DE-BY
+ISO_3166_2_code: DE-BY
+isReadOnly: false
+keywords: ''
+language_used:
+- '[[_Standards/WikiData/WD~East_Franconian_German,71223|WD~East_Franconian_German,71223]]'
+- '[[_Standards/WikiData/WD~Swabian,327274|WD~Swabian,327274]]'
+- '[[_Standards/WikiData/WD~Main_Franconian,497345|WD~Main_Franconian,497345]]'
+- '[[_Standards/WikiData/WD~Bavarian,29540|WD~Bavarian,29540]]'
+- '[[_Standards/WikiData/WD~German,188|WD~German,188]]'
+layout: ''
+legislative_body: '[[_Standards/WikiData/WD~Landtag_of_Bavaria,641439|WD~Landtag_of_Bavaria,641439]]'
+license: CC BY-SA 4.0
+linkTitle: ''
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Central_European_Time,25989|WD~Central_European_Time,25989]]'
+location:
+- 48.8642
+- 11.3382
+location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20location%20map.svg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Locator%20map%20Bavaria%20in%20Germany.svg
+lowest_point: '[[_Standards/WikiData/WD~Kahl_am_Main,175618|WD~Kahl_am_Main,175618]]'
+named_after: '[[_Standards/WikiData/WD~Bajuwari,156740|WD~Bajuwari,156740]]'
+native_label: Freistaat Bayern
+NUTS_code: DE2
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Minister_President_of_Bavaria,15303555|WD~Minister_President_of_Bavaria,15303555]]'
+official_language:
+- '[[_Standards/WikiData/WD~Standard_High_German,279350|WD~Standard_High_German,279350]]'
+- '[[_Standards/WikiData/WD~Bavarian,29540|WD~Bavarian,29540]]'
+official_name:
+- État libre de Bavière
+- Free State of Bavaria
+- Freistoot Boarn
+- Stato Libero di Baviera
+- Freistaat Bayern
+official_website: https://bayern.de
+OmegaWiki_Defined_Meaning: 7138
+open_data_portal: '[[_Standards/WikiData/WD~open.bydata,63427897|WD~open.bydata,63427897]]'
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20banner%20Neuschwanstein%20Castle.jpg
+part_of: '[[_Standards/WikiData/WD~Southern_Germany,46519|WD~Southern_Germany,46519]]'
+patron_saint:
+- '[[_Standards/WikiData/WD~Mary,345|WD~Mary,345]]'
+- '[[_Standards/WikiData/WD~Benno,61625|WD~Benno,61625]]'
+phone_number: +49-89-21650
+population:
+- 6451380
+- 3802515
+- 4292484
+- 5414831
+- 7084086
+- 9184466
+- 9515479
+- 10479386
+- 10902643
+- 12397614
+- 12443372
+- 12510331
+- 12519571
+- 12519728
+- 12538696
+- 12604244
+- 12843514
+- 12930751
+- 13038724
+- 13124737
+privacy_policy_URL: https://www.bayern.de/datenschutz/
+pronunciation_audio:
+- http://commons.wikimedia.org/wiki/Special:FilePath/De-Bayern.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/Hu-Bajororsz%C3%A1g.ogg
+- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28BiblioCanet66%29-Bavi%C3%A8re.wav
+- http://commons.wikimedia.org/wiki/Special:FilePath/Rm-sursilv-Baviera.flac
+Provenio_UUID: 87968234-ee61-4d94-abe4-9e70ff9da6ae
+public_holiday:
+- '[[_Standards/WikiData/WD~Epiphany,132001|WD~Epiphany,132001]]'
+- '[[_Standards/WikiData/WD~Feast_of_Corpus_Christi,152395|WD~Feast_of_Corpus_Christi,152395]]'
+- '[[_Standards/WikiData/WD~Reformation_Day,153093|WD~Reformation_Day,153093]]'
+- '[[_Standards/WikiData/WD~Assumption_of_Mary,162691|WD~Assumption_of_Mary,162691]]'
+- '[[_Standards/WikiData/WD~Easter_Monday,209663|WD~Easter_Monday,209663]]'
+- '[[_Standards/WikiData/WD~Whit_Monday,2512993|WD~Whit_Monday,2512993]]'
+- '[[_Standards/WikiData/WD~Second_Day_of_Christmas,15113728|WD~Second_Day_of_Christmas,15113728]]'
+- "[[_Standards/WikiData/WD~All_Saints'_Day,587|WD~All_Saints'_Day,587]]"
+- '[[_Standards/WikiData/WD~Christmas,19809|WD~Christmas,19809]]'
+- '[[_Standards/WikiData/WD~New_Year,34812|WD~New_Year,34812]]'
+- '[[_Standards/WikiData/WD~Good_Friday,40317|WD~Good_Friday,40317]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~Feast_of_the_Ascension,51638|WD~Feast_of_the_Ascension,51638]]'
+publish: true
+publishDate: ''
+relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Bavaria%20relief%20location%20map.jpg
+shares_border_with:
+- '[[_Standards/WikiData/WD~South_Bohemian_Region,188373|WD~South_Bohemian_Region,188373]]'
+- '[[_Standards/WikiData/WD~Karlovy_Vary_Region,191091|WD~Karlovy_Vary_Region,191091]]'
+- '[[_Standards/WikiData/WD~Baden_Württemberg,985|WD~Baden_Württemberg,985]]'
+- '[[_Standards/WikiData/WD~Hesse,1199|WD~Hesse,1199]]'
+- '[[_Standards/WikiData/WD~Saxony,1202|WD~Saxony,1202]]'
+- '[[_Standards/WikiData/WD~Thuringia,1205|WD~Thuringia,1205]]'
+- '[[_Standards/WikiData/WD~Canton_of_St._Gallen,12746|WD~Canton_of_St._Gallen,12746]]'
+- '[[_Standards/WikiData/WD~Vorarlberg,38981|WD~Vorarlberg,38981]]'
+- '[[_Standards/WikiData/WD~Upper_Austria,41967|WD~Upper_Austria,41967]]'
+- '[[_Standards/WikiData/WD~Tyrol,42880|WD~Tyrol,42880]]'
+- '[[_Standards/WikiData/WD~Salzburg,43325|WD~Salzburg,43325]]'
+- '[[_Standards/WikiData/WD~Plzeň_Region,46070|WD~Plzeň_Region,46070]]'
+short_name:
+- Baviera
+- Bayern
+- Bavière
+- Bavaria
+- Beieren
+- Boarn
+- Beieren
+small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bavaria%20%28lozengy%29.svg
+social_media_followers: 26300
+source: https://datahub.io/core/country-codes
+SpocWebEntityId: 36016
+Swedish_Anbytarforum: 6076
+tags:
+- geo/State
+terms_of_service_URL: https://www.bayern.de/impressum/
+Threads_username: bayern.de
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bavaria,10999412|WD~Portal_Bavaria,10999412]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bayern,20571232|WD~.bayern,20571232]]'
+twinned_administrative_body:
+- '[[_Standards/WikiData/WD~Western_Cape,127167|WD~Western_Cape,127167]]'
+- '[[_Standards/WikiData/WD~Gauteng,133083|WD~Gauteng,133083]]'
+- '[[_Standards/WikiData/WD~Karnataka,1185|WD~Karnataka,1185]]'
+- '[[_Standards/WikiData/WD~Georgia,1428|WD~Georgia,1428]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~São_Paulo,175|WD~São_Paulo,175]]'
+- '[[_Standards/WikiData/WD~Quebec,176|WD~Quebec,176]]'
+- '[[_Standards/WikiData/WD~Shandong,43407|WD~Shandong,43407]]'
+type: State
+unemployment_rate: 3
+U_S_National_Archives_Identifier: 10044973
+water_as_percent_of_area: 2
+web_feed_URL:
+- https://www.bayern.de/rss/newsletter.php
+- https://www.bayern.de/rss/pm_alle.php
+- https://www.bayern.de/rss/pm.php
+YouTube_handle: Bayern
+dv_has_name: Bayern
+dv_has_name_abbreviated: BY
+dv_has_:
+  image_for_:
+    coat_of_arms: '[[./Bayern/Coat_of_arms_of_Bavaria.svg|Coat_of_arms_of_Bavaria.svg|350]]'
+    flag: '[[./Bayern/Flag_of_Bavaria~lozengy.svg|Flag_of_Bavaria~lozengy.svg|200]]'
+  map: '[DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson)'
+  name_:
+    acm: بافاريا
+    af: Beiere
+    am: ባቫሪያ
+    an: Bavera
+    ang: Bægwaraland
+    ar: بافاريا
+    ary: باڤاريا
+    arz: بافاريا
+    ast: Estáu Llibre de Baviera
+    ay: Bayern suyu
+    az: Bavariya
+    azb: بایرن
+    ba: Бавария
+    ban: Bayern
+    bar: Bayern
+    be: Баварыя
+    be_tarask: Баварыя
+    bg: Бавария
+    bn: বায়ার্ন
+    br: Bavaria
+    bs: Bavarska
+    bxr: Бавари
+    ca: Baviera
+    cbk_zam: Baviera
+    cdo: Bayern
+    ce: Бавари
+    ceb: Bavaria
+    ckb: باڤاریا
+    co: Baviera
+    crh: Bavariya
+    crh_latn: Bavariya
+    cs: Bavorsko
+    csb: Bajerë
+    cv: Бавари
+    cy: Bafaria
+    da: Bayern
+    dag: Bavaria
+    de: Bayern
+    diq: Bavyera
+    dsb: Bayerska
+    el: Βαυαρία
+    eml: Bavéra
+    en: Bavaria
+    en_ca: Bavaria
+    en_gb: Bavaria
+    eo: Bavario
+    es: Baviera
+    et: Baieri
+    eu: Bavaria
+    ext: Baviera
+    fa: بایرن
+    fi: Baijeri
+    fr: Bavière
+    frp: Baviére
+    frr: Bayern
+    fur: Baviere
+    fy: Beieren
+    ga: An Bhaváir
+    gd: Bayern
+    gl: Baviera
+    gn: Baviera
+    gsw: Bayern
+    gu: બાવેરિયા
+    gv: Yn Vaveyr
+    hak: Bayern
+    he: בוואריה
+    hi: बायर्न
+    hr: Bavarska
+    hsb: Bayerska
+    hu: Bajorország
+    hy: Բավարիա
+    hyw: Պաւարիա
+    ia: Bavaria
+    id: Bayern
+    ie: Bavaria
+    ilo: Bavaria
+    inh: Бавари
+    io: Bavaria
+    is: Bæjaraland
+    it: Baviera
+    ja: バイエルン
+    jv: Bayern
+    ka: ბავარია
+    kaa: Bavariya
+    kg: Bavaria
+    kge: Bavaria
+    kk: Бавария
+    kn: ಬವೇರಿಯಾ
+    ko: 바이에른주
+    ksh: Bajore
+    ku: Bavyera
+    ku_latn: Bavyera
+    kw: Bavaria
+    ky: Бавария
+    la: Bavaria
+    lad: Baviera
+    lb: Bayern
+    lfn: Bayern
+    li: Beiere
+    lij: Bavea
+    lld: Paiern
+    lmo: Baviera
+    lt: Bavarija
+    ltg: Bavāreja
+    lv: Bavārija
+    lzh: 巴伐利亞
+    mg: Bavaria
+    mk: Баварија
+    ml: ബവേറിയ
+    mn: Бавар
+    mr: बायर्न
+    ms: Bavaria
+    mt: Bavarja
+    mul: Bavaria
+    my: ဘာဗေးရီးယားပြည်နယ်
+    mzn: باوریا
+    nah: Bavaria
+    nan: Bayern
+    nb: Bayern
+    nds: Bayern
+    nds_nl: Baiern
+    ne: बाभारिया
+    new: बभेरिया
+    nl: Beieren
+    nn: Bayern
+    nov: Bavaria
+    oc: Bavièra
+    os: Бавари
+    pa: ਬਾਈਆਨ
+    pam: Babyera
+    pap: Freistaat Bayern
+    pcd: Bavière
+    pdc: Bavaari
+    pfl: Bayan
+    pl: Bawaria
+    pms: Baviera
+    pnb: باویریا
+    ps: بایرن
+    pt: Baviera
+    pt_br: Baviera
+    qu: Bayern
+    rm: Baviera
+    ro: Bavaria
+    ru: Бавария
+    rue: Баварія
+    sah: Бавария
+    sc: Baviera
+    scn: Baviera
+    sco: Bavarie
+    sd: بويريا
+    se: Bayern
+    sgs: Bavarėjė
+    sh: Bavarska
+    si: බවයිරා
+    sk: Bavorsko
+    sl: Bavarska
+    sq: Bavaria
+    sr: Баварска
+    sr_ec: Баварска
+    stq: Bayern
+    su: Bayern
+    sv: Bayern
+    sw: Bavaria
+    szl: Bajery
+    ta: பவேரியா
+    te: బవేరియా
+    tet: Baviera
+    tg: Бавария
+    th: รัฐไบเอิร์น
+    tk: Bawariýa
+    tl: Bavaria
+    tly: Bavariya
+    tr: Bavyera
+    tt: Бавария
+    uk: Баварія
+    ur: بواریا
+    uz: Bavariya
+    vec: Baviera
+    vi: Bayern
+    vls: Beyern
+    vmf: Bayan
+    vo: Bayän
+    war: Bayern
+    wuu: 巴伐利亚
+    xmf: ბავარია
+    yi: בייערן
+    yo: Bavaria
+    yue: 拜仁
+    zea: Bayern
+    zh: 巴伐利亚州
+    zh_cn: 巴伐利亚州
+    zh_hans: 巴伐利亚州
+    zh_hant: 巴伐利亞州
+    zh_hk: 巴伐利亞州
+    zh_mo: 巴伐利亞州
+    zh-my: 巴伐利亚州
+    zh_sg: 巴伐利亚州
+    zh_tw: 巴伐利亞邦
+  url_for_:
+    code_repository: https://github.com/SpocWiki/Germany-Bayern
+dv_has_place_country: '[[../../Germany|Germany]]'
+dv_is_a_: '[[../../../../../Geography/Place/Administrative_Area/State|State]]'
+dv_has_place_longitude: 11.3382
+dv_has_place_latitude: 48.8642
+dv_is_:
+  same_as:
+  - '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern|Bayern]]'
+  - '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public|Bayern.public]]'
+  - '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal|Bayern.internal]]'
+  - '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect|Bayern.protect]]'
+  - '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private|Bayern.private]]'
+  - '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal|Bayern.personal]]'
+  - '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret|Bayern.secret]]'
+dv_has_url_for_code_repository: https://github.com/SpocWiki/Germany-Bayern
+dv_has_image_for_coat_of_arms: '[[./Bayern/Coat_of_arms_of_Bavaria.svg|Coat_of_arms_of_Bavaria.svg|350]]'
+dv_has_image_for_flag: '[[./Bayern/Flag_of_Bavaria~lozengy.svg|200]]'
+dv_has_map: '[DEU-Germany-1591-Bayern](./Bayern/DEU-Germany-1591-Bayern.geojson)'
+dv_is_same_as:
+- '[[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern|Bayern]]'
+- '[[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public|Bayern.public]]'
+- '[[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal|Bayern.internal]]'
+- '[[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect|Bayern.protect]]'
+- '[[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private|Bayern.private]]'
+- '[[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal|Bayern.personal]]'
+- '[[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret|Bayern.secret]]'
+has_boundary: '[[_Standards/WikiData/WD~Boundary_Stone_147,1489790|WD~Boundary_Stone_147,1489790]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Category_Deaths_in_Bavaria,6377970|WD~Category_Deaths_in_Bavaria,6377970]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bavaria,7032610|WD~Category_Bavaria,7032610]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Category_People_from_Bavaria,7116505|WD~Category_People_from_Bavaria,7116505]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Category_Burials_in_Bavaria,8328514|WD~Category_Burials_in_Bavaria,8328514]]'
+category_for_films_shot_at_this_location: '[[_Standards/WikiData/WD~Category_Films_shot_in_Bavaria,8458038|WD~Category_Films_shot_in_Bavaria,8458038]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Category_Births_in_Bavaria,14977903|WD~Category_Births_in_Bavaria,14977903]]'
+category_for_maps_or_plans: '[[_Standards/WikiData/WD~Category_Maps_of_Bavaria,84048845|WD~Category_Maps_of_Bavaria,84048845]]'
+category_for_the_view_of_the_item: '[[_Standards/WikiData/WD~Category_Views_of_Bavaria,104597686|WD~Category_Views_of_Bavaria,104597686]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Govdirectory,108109790|WD~Govdirectory,108109790]]'
+spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Kugelpanorama%20des%20Schiller-Gymnasiums%20Hof%2020240520.jpg
+official_jobs_URL: https://sei-dabay.de/
+IMDb_keyword: bavaria
+P1015: 90614476
+WikiTree_category_or_space: 'Category: Bavaria, Germany'
+hist_area_km2: {"100": 19.26,"125": 140.47,"150": 114.06,"175": 188.52,"200": 321.98,"225": 631.87,"250": 987.63,"275": 1486.41,"300": 2178.07,"325": 3369.39,"350": 3155.54,"375": 3799.16,"400": 4362.63,"425": 5356.69,"450": 5885.42,"475": 6361.16,"500": 5661.96,"525": 4538.44,"550": 3349.26,"575": 2599.46,"600": 2135.48,"625": 1657.19,"650": 1329.8,"675": 1087.7,"700": 957.45,"725": 908.56,"750": 767.16,"775": 693.94,"800": 639.86,"825": 521.35,"850": 426.09,"875": 346.7,"900": 306.35,"925": 249.99,"950": 207.11,"975": 186.2,"1000": 173.98,"1025": 165.79,"1050": 160.27,"1075": 149.42,"1100": 143.17,"1125": 140.95,"1150": 130.85,"1175": 125.98,"1200": 121.75,"1225": 113.33,"1250": 101.72,"1275": 98.92,"1300": 91.77,"1325": 84.73,"1350": 81.32,"1375": 77.03,"1400": 71.55,"1425": 67.7,"1450": 62.53,"1475": 57.5,"1500": 54.33,"1525": 50.04,"1550": 47.51,"1575": 42.53,"1600": 40.78,"1625": 35.65,"1650": 33.45,"1675": 30.92,"1700": 27.33,"1725": 25.56,"1750": 22.81,"1775": 20.42,"1800": 19.79,"1825": 18.42,"1850": 17.3,"1875": 15.34,"1900": 15.0,"1925": 13.4,"1950": 11.89,"1975": 11.86,"2000": 10.42,"2025": 9.66,"2050": 8.66,"2075": 8.66,"2100": 7.24,"2125": 6.12,"2150": 5.88,"2175": 5.62,"2200": 4.62,"2225": 4.27,"2250": 3.43,"2275": 2.88,"2300": 3.07,"2325": 2.62,"2350": 2.18,"2375": 2.48,"2400": 2.22,"2425": 1.75,"2450": 1.48,"2475": 1.28,"2500": 1.22,"2525": 1.05,"2550": 0.93,"2575": 0.8,"2600": 0.77}
 ---
-# Bavaria 
 
-[name::Bayern] 
-[name-abbr::BY] 
-#has_/url_for_/code_repository :: https://github.com/SpocWiki/Germany-Bayern 
+# [[Bayern]] 
 
-This Repository/Folder/Wiki/Vault contains freely usable Text and Data 
-covering the German state of [Bavaria](https://en.wikipedia.org/wiki/Bavaria).   
+name = `=this.dv_has_name` 
+has_name_abbreviated = `=this.dv_has_name_abbreviated` 
+has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-This Repository is intended to be shared as a common basis, 
-by including it as a Sub-Repository in local File-Systems, 
-specifically as part of the [\_Standards](https://github.com/SpocWiki/_Standards) Repository. 
+> [!info]
+This Article is only a Stub. 
+If you need detailed geographical or historical Information, 
+do check out [this 'Bavaria' Sub-Repository](https://github.com/SpocWiki/Germany-Bayern) 
+into a sub-folder named `/Bavaria/` next to this File, 
+so that this Link into the Sub-Repository works: [[Bavaria/ReadMe|ReadMe]] 
 
-Check out this Repository into this Subfolder: 
-\_Standards\geo\Continent\Europe\Europe~Central\Germany\Germany~West\Bayern 
+> [!warning] This can considerably increase the total size and depth of your wiki.
+
+
+## #has_/place_/city 
+
+| **City**                                                                                               |   persons |
+| ------------------------------------------------------------------------------------------------------ | --------: |
+| [[Bayern/counties~Bayern/München,County/City/München,City\|Munich]] (München)                          | 1 478 638 |
+| Nuremberg ([[Bayern/counties~Bayern/Nürnberg\|Nürnberg]])                                              |   522 554 |
+| [[Bayern/counties~Bayern/Augsburg,County/cities~Augsburg/Augsburg,City\|Augsburg]]                     |   294 647 |
+| [[Bayern/counties~Bayern/Regensburg-City/City/Regensburg\|Regensburg]]                                 |   145 901 |
+| [[Bayern/counties~Bayern/Ingolstadt\|Ingolstadt]]                                                      |   136 468 |
+| [[Bayern/counties~Bayern/Würzburg-City/City/Würzburg\|Würzburg]]                                       |   131 316 |
+| [[Bayern/counties~Bayern/Fürth\|Fürth]]                                                                |   130 126 |
+| [[Bayern/counties~Bayern/Erlangen\|Erlangen]]                                                          |   112 220 |
+| [[Bayern/counties~Bayern/Bamberg-City/City/Bamberg\|Bamberg]]                                          |    72 764 |
+| [[Bayern/counties~Bayern/Bayreuth-City/City/Bayreuth\|Bayreuth]]                                       |    72 289 |
+| [[Bayern/counties~Bayern/Aschaffenburg,County/cities~Aschaffenburg/Aschaffenburg,City\|Aschaffenburg]] |    71 692 |
+| [[Bayern/counties~Bayern/Landshut-City/City/Landshut\|Landshut]]                                       |    67 880 |
+| [[Bayern/counties~Bayern/Kempten~Allgäu/City/Kempten\|Kempten]] (Allgäu)                               |    65 050 |
+| [[Bayern/counties~Bayern/Rosenheim-City/City/Rosenheim\|Rosenheim]]                                    |    63 284 |
+| [[Bayern/counties~Bayern/Neu-Ulm,County/cities~Neu-Ulm/Neu-Ulm,City\|Neu-Ulm]]                         |    60 597 |
+| [[Bayern/counties~Bayern/Schweinfurt-City/City/Schweinfurt\|Schweinfurt]]                              |    53 242 |
+| [[Bayern/counties~Bayern/Passau-City/City/Passau\|Passau]]                                             |    51 907 |
+| [[Bayern/counties~Bayern/Freising/cities~Freising/Freising-city/City/Freising\|Freising]]              |    47 727 |
+| [[Bayern/counties~Bayern/Straubing\|Straubing]]                                                        |    46 167 |
+| [[Bayern/counties~Bayern/Dachau/cities~Dachau/Dachau-city/City/Dachau\|Dachau]]                        |    45 965 |
+
 
 ## #has_/text_of_/abstract  
 
 > **Bavaria**, officially the Free State of Bavaria, is a state in the southeast of Germany. 
 > With an area of 70,550.19 km2 (27,239.58 sq mi), it is the largest German state by land area, 
 > comprising roughly a fifth of the total land area of Germany. 
->
+> 
 > With over 13 million inhabitants, it is the second most populous German state 
 > behind North Rhine-Westphalia, but due to its large physical size 
 > its population density is below the German average. 
@@ -551,48 +655,119 @@ Check out this Repository into this Subfolder:
 
 ## #has_/image_for_/coat_of_arms 
 
-#has_/image_for_/coat_of_arms :: ![[./Coat_of_arms_of_Bavaria.svg|250]]<img src="./Coat_of_arms_of_Bavaria.svg" width=250/> 
+has_image_for_coat_of_arms = `=embed(this.dv_has_image_for_coat_of_arms)`
 
-## #has_/image_for_/flag
+## #has_/image_for_/flag 
 
-#has_/image_for_/flag :: ![[./Flag_of_Bavaria~lozengy.svg|200]] <img src="./Flag_of_Bavaria~lozengy.svg" width=200/> 
+has_image_for_flag = `=embed(this.dv_has_image_for_flag)`
 
-## #has_/map :: [DEU-Germany-1591-Bayern](./DEU-Germany-1591-Bayern.geojson) 
+## #has_/map `=this.dv_has_map`
 
 ```leaflet
 id: Bayern
-zoomFeatures: true 
-minZoom: 2 
+zoomFeatures: false 
+minZoom: 4 
 maxZoom: 18
-geojsonFolder: ./
-markerFolder: ./
+defaultZoom: 7 
+coordinates: [[Bayern]] 
+markerFile: [[Bayern]] 
+geojsonFolder: ./Bayern/
+markerFolder: ./Bayern/
 ```
- 
-
-has_place_country:: [[Germany]]  
-Capital ::[[counties~Bayern/München,County/City/München,City|München,City]]]] 
 
 
+### #has_map_/topologic 
 
-#is_a :: [[City]]
-[has_place_longitude::11.3382] 
-[has_place_latitude::48.8642] 
+```leaflet
+id: Austria_Topological
+image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+bounds:
+  - [-90, -180]
+  - [90, 180]
+width: 100%
+minZoom: 2
+maxZoom: 8
+defaultZoom: 7 
+coordinates: [[Bayern]] 
+markerFile: [[Bayern]] 
+geojsonFolder: ./Bayern/
+markerFolder: ./Bayern/
+unit: px
+scale: 1
+darkMode: false
+```
+
+
+
+has_place_country = `=this.dv_has_place_country`
+Capital ::  [[Bayern/counties~Bayern/München,County/City/München,City|München,City]] 
+
+ is_a = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 [Population::] 
+
+
+### Area by Elevation 
+
+```dataviewjs
+await dv.view("_orga/JS/SparkLine", { histogram: dv.current().hist_area_km2
+, scale: "lin"
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+```dataviewjs
+dv.view("_orga/JS/Histogram", {
+value: dv.current().hist_area_km2
+, scale: "lin", width: 60
+, minRow: 0
+, maxRow: 30
+, widthFrom : "all"
+});
+```
+
+
+
+
+## #has_/text_of_/abstract 
+
+> Bavaria, officially the Free State of Bavaria, is a state in the southeast of Germany. 
+> With an area of 70,550.19 km2 (27,239.58 sq mi), it is the largest German state by land area, 
+> comprising approximately 1/5 of the total land area of Germany, 
+> and with over 13.08 million inhabitants, it is the second most populous German state, 
+> behind only North Rhine-Westphalia; however, 
+> due to its large land area, its population density is below the German average. 
+> Major cities include Munich (its capital and largest city, which is also the third largest city in Germany), 
+> Nuremberg, and Augsburg.
+>
+> The history of Bavaria includes its earliest settlement by Iron Age Celtic tribes, 
+> followed by the conquests by the Roman Empire in the 1st century BC, when the territory was incorporated into the provinces of Raetia and Noricum. It became the Duchy of Bavaria (a stem duchy) in the 6th century AD following the collapse of the Western Roman Empire. It was later incorporated into the Holy Roman Empire, became the independent Kingdom of Bavaria after 1806, joined the Prussian-led German Empire in 1871 while retaining its title of kingdom, and finally became a state of the Federal Republic of Germany in 1949.
+>
+> Bavaria has a distinct culture, largely because of its Catholic heritage and conservative traditions, which includes a language, cuisine, architecture, festivals and elements of Alpine symbolism. It also has the second-largest economy among the German states by GDP figures, giving it the status of a wealthy German region.
+>
+> Contemporary Bavaria also includes parts of the historical regions of Franconia and Swabia, in addition to Alt**Bayern**.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Bavaria) 
 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe|ReadMe]] 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern|Bayern]] 
 
-### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.public|ReadMe.public]] 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.public|Bayern.public]] 
 
-### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.internal|ReadMe.internal]] 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.internal|Bayern.internal]] 
 
-### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.protect|ReadMe.protect]] 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.protect|Bayern.protect]] 
 
-### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.private|ReadMe.private]] 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.private|Bayern.private]] 
 
-### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.personal|ReadMe.personal]] 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.personal|Bayern.personal]] 
 
-### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern/ReadMe.secret|ReadMe.secret]] 
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany/Germany~West/Bayern.secret|Bayern.secret]] 
 
